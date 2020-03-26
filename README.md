@@ -11,6 +11,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 ## Lista de Conteúdo
 
-|Descrição|Tipo|Link|
-|---|---|---|---|---|
-|   |   |   |   |   |
+| Descrição      | Tipo (Curso, Livro, etc)           | Link  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
