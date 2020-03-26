@@ -9,6 +9,6 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 ## Lista de Conteúdo
 
-| Descrição      | Tipo (Curso, Livro, etc)           | Link  |
-| ------------- |:-------------:| -----:|
+| Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma | Link  |
+| ------------- |:-------------:| -----:| -----:|-----:|
 
