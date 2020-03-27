@@ -21,3 +21,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Tim Tec | Cursos | Sim | PT-BR | https://cursos.timtec.com.br/ |
 | Veduca | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists |
+| O Guia (comovente) de Ruby do Why | Livro | Não | PT | http://why.carlosbrando.com/index.html |
+| Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
