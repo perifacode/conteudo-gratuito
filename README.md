@@ -18,5 +18,6 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | FGV Online | Cursos | Sim | PT-BR | https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733 |
 | FreeCodeCamp | Cursos | Sim | EN | https://www.freecodecamp.org/ |
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
+| Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Tim Tec | Cursos | Sim | PT-BR | https://cursos.timtec.com.br/ |
 | Veduca | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists |
