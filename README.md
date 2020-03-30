@@ -23,4 +23,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | O Guia (comovente) de Ruby do Why | Livro | Não | PT | http://why.carlosbrando.com/index.html |
 | Tim Tec | Cursos | Sim | PT-BR | https://cursos.timtec.com.br/ |
 | Veduca | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists |
-
+| Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
