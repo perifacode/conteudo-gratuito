@@ -20,4 +20,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Tim Tec | Cursos | Sim | PT-BR | https://cursos.timtec.com.br/ |
+| Senai | Cursos | Sim | PT-BR | https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos | 
 | Veduca | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists |
+| You Don't Know JS (1ª edição traduzida) | Livro | Não | PT-BR | https://github.com/cezaraugusto/You-Dont-Know-JS
+| You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS
