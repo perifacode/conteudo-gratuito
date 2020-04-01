@@ -28,5 +28,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Udemy | Cursos | Não | PT-BR | https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity |
 | Veduca | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists |
 | Vim para Noobs | Livro | Não | PT-BR | https://leanpub.com/vimparanoobs |
-| You Don't Know JS (1ª edição traduzida) | Livro | Não | PT-BR | https://github.com/cezaraugusto/You-Dont-Know-JS
+| You Don't Know JS (tradução) | Livro | Não | PT-BR | https://github.com/cezaraugusto/You-Dont-Know-JS
 | You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS
