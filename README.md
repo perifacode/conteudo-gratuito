@@ -23,8 +23,10 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | O Guia (comovente) de Ruby do Why | Livro | Não | PT | http://why.carlosbrando.com/index.html |
+| Senai | Cursos | Sim | PT-BR | https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos | 
 | Tim Tec | Cursos | Sim | PT-BR | https://cursos.timtec.com.br/ |
 | Udemy | Cursos | Não | PT-BR | https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity |
 | Veduca | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists |
 | Vim para Noobs | Livro | Não | PT-BR | https://leanpub.com/vimparanoobs |
-
+| You Don't Know JS (1ª edição traduzida) | Livro | Não | PT-BR | https://github.com/cezaraugusto/You-Dont-Know-JS
+| You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS
