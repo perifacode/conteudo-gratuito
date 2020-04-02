@@ -32,3 +32,6 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Digital Innovation One| Cursos | Sim | PT-BR |https://web.digitalinnovation.one/browse 
 | You Don't Know JS (tradução) | Livro | Não | PT-BR | https://github.com/cezaraugusto/You-Dont-Know-JS
 | You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS
+| DevDojo| Youtube | Não | PT-BR| https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g |
+| Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
+| Rocketseat | Youtube/Cursos | Não | PT-BR | https://rocketseat.com.br/starter |
