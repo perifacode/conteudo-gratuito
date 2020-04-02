@@ -27,4 +27,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Udemy | Cursos | Não | PT-BR | https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity |
 | Veduca | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists |
 | Vim para Noobs | Livro | Não | PT-BR | https://leanpub.com/vimparanoobs |
-
+| Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos
+| Digital Innovation One| Cursos | Sim | PT-BR |https://web.digitalinnovation.one/browse 
