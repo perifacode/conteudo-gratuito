@@ -35,3 +35,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | DevDojo| Youtube | Não | PT-BR| https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g |
 | Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
 | Rocketseat | Youtube/Cursos | Não | PT-BR | https://rocketseat.com.br/starter |
+| Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
+| Willian Justen de Vasconcellos | Curso/Udemy | Não | PT-BR | https://www.udemy.com/course/git-e-github-para-iniciantes/ |
