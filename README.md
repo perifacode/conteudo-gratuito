@@ -12,6 +12,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | ------------- |:-------------:| :-----:| :-----:|:-----:|
 | Balta.io | Cursos | Não | PT-BR | https://balta.io/cursos |
 | Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
+| Clojure for the Brave and True | Livro |Não| EN | https://www.braveclojure.com/ |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
 | Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
@@ -25,6 +26,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | FGV Online | Cursos | Sim | PT-BR | https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733 |
 | FreeCodeCamp | Cursos | Sim | EN | https://www.freecodecamp.org/ |
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
+| Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers
 | Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
