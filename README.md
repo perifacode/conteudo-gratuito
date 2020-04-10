@@ -13,6 +13,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Amanda Vilela | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
 | Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
+| cursae | Cursos | Sim | PT-BR | https://www.cursae.com.br/ |
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
 | Curso em Vídeo (Gustavo Guanabara) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR | https://www.youtube.com/user/cursosemvideo/
 | Docker para Desenvolvedores | Livro | Não | PT-BR | https://leanpub.com/dockerparadesenvolvedores |
