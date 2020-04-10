@@ -10,6 +10,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma | Link  |
 | ------------- |:-------------:| :-----:| :-----:|:-----:|
+| Amanda Vilela | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
 | Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
