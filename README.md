@@ -11,6 +11,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma | Link  |
 | ------------- |:-------------:| :-----:| :-----:|:-----:|
 | Amanda Vilela | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w |
+| Código Fonte TV| Youtube | Não | PT-BR | https://www.youtube.com/user/codigofontetv |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
 | Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
 | cursae | Cursos | Sim | PT-BR | https://www.cursae.com.br/ |
@@ -21,6 +22,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Eloquent Javascript (3ª edição)| Livro | Não | EN | https://eloquentjavascript.net/ |
 | Eloquente Javascript (2ª edição)| Livro | Não | PT-BR | https://braziljs.github.io/eloquente-javascript/ |
 | Escola Front-End | Youtube/Cursos | Não | PT-BR  | https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ |
+| Ferreira Studios| Youtube |Não | PT-BR | https://www.youtube.com/user/devleonardoferreira |
 | FGV Online | Cursos | Sim | PT-BR | https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733 |
 | FreeCodeCamp | Cursos | Sim | EN | https://www.freecodecamp.org/ |
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
