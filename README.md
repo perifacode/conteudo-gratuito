@@ -15,6 +15,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Balta.io | Cursos | Não | PT-BR | https://balta.io/cursos |
 | Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
+| Collabplay |Cursos/Youtube | Sim | PT-BR | https://collabplay.online/br/ |
 | Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
 | cursae | Cursos | Sim | PT-BR | https://www.cursae.com.br/ |
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
