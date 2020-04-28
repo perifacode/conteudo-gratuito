@@ -18,6 +18,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Clojure for the Brave and True | Livro |Não| EN | https://www.braveclojure.com/ |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
 | Collabplay |Cursos/Youtube | Sim | PT-BR | https://collabplay.online/br/ |
+| Collabcode | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg |
 | Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
 | cursae | Cursos | Sim | PT-BR | https://www.cursae.com.br/ |
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
@@ -32,6 +33,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | eXcript | Youtube | Não | PT-BR | https://www.youtube.com/user/excriptvideo |
 | Ferreira Studios| Youtube |Não | PT-BR | https://www.youtube.com/user/devleonardoferreira |
 | FGV Online | Cursos | Sim | PT-BR | https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733 |
+| Filipe Dechamps | YouTube | Não | PT-BR | https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw |
 | FreeCodeCamp | Cursos | Sim | EN | https://www.freecodecamp.org/ |
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers
