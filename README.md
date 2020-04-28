@@ -37,6 +37,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers
 | Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos
 | Michelli Brito | Youtube | Nao | PT-BR | https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow
+| NodeSchool | Cursos | Não | PT-BR | https://nodeschool.io/ |
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
 | O Guia (comovente) de Ruby do Why | Livro | Não | PT | http://why.carlosbrando.com/index.html |
