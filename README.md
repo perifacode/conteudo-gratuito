@@ -15,6 +15,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Balta.io | Cursos | Não | PT-BR | https://balta.io/cursos |
 | CaveriaTech | Youtube | Não | PT-BR | https://www.youtube.com/user/caveiratech2 |
 | Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
+| CIJUN Academy | Cursos | Sim | PT-BR | https://cijun.sp.gov.br/academy/|
 | Clojure for the Brave and True | Livro |Não| EN | https://www.braveclojure.com/ |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
 | Collabplay |Cursos/Youtube | Sim | PT-BR | https://collabplay.online/br/ |
