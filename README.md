@@ -43,6 +43,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Rocketseat | Youtube/Cursos | Não | PT-BR | https://rocketseat.com.br/starter |
 | Senai | Cursos | Sim | PT-BR | https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos |
 | Tim Tec | Cursos | Sim | PT-BR | https://cursos.timtec.com.br/ |
+| Torne-se um Programador | Cursos | Não | PT-BR | http://www.torneseumprogramador.com.br/ |
 | Udemy | Cursos | Não | PT-BR | https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity 
 | Veduca | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists |
 | Vim para Noobs | Livro | Não | PT-BR | https://leanpub.com/vimparanoobs |
