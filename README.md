@@ -38,11 +38,11 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | FreeCodeCamp | Cursos | Sim | EN | https://www.freecodecamp.org/ |
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
 | Getting Started with Redux | Curso | Não | EN | https://egghead.io/courses/getting-started-with-redux | 
-| José Carlos Macoratti | Youtube | Nãoo | PT-BR | https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw | 
+| José Carlos Macoratti | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw | 
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers
 | Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos
 | Michelli Brito | Youtube | Nao | PT-BR | https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow
-| Microsoft Learn | Cursos | Não | PT-BR/EN | https://docs.microsoft.com/pt-br/learn/ |
+| Microsoft Learn | Cursos | Não | PT/EN | https://docs.microsoft.com/pt-br/learn/ |
 | NodeSchool | Cursos | Não | PT-BR | https://nodeschool.io/ |
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
