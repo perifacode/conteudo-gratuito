@@ -62,4 +62,3 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | You Don't Know JS (tradução) | Livro | Não | PT-BR | https://github.com/cezaraugusto/You-Dont-Know-JS |
 | You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS |
 | Xamarin - Maratona live 2019 | Youtube| Não | PT-BR | https://www.youtube.com/watch?v=U4zJuHJxJjY | 
-
