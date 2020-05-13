@@ -10,6 +10,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma | Link  |
 | ------------- |:-------------:| :-----:| :-----:|:-----:|
+| O Universo da Programação | YouTube | Não | pt-BR | https://www.youtube.com/c/ouniversodaprogramacao |
 | Amanda Vilela | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w |
 | Código Fonte TV| Youtube | Não | PT-BR | https://www.youtube.com/user/codigofontetv |
 | Balta.io | Cursos | Não | PT-BR | https://balta.io/cursos |
