@@ -13,6 +13,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Amanda Vilela | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w |
 | Código Fonte TV| Youtube | Não | PT-BR | https://www.youtube.com/user/codigofontetv |
 | Balta.io | Cursos | Não | PT-BR | https://balta.io/cursos |
+| Beginner’s Guide to React | Cursos | Não | EN | https://egghead.io/courses/the-beginner-s-guide-to-react |
 | CaveriaTech | Youtube | Não | PT-BR | https://www.youtube.com/user/caveiratech2 |
 | Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
 | CIJUN Academy | Cursos | Sim | PT-BR | https://cijun.sp.gov.br/academy/|
@@ -37,6 +38,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Filipe Dechamps | YouTube | Não | PT-BR | https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw |
 | FreeCodeCamp | Cursos | Sim | EN | https://www.freecodecamp.org/ |
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
+| Getting Started with Redux | Cursos | Não | EN | https://egghead.io/courses/getting-started-with-redux|
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers
 | Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos
 | Michelli Brito | Youtube | Nao | PT-BR | https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow
