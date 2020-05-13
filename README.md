@@ -57,3 +57,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Willian Justen de Vasconcellos | Curso/Udemy | Não | PT-BR | https://www.udemy.com/course/git-e-github-para-iniciantes/ |
 | You Don't Know JS (tradução) | Livro | Não | PT-BR | https://github.com/cezaraugusto/You-Dont-Know-JS |
 | You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS |
+| Lucas Montano | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg |
