@@ -21,6 +21,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Collabplay |Cursos/Youtube | Sim | PT-BR | https://collabplay.online/br/ |
 | Collabcode | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg |
 | Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
+| CS50's Introduction to Computer Science | Cursos | Não | EN | https://www.edx.org/course/cs50s-introduction-to-computer-science |
 | cursae | Cursos | Sim | PT-BR | https://www.cursae.com.br/ |
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
 | Curso em Vídeo (Gustavo Guanabara) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR | https://www.youtube.com/user/cursosemvideo/ |
@@ -28,7 +29,6 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | DevDojo| Youtube | Não | PT-BR| https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g |
 | Digital Innovation One| Cursos | Sim | PT-BR |https://web.digitalinnovation.one/browse 
 | Docker para Desenvolvedores | Livro | Não | PT-BR | https://leanpub.com/dockerparadesenvolvedores |
-| CS50's Introduction to Computer Science | Cursos | Não | EN | https://www.edx.org/course/cs50s-introduction-to-computer-science |
 | Eloquent Javascript (3ª edição)| Livro | Não | EN | https://eloquentjavascript.net/ |
 | Eloquente Javascript (2ª edição)| Livro | Não | PT-BR | https://braziljs.github.io/eloquente-javascript/ |
 | Escola Front-End | Youtube/Cursos | Não | PT-BR  | https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ |
