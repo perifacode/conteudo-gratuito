@@ -10,7 +10,6 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma | Link  |
 | ------------- |:-------------:| :-----:| :-----:|:-----:|
-| O Universo da Programação | YouTube | Não | pt-BR | https://www.youtube.com/c/ouniversodaprogramacao |
 | Amanda Vilela | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w |
 | Balta.io | Cursos | Não | PT-BR | https://balta.io/cursos |
 | CaveriaTech | Youtube | Não | PT-BR | https://www.youtube.com/user/caveiratech2 |
@@ -48,6 +47,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
 | O Guia (comovente) de Ruby do Why | Livro | Não | PT | http://why.carlosbrando.com/index.html |
+| O Universo da Programação | YouTube | Não | pt-BR | https://www.youtube.com/c/ouniversodaprogramacao |
 | Programação Dinâmica | Youtube | Não | PT-BR | https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg |
 | Ricardo Sanches | Youtube | NÃO | PT-BR | https://www.youtube.com/user/RicVSanches |
 | Rocketseat | Youtube/Cursos | Não | PT-BR | https://rocketseat.com.br/starter |
