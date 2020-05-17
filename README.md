@@ -68,4 +68,20 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 ## Quem já contribuiu
 
 [Guilherme Vieira](https://github.com/gitlherme)
+[Kamila Santos](https://github.com/Kamilahsantos)
+[William Oliveira](https://github.com/woliveiras)
+[Luís Ângelo](https://github.com/luisangelorjr)
+[José Ulisses](https://github.com/jos3s)
+[Victor Katsuo](https://github.com/vyamashiro)
+[Tammy Fagá](https://github.com/tammyfaga)
+[Naldson Chagas](https://github.com/NaldsonChagas)
+[Carla Paiva](https://github.com/CarlaPaiva)
+[Júlio Moreira](https://github.com/juliomoreira666)
+[Hugo Leonardo](https://github.com/hugoltsp)
+[Felipe Mellão] (https://github.com/MellonFive)
+[Cadu](https://github.com/cadu12359)
+[Edson Bruno] (https://github.com/edsonbruno415)
+
+
+
 
