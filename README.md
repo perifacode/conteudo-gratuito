@@ -11,13 +11,13 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma | Link  |
 | ------------- |:-------------:| :-----:| :-----:|:-----:|
 | Amanda Vilela | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w |
-| Código Fonte TV| Youtube | Não | PT-BR | https://www.youtube.com/user/codigofontetv |
 | Balta.io | Cursos | Não | PT-BR | https://balta.io/cursos |
 | CaveriaTech | Youtube | Não | PT-BR | https://www.youtube.com/user/caveiratech2 |
 | Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
 | CIJUN Academy | Cursos | Sim | PT-BR | https://cijun.sp.gov.br/academy/|
 | Clojure for the Brave and True | Livro |Não| EN | https://www.braveclojure.com/ |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
+| Código Fonte TV| Youtube | Não | PT-BR | https://www.youtube.com/user/codigofontetv |
 | Collabplay |Cursos/Youtube | Sim | PT-BR | https://collabplay.online/br/ |
 | Collabcode | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg |
 | Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
@@ -37,18 +37,24 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Filipe Dechamps | YouTube | Não | PT-BR | https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw |
 | FreeCodeCamp | Cursos | Sim | EN | https://www.freecodecamp.org/ |
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
+| Getting Started with Redux | Curso | Não | EN | https://egghead.io/courses/getting-started-with-redux | 
+| José Carlos Macoratti | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw | 
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers
 | Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos
+| Lucas Montano | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg |
 | Michelli Brito | Youtube | Nao | PT-BR | https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow
+| Microsoft Learn | Cursos | Não | PT/EN | https://docs.microsoft.com/pt-br/learn/ |
 | NodeSchool | Cursos | Não | PT-BR | https://nodeschool.io/ |
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
 | O Guia (comovente) de Ruby do Why | Livro | Não | PT | http://why.carlosbrando.com/index.html |
+| O Universo da Programação | YouTube | Não | pt-BR | https://www.youtube.com/c/ouniversodaprogramacao |
 | Programação Dinâmica | Youtube | Não | PT-BR | https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg |
 | Ricardo Sanches | Youtube | NÃO | PT-BR | https://www.youtube.com/user/RicVSanches |
 | Rocketseat | Youtube/Cursos | Não | PT-BR | https://rocketseat.com.br/starter |
 | School of Net | Cursos | Sim | PT-BR | https://www.schoolofnet.com/cursos/gratuitos |
 | Senai | Cursos | Sim | PT-BR | https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos |
+| The Beginner's Guide To React | Curso | Não | EN | https://egghead.io/courses/the-beginner-s-guide-to-react | 
 | Tim Tec | Cursos | Sim | PT-BR | https://cursos.timtec.com.br/ |
 | Torne-se um Programador | Cursos | Não | PT-BR | http://www.torneseumprogramador.com.br/ |
 | Udemy | Cursos | Não | PT-BR | https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity 
@@ -57,4 +63,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Willian Justen de Vasconcellos | Curso/Udemy | Não | PT-BR | https://www.udemy.com/course/git-e-github-para-iniciantes/ |
 | You Don't Know JS (tradução) | Livro | Não | PT-BR | https://github.com/cezaraugusto/You-Dont-Know-JS |
 | You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS |
-| Lucas Montano | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg |
+| Xamarin - Maratona live 2019 | Youtube| Não | PT-BR | https://www.youtube.com/watch?v=U4zJuHJxJjY | 
