@@ -41,6 +41,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | José Carlos Macoratti | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw | 
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers
 | Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos
+| Lucas Montano | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg |
 | Michelli Brito | Youtube | Nao | PT-BR | https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow
 | Microsoft Learn | Cursos | Não | PT/EN | https://docs.microsoft.com/pt-br/learn/ |
 | NodeSchool | Cursos | Não | PT-BR | https://nodeschool.io/ |
