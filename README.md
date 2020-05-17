@@ -67,4 +67,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 ## Quem já contribuiu
 
+[Guilherme Vieira](https://github.com/gitlherme)
 
