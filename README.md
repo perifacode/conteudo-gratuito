@@ -97,6 +97,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Edson Bruno](https://github.com/edsonbruno415)
 * [Guilherme de Andrade](https://github.com/guilhermedeandrade)
 * [Daury](https://github.com/dauryellen)
+* [Wellington Silva](https://github.com/sswellington)
+
 
 
 
