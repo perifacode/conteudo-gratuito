@@ -84,6 +84,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Felipe Mellão](https://github.com/MellonFive)
 * [Cadu](https://github.com/cadu12359)
 * [Edson Bruno](https://github.com/edsonbruno415)
+* [Guilherme de Andrade](https://github.com/guilhermedeandrade)
 
 
 
