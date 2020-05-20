@@ -18,6 +18,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | CIJUN Academy | Cursos | Sim | PT-BR | https://cijun.sp.gov.br/academy/|
 | Clojure for the Brave and True | Livro |Não| EN | https://www.braveclojure.com/ |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
+| Code Show | Youtube | Não | PT-BR | https://www.youtube.com/user/brunovegan |
 | Código Fonte TV| Youtube | Não | PT-BR | https://www.youtube.com/user/codigofontetv |
 | Collabplay |Cursos/Youtube | Sim | PT-BR | https://collabplay.online/br/ |
 | Collabcode | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg |
@@ -26,14 +27,17 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | cursae | Cursos | Sim | PT-BR | https://www.cursae.com.br/ |
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
 | Curso em Vídeo (Gustavo Guanabara) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR | https://www.youtube.com/user/cursosemvideo/ |
-| Descompila | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA|
+| Descompila | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA  |
+| Desenvolvedor.io | Site | Sim | PT-BR | https://desenvolvedor.io/ |
 | DevDojo| Youtube | Não | PT-BR| https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g |
 | Digital Innovation One| Cursos | Sim | PT-BR |https://web.digitalinnovation.one/browse 
 | Docker para Desenvolvedores | Livro | Não | PT-BR | https://leanpub.com/dockerparadesenvolvedores |
+| Eduardo Mendes | Youtube | Não | PT-BR | https://www.youtube.com/user/mendesesduardo |
 | Eloquent Javascript (3ª edição)| Livro | Não | EN | https://eloquentjavascript.net/ |
 | Eloquente Javascript (2ª edição)| Livro | Não | PT-BR | https://braziljs.github.io/eloquente-javascript/ |
 | Escola Front-End | Youtube/Cursos | Não | PT-BR  | https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ |
 | eXcript | Youtube | Não | PT-BR | https://www.youtube.com/user/excriptvideo |
+| Fábio Akita| Youtube |Não | PT-BR | https://www.youtube.com/user/AkitaOnRails |
 | Ferreira Studios| Youtube |Não | PT-BR | https://www.youtube.com/user/devleonardoferreira |
 | FGV Online | Cursos | Sim | PT-BR | https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733 |
 | Filipe Dechamps | YouTube | Não | PT-BR | https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw |
@@ -41,11 +45,13 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
 | Interneting is Hard | Tutorial | Não | EN | https://www.internetingishard.com/ |
 | Getting Started with Redux | Curso | Não | EN | https://egghead.io/courses/getting-started-with-redux | 
+| Hacker Rank | Desafios | Não | EN | https://www.hackerrank.com/ | 
 | José Carlos Macoratti | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw | 
-| Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers
-| Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos
+| Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers |
+| LinuxTIPS | Youtube | Não | PT-BR | hhttps://www.youtube.com/user/linuxtipscanal |
+| Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos |
 | Lucas Montano | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg |
-| Michelli Brito | Youtube | Nao | PT-BR | https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow
+| Michelli Brito | Youtube | Nao | PT-BR | https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow |
 | Microsoft Learn | Cursos | Não | PT/EN | https://docs.microsoft.com/pt-br/learn/ |
 | NodeSchool | Cursos | Não | PT-BR | https://nodeschool.io/ |
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
@@ -55,6 +61,9 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução) | Livro | Não | PT-BR | https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR |
 | O Universo da Programação | YouTube | Não | pt-BR | https://www.youtube.com/c/ouniversodaprogramacao |
 | Programação Dinâmica | Youtube | Não | PT-BR | https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg |
+| Programador Sagaz | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ |
+| Python Pro | Youtube | Não | PT-BR | https://www.youtube.com/user/renzonuccitelli |
+| Regis do Python | Youtube | NÃO | PT-BR | https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ |
 | Ricardo Sanches | Youtube | NÃO | PT-BR | https://www.youtube.com/user/RicVSanches |
 | Rocketseat | Youtube/Cursos | Não | PT-BR | https://rocketseat.com.br/starter |
 | School of Net | Cursos | Sim | PT-BR | https://www.schoolofnet.com/cursos/gratuitos |
