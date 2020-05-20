@@ -37,6 +37,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Filipe Dechamps | YouTube | Não | PT-BR | https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw |
 | FreeCodeCamp | Cursos | Sim | EN | https://www.freecodecamp.org/ |
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
+| Interneting is Hard | Tutorial | Não | EN | https://www.internetingishard.com/ |
 | Getting Started with Redux | Curso | Não | EN | https://egghead.io/courses/getting-started-with-redux | 
 | José Carlos Macoratti | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw | 
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers
@@ -48,6 +49,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
 | O Guia (comovente) de Ruby do Why | Livro | Não | PT | http://why.carlosbrando.com/index.html |
+| Professor Frisby's Mostly Adequate Guide to Functional Programming | Livro | Não | EN | https://github.com/MostlyAdequate/mostly-adequate-guide |
+| Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução) | Livro | Não | PT-BR | https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR |
 | O Universo da Programação | YouTube | Não | pt-BR | https://www.youtube.com/c/ouniversodaprogramacao |
 | Programação Dinâmica | Youtube | Não | PT-BR | https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg |
 | Ricardo Sanches | Youtube | NÃO | PT-BR | https://www.youtube.com/user/RicVSanches |
