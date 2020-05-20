@@ -22,6 +22,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Collabplay |Cursos/Youtube | Sim | PT-BR | https://collabplay.online/br/ |
 | Collabcode | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg |
 | Coursera | Cursos | Não | PT-BR | https://pt.coursera.org/ |
+| CS50's Introduction to Computer Science | Cursos | Não | EN | https://www.edx.org/course/cs50s-introduction-to-computer-science |
 | cursae | Cursos | Sim | PT-BR | https://www.cursae.com.br/ |
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
 | Curso em Vídeo (Gustavo Guanabara) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR | https://www.youtube.com/user/cursosemvideo/ |
