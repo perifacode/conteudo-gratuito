@@ -27,9 +27,11 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | cursae | Cursos | Sim | PT-BR | https://www.cursae.com.br/ |
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
 | Curso em Vídeo (Gustavo Guanabara) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR | https://www.youtube.com/user/cursosemvideo/ |
+| Data Hackers | Podcast | Não | PT-BR | https://datahackers.com.br/podcast |
 | Descompila | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA  |
 | Desenvolvedor.io | Site | Sim | PT-BR | https://desenvolvedor.io/ |
 | DevDojo| Youtube | Não | PT-BR| https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g |
+| Dev na Estrada | Podcast | Não | PT-BR | https://devnaestrada.com.br/ |
 | Digital Innovation One| Cursos | Sim | PT-BR |https://web.digitalinnovation.one/browse 
 | Docker para Desenvolvedores | Livro | Não | PT-BR | https://leanpub.com/dockerparadesenvolvedores |
 | Eduardo Cuducos | Blog | Não | PT-BR | https://cuducos.me/blog/|
@@ -37,8 +39,10 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Eloquent Javascript (3ª edição)| Livro | Não | EN | https://eloquentjavascript.net/ |
 | Eloquente Javascript (2ª edição)| Livro | Não | PT-BR | https://braziljs.github.io/eloquente-javascript/ |
 | Escola Front-End | Youtube/Cursos | Não | PT-BR  | https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ |
+| Estratégia Tech | Podcast | Não | PT-BR | https://anchor.fm/estrategia-tech |
 | eXcript | Youtube | Não | PT-BR | https://www.youtube.com/user/excriptvideo |
 | Fábio Akita| Youtube |Não | PT-BR | https://www.youtube.com/user/AkitaOnRails |
+| FalaDev | Podcast | Não | PT-BR | https://pizzadedados.com/ |
 | Ferreira Studios| Youtube |Não | PT-BR | https://www.youtube.com/user/devleonardoferreira |
 | FGV Online | Cursos | Sim | PT-BR | https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733 |
 | Filipe Dechamps | YouTube | Não | PT-BR | https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw |
@@ -47,10 +51,12 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Interneting is Hard | Tutorial | Não | EN | https://www.internetingishard.com/ |
 | Getting Started with Redux | Curso | Não | EN | https://egghead.io/courses/getting-started-with-redux | 
 | Hacker Rank | Desafios | Não | EN | https://www.hackerrank.com/ | 
+| Hipsters Ponto Tech | Podcast | Não | PT-BR | https://hipsters.tech/ |
 | Jessica Temporal | Blog | Não | PT-BR | https://jtemporal.com/ |
 | José Carlos Macoratti | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw | 
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers |
-| LinuxTIPS | Youtube | Não | PT-BR | hhttps://www.youtube.com/user/linuxtipscanal |
+| Lambda3 | Podcast | Não | PT-BR | https://www.lambda3.com.br/lambda3-podcast/ |
+| LinuxTIPS | Youtube | Não | PT-BR | https://www.youtube.com/user/linuxtipscanal |
 | Leticia Portella | Blog | Não | PT-BR/EN | https://leportella.com/pt-br |
 | Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos |
 | Lucas Montano | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg |
@@ -60,6 +66,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
 | O Guia (comovente) de Ruby do Why | Livro | Não | PT | http://why.carlosbrando.com/index.html |
+| Pizza de Dados | Podcast | Não | PT-BR | https://pizzadedados.com/ |
+| PodProgramar | Podcast | Não | PT-BR | https://mundopodcast.com.br/podprogramar/ |
 | Professor Frisby's Mostly Adequate Guide to Functional Programming | Livro | Não | EN | https://github.com/MostlyAdequate/mostly-adequate-guide |
 | Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução) | Livro | Não | PT-BR | https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR |
 | O Universo da Programação | YouTube | Não | pt-BR | https://www.youtube.com/c/ouniversodaprogramacao |
@@ -68,7 +76,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Python Pro | Youtube | Não | PT-BR | https://www.youtube.com/user/renzonuccitelli |
 | Regis do Python | Youtube | NÃO | PT-BR | https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ |
 | Ricardo Sanches | Youtube | NÃO | PT-BR | https://www.youtube.com/user/RicVSanches |
-| Rocketseat | Youtube/Cursos | Não | PT-BR | https://rocketseat.com.br |
+| Rocketseat | Youtube/Cursos/Podcast/Blog | Não | PT-BR | https://rocketseat.com.br |
 | School of Net | Cursos | Sim | PT-BR | https://www.schoolofnet.com/cursos/gratuitos |
 | Senai | Cursos | Sim | PT-BR | https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos |
 | The Beginner's Guide To React | Curso | Não | EN | https://egghead.io/courses/the-beginner-s-guide-to-react | 
