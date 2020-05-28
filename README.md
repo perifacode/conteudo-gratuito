@@ -32,6 +32,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | DevDojo| Youtube | Não | PT-BR| https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g |
 | Digital Innovation One| Cursos | Sim | PT-BR |https://web.digitalinnovation.one/browse 
 | Docker para Desenvolvedores | Livro | Não | PT-BR | https://leanpub.com/dockerparadesenvolvedores |
+| Eduardo Cuducos | Blog | Não | PT-BR | https://cuducos.me/blog/|
 | Eduardo Mendes | Youtube | Não | PT-BR | https://www.youtube.com/user/mendesesduardo |
 | Eloquent Javascript (3ª edição)| Livro | Não | EN | https://eloquentjavascript.net/ |
 | Eloquente Javascript (2ª edição)| Livro | Não | PT-BR | https://braziljs.github.io/eloquente-javascript/ |
@@ -46,9 +47,11 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Interneting is Hard | Tutorial | Não | EN | https://www.internetingishard.com/ |
 | Getting Started with Redux | Curso | Não | EN | https://egghead.io/courses/getting-started-with-redux | 
 | Hacker Rank | Desafios | Não | EN | https://www.hackerrank.com/ | 
+| Jessica Temporal | Blog | Não | PT-BR | https://jtemporal.com/ |
 | José Carlos Macoratti | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw | 
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers |
 | LinuxTIPS | Youtube | Não | PT-BR | hhttps://www.youtube.com/user/linuxtipscanal |
+| Leticia Portella | Blog | Não | PT-BR/EN | https://leportella.com/pt-br |
 | Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos |
 | Lucas Montano | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg |
 | Michelli Brito | Youtube | Nao | PT-BR | https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow |
@@ -65,7 +68,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Python Pro | Youtube | Não | PT-BR | https://www.youtube.com/user/renzonuccitelli |
 | Regis do Python | Youtube | NÃO | PT-BR | https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ |
 | Ricardo Sanches | Youtube | NÃO | PT-BR | https://www.youtube.com/user/RicVSanches |
-| Rocketseat | Youtube/Cursos | Não | PT-BR | https://rocketseat.com.br/starter |
+| Rocketseat | Youtube/Cursos | Não | PT-BR | https://rocketseat.com.br |
 | School of Net | Cursos | Sim | PT-BR | https://www.schoolofnet.com/cursos/gratuitos |
 | Senai | Cursos | Sim | PT-BR | https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos |
 | The Beginner's Guide To React | Curso | Não | EN | https://egghead.io/courses/the-beginner-s-guide-to-react | 
@@ -98,8 +101,3 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Guilherme de Andrade](https://github.com/guilhermedeandrade)
 * [Daury](https://github.com/dauryellen)
 * [Wellington Silva](https://github.com/sswellington)
-
-
-
-
-
