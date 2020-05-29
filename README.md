@@ -101,6 +101,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Guilherme de Andrade](https://github.com/guilhermedeandrade)
 * [Daury](https://github.com/dauryellen)
 * [Wellington Silva](https://github.com/sswellington)
+* [Igor Cavalcanti](https://github.com/cavalcantigor)
+
 
 
 
