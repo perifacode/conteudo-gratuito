@@ -13,6 +13,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Amanda Vilela | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w |
 | Balta.io | Cursos | Não | PT-BR | https://balta.io/cursos |
 | Beginner’s Guide to React | Cursos | Não | EN | https://egghead.io/courses/the-beginner-s-guide-to-react |
+| Cabeça de Lab | Podcast | Não | PT-BR | https://www.cabecadelab.com.br/ |
 | CaveriaTech | Youtube | Não | PT-BR | https://www.youtube.com/user/caveiratech2 |
 | Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
 | CIJUN Academy | Cursos | Sim | PT-BR | https://cijun.sp.gov.br/academy/|
@@ -47,17 +48,18 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | FGV Online | Cursos | Sim | PT-BR | https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733 |
 | Filipe Dechamps | YouTube | Não | PT-BR | https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw |
 | FreeCodeCamp | Cursos | Sim | EN | https://www.freecodecamp.org/ |
+| Frontend Challenges | Desafios | Não | EN/PT-BR | https://github.com/felipefialho/frontend-challenges |
 | Fundação Bradesco - Escola Virtual | Cursos | Sim | PT-BR | https://www.ev.org.br/ |
-| Interneting is Hard | Tutorial | Não | EN | https://www.internetingishard.com/ |
 | Getting Started with Redux | Curso | Não | EN | https://egghead.io/courses/getting-started-with-redux | 
 | Hacker Rank | Desafios | Não | EN | https://www.hackerrank.com/ | 
 | Hipsters Ponto Tech | Podcast | Não | PT-BR | https://hipsters.tech/ |
+| Interneting is Hard | Tutorial | Não | EN | https://www.internetingishard.com/ |
 | Jessica Temporal | Blog | Não | PT-BR | https://jtemporal.com/ |
 | José Carlos Macoratti | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw | 
 | Kotlin for Java Developers | Cursos | Sim | EN | https://www.coursera.org/learn/kotlin-for-java-developers |
 | Lambda3 | Podcast | Não | PT-BR | https://www.lambda3.com.br/lambda3-podcast/ |
-| LinuxTIPS | Youtube | Não | PT-BR | https://www.youtube.com/user/linuxtipscanal |
 | Leticia Portella | Blog | Não | PT-BR/EN | https://leportella.com/pt-br |
+| LinuxTIPS | Youtube | Não | PT-BR | https://www.youtube.com/user/linuxtipscanal |
 | Loiane Training | Cursos | Sim | PT-BR | https://loiane.training/cursos |
 | Lucas Montano | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg |
 | Michelli Brito | Youtube | Nao | PT-BR | https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow |
@@ -66,11 +68,12 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Node.js para Iniciantes | Cursos | Sim | PT-BR | https://treinamento.nodebr.org/ |
 | Node Studio Treinamentos | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw |
 | O Guia (comovente) de Ruby do Why | Livro | Não | PT | http://why.carlosbrando.com/index.html |
+| O Universo da Programação | YouTube | Não | pt-BR | https://www.youtube.com/c/ouniversodaprogramacao |
+| Otávio Miranda | Youtube | Não | PT-BR | https://www.youtube.com/user/todoespacoonline |
 | Pizza de Dados | Podcast | Não | PT-BR | https://pizzadedados.com/ |
 | PodProgramar | Podcast | Não | PT-BR | https://mundopodcast.com.br/podprogramar/ |
 | Professor Frisby's Mostly Adequate Guide to Functional Programming | Livro | Não | EN | https://github.com/MostlyAdequate/mostly-adequate-guide |
 | Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução) | Livro | Não | PT-BR | https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR |
-| O Universo da Programação | YouTube | Não | pt-BR | https://www.youtube.com/c/ouniversodaprogramacao |
 | Programação Dinâmica | Youtube | Não | PT-BR | https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg |
 | Programador Sagaz | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ |
 | Python Pro | Youtube | Não | PT-BR | https://www.youtube.com/user/renzonuccitelli |
@@ -80,6 +83,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | School of Net | Cursos | Sim | PT-BR | https://www.schoolofnet.com/cursos/gratuitos |
 | Senai | Cursos | Sim | PT-BR | https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos |
 | The Beginner's Guide To React | Curso | Não | EN | https://egghead.io/courses/the-beginner-s-guide-to-react | 
+| The Conf InfoQ | Palestras | Não | EN | https://www.infoq.com/br/the_conf/ |
 | Tim Tec | Cursos | Sim | PT-BR | https://cursos.timtec.com.br/ |
 | Torne-se um Programador | Cursos | Não | PT-BR | http://www.torneseumprogramador.com.br/ |
 | Udemy | Cursos | Não | PT-BR | https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity 
@@ -107,5 +111,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Cadu](https://github.com/cadu12359)
 * [Edson Bruno](https://github.com/edsonbruno415)
 * [Guilherme de Andrade](https://github.com/guilhermedeandrade)
-* [Daury](https://github.com/dauryellen)
 * [Wellington Silva](https://github.com/sswellington)
+* [Igor Cavalcanti](https://github.com/cavalcantigor)
