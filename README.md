@@ -92,7 +92,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Willian Justen de Vasconcellos | Curso/Udemy | Não | PT-BR | https://www.udemy.com/course/git-e-github-para-iniciantes/ |
 | You Don't Know JS (tradução) | Livro | Não | PT-BR | https://github.com/cezaraugusto/You-Dont-Know-JS |
 | You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS |
-| Xamarin - Maratona live 2019 | Youtube| Não | PT-BR | https://www.youtube.com/watch?v=U4zJuHJxJjY | 
+| Xamarin - Maratona live 2019 | Youtube| Não | PT-BR | https://www.youtube.com/watch?v=U4zJuHJxJjY |
+| Curso de Testes para Ruby on Rails com RSpec  | Curso | Não | PT-BR | https://www.udemy.com/course/curso-de-testes-ruby-com-rspec/ |
 
 ## Quem já contribuiu
 
@@ -114,3 +115,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Wellington Silva](https://github.com/sswellington)
 * [Igor Cavalcanti](https://github.com/cavalcantigor)
 * [Wellington Silva ](https://github.com/sswellington)
+* [Jamessom Queiroz](https://github.com/jamessom)
