@@ -7,7 +7,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 **Conteúdos deverão seguir a ordem alfabética**&nbsp;
 
 
-**Adicione o seu nome na parte de contribuidores juntos com o PR**
+**Adicione o seu nome na parte de contribuidores junto com o PR**
 
 ---
 
