@@ -4,7 +4,9 @@ Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cu
 
 Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
-**Conteúdos deverão seguir a ordem alfabética**
+**Conteúdos deverão seguir a ordem alfabética**&nbsp;
+
+
 **Adicione o seu nome na parte de contribuidores juntos com o PR**
 
 ---
