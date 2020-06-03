@@ -27,6 +27,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science )| Cursos | Não | EN |
 | [cursae](https://www.cursae.com.br/)| Cursos | Sim | PT-BR |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | PT |
+<<<<<<< HEAD
 | [Curso em Vídeo (Gustavo Guanabara)](https://www.youtube.com/user/cursosemvideo/) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | PT-BR |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | Site | Sim | PT-BR |
@@ -41,18 +42,49 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [eXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | Não | PT-BR |
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |Não | PT-BR |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |Não | PT-BR |
+=======
+| [Curso em Vídeo (Gustavo Guanabara)](https://www.youtube.com/user/cursosemvideo/) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR | 
+| [Data Hackers](https://datahackers.com.br/podcast) | Podcast | Não | PT-BR | 
+| [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | PT-BR |
+| [Desenvolvedor.io](https://desenvolvedor.io/) | Site | Sim | PT-BR |
+| [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | PT-BR| 
+| [Dev na Estrada](https://devnaestrada.com.br/) | Podcast | Não | PT-BR |
+| [Digital Innovation One](https://web.digitalinnovation.one/browse)| Cursos | Sim | PT-BR | 
+| [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | Livro | Não | PT-BR | 
+| [Eduardo Cuducos](https://cuducos.me/blog/) | Blog | Não | PT-BR | 
+| [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo ) | Youtube | Não | PT-BR | 
+| [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/)| Livro | Não | EN | 
+| [Eloquente Javascript (2ª edição)](https://braziljs.github.io/eloquente-javascript/)| Livro | Não | PT-BR | 
+| [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ) | Youtube/Cursos | Não | PT-BR  | 
+| [Estratégia Tech](https://anchor.fm/estrategia-tech) | Podcast | Não | PT-BR | 
+| [eXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | Não | PT-BR |
+| [FalaDev](https://pizzadedados.com/) | Podcast | Não | PT-BR | 
+| [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |Não | PT-BR | 
+| [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |Não | PT-BR | 
+>>>>>>> fd958ae808161c342460cbb934daa8ddf45d1888
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Cursos | Sim | PT-BR | |
 | [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | PT-BR |
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos | Sim | EN |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | EN/PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | PT-BR |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | EN |  
+<<<<<<< HEAD
 | [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | EN |  
 | [Insight Lab](https://www.youtube.com/channel/UCvkTPvZ0qILEqlPgdHTTO8Q/videos) | Youtube | Não | PT-BR |
 | [Interneting is Hard](https://www.internetingishard.com/) | Tutorial | Não | EN |
 | [João Riberio](https://www.youtube.com/channel/UC6ZL0QLBNKBAOx6vjQXTIJA) | Youtube | Não | PT-PT |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | PT-BR |
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Cursos | Sim | EN |
+=======
+| [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | EN | 
+| [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | PT-BR | 
+| [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN | 
+| [Jessica Temporal](https://jtemporal.com/ ) | Blog | Não | PT-BR |
+| [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | PT-BR | 
+| [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Cursos | Sim | EN |
+| [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Podcast | Não | PT-BR | 
+| [Leticia Portella](https://leportella.com/pt-br) | Blog | Não | PT-BR/EN |
+>>>>>>> fd958ae808161c342460cbb934daa8ddf45d1888
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal ) | Youtube | Não | PT-BR |
 | [Loiane Training](https://loiane.training/cursos) | Cursos | Sim | PT-BR |  
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg ) | Youtube | Não | PT-BR |
@@ -60,6 +92,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag) | Youtube | Nao | PT-BR |  
 | [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Cursos | Não | PT/EN |
 | [NodeSchool](https://nodeschool.io/) | Cursos | Não | PT-BR |  
+<<<<<<< HEAD
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/) | Cursos | Sim | PT-BR |
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | Não | PT-BR |
 | [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html) | Livro | Não | PT |
@@ -75,6 +108,26 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Rocketseat](https://rocketseat.com.br/starter) | Youtube/Cursos | Não | PT-BR |
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Cursos | Sim | PT-BR |
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | PT-BR |
+=======
+| [Node.js para Iniciantes](https://treinamento.nodebr.org/) | Cursos | Sim | PT-BR | 
+| [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | Não | PT-BR | 
+| [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html) | Livro | Não | PT |
+| [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | pt-BR |
+| [Otávio Miranda](https://www.youtube.com/user/todoespacoonline) | Youtube | Não | PT-BR |
+| [Pizza de Dados](https://pizzadedados.com/) | Podcast | Não | PT-BR | 
+| [PodProgramar]( https://mundopodcast.com.br/podprogramar/) | Podcast | Não | PT-BR |
+| [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | Livro | Não | EN | 
+| [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | Livro | Não | PT-BR | 
+| [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | pt-BR | 
+| [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg) | Youtube | Não | PT-BR |
+| [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ ) | Youtube | Não | PT-BR | 
+| [Python Pro](https://www.youtube.com/user/renzonuccitelli) | Youtube | Não | PT-BR | 
+| [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ) | Youtube | NÃO | PT-BR | 
+| [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | NÃO | PT-BR | 
+| [Rocketseat](https://rocketseat.com.br) | Youtube/Cursos/Podcast/Blog | Não | PT-BR | 
+| [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Cursos | Sim | PT-BR | 
+| [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | PT-BR | 
+>>>>>>> fd958ae808161c342460cbb934daa8ddf45d1888
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Curso | Não | EN |  
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/) | Palestras | Não | EN |
 | [Tim Tec](https://cursos.timtec.com.br/) | Cursos | Sim | PT-BR |
@@ -98,5 +151,10 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Carla Paiva](https://github.com/CarlaPaiva)      | [Júlio Moreira](https://github.com/juliomoreira666)
 | [Hugo Leonardo](https://github.com/hugoltsp)      | [Felipe Mellão](https://github.com/MellonFive)
 | [Cadu](https://github.com/cadu12359)              | [Edson Bruno](https://github.com/edsonbruno415)
+<<<<<<< HEAD
 | [Daury](https://github.com/dauryellen)            | [Guilherme de Andrade](https://github.com/guilhermedeandrade)
 | [Victor Katsuo](https://github.com/vyamashiro)    | [Wellington Silva](https://github.com/sswellington)
+=======
+| [Victor Katsuo](https://github.com/vyamashiro)    | [Guilherme de Andrade](https://github.com/guilhermedeandrade)
+| [Wellington Silva](https://github.com/sswellington)    | 
+>>>>>>> fd958ae808161c342460cbb934daa8ddf45d1888
