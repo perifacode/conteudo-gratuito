@@ -32,6 +32,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | PT-BR |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | Site | Sim | PT-BR |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | PT-BR| 
+| [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbiA)| Youtube | Não | PT-BR| 
 | [Dev na Estrada](https://devnaestrada.com.br/) | Podcast | Não | PT-BR |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)| Cursos | Sim | PT-BR | 
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | Livro | Não | PT-BR | 
