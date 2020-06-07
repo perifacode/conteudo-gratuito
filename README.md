@@ -99,6 +99,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS |
 | Xamarin - Maratona live 2019 | Youtube| Não | PT-BR | https://www.youtube.com/watch?v=U4zJuHJxJjY |
 | Curso de Testes para Ruby on Rails com RSpec  | Curso | Não | PT-BR | https://www.udemy.com/course/curso-de-testes-ruby-com-rspec/ |
+| Zurubabel | Youtube| Não | PT-BR | https://www.youtube.com/user/Zurubabel |
 
 ## Quem já contribuiu
 
