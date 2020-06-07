@@ -34,6 +34,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
 | Curso em Vídeo (Gustavo Guanabara) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR | https://www.youtube.com/user/cursosemvideo/ |
 | Data Hackers | Podcast | Não | PT-BR | https://datahackers.com.br/podcast |
+| De aluno para aluno | Youtube| Não | PT-BR | https://www.youtube.com/user/italogross |
 | Descompila | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA  |
 | Desenvolvedor.io | Site | Sim | PT-BR | https://desenvolvedor.io/ |
 | DevDojo| Youtube | Não | PT-BR| https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g |
