@@ -122,3 +122,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Igor Cavalcanti](https://github.com/cavalcantigor)
 * [Wellington Silva ](https://github.com/sswellington)
 * [Jamessom Queiroz](https://github.com/jamessom)
+* [Zian25](https://github.com/zian25)
