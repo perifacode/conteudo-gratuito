@@ -86,7 +86,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Ricardo Sanches | Youtube | NÃO | PT-BR | https://www.youtube.com/user/RicVSanches |
 | Rocketseat | Youtube/Cursos/Podcast/Blog | Não | PT-BR | https://rocketseat.com.br |
 | School of Net | Cursos | Sim | PT-BR | https://www.schoolofnet.com/cursos/gratuitos |
-| Selenium WebDriver with Python | Curso | Não | EN | https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/
+| Selenium WebDriver with Python | Curso | Não | EN | https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ |
 | Senai | Cursos | Sim | PT-BR | https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos |
 | The Beginner's Guide To React | Curso | Não | EN | https://egghead.io/courses/the-beginner-s-guide-to-react | 
 | The Conf InfoQ | Palestras | Não | EN | https://www.infoq.com/br/the_conf/ |
