@@ -34,6 +34,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Curso de Pentest Desec | Curso | Sim | PT | https://desecsecurity.com/curso/curso-pentest-gratuito |
 | Curso em Vídeo (Gustavo Guanabara) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR | https://www.youtube.com/user/cursosemvideo/ |
 | Data Hackers | Podcast | Não | PT-BR | https://datahackers.com.br/podcast |
+| De aluno para aluno | Youtube| Não | PT-BR | https://www.youtube.com/user/italogross |
 | Descompila | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA  |
 | Desenvolvedor.io | Site | Sim | PT-BR | https://desenvolvedor.io/ |
 | DevDojo| Youtube | Não | PT-BR| https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g |
@@ -101,6 +102,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | You Don't Know JS (2ª edição) | Livro | Não | EN | https://github.com/getify/You-Dont-Know-JS |
 | Xamarin - Maratona live 2019 | Youtube| Não | PT-BR | https://www.youtube.com/watch?v=U4zJuHJxJjY |
 | Curso de Testes para Ruby on Rails com RSpec  | Curso | Não | PT-BR | https://www.udemy.com/course/curso-de-testes-ruby-com-rspec/ |
+| Zurubabel | Youtube| Não | PT-BR | https://www.youtube.com/user/Zurubabel |
 
 ## Quem já contribuiu
 
@@ -124,3 +126,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Wellington Silva ](https://github.com/sswellington)
 * [Jamessom Queiroz](https://github.com/jamessom)
 * [Gustavo Dias A.](https://github.com/gfda)
+* [Zian25](https://github.com/zian25)
