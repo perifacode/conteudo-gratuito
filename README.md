@@ -83,8 +83,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução) | Livro | Não | PT-BR | https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR |
 | Professor José de Assis | Youtube | Não | PT-BR | https://www.youtube.com/user/ProfessorJosedeAssis | 
 | Programação Dinâmica | Youtube | Não | PT-BR | https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg |
-| Programador BR | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ |
-| Programador Sagaz | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ |
+| Programador BR | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ |
+| Programador Sagaz | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ |
 | Python Pro | Youtube | Não | PT-BR | https://www.youtube.com/user/renzonuccitelli |
 | Regis do Python | Youtube | NÃO | PT-BR | https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ |
 | Ricardo Sanches | Youtube | NÃO | PT-BR | https://www.youtube.com/user/RicVSanches |
