@@ -18,6 +18,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Amanda Vilela | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w |
 | Balta.io | Cursos | Não | PT-BR | https://balta.io/cursos |
 | Beginner’s Guide to React | Cursos | Não | EN | https://egghead.io/courses/the-beginner-s-guide-to-react |
+| Bora para prática!!! | Youtube | Não | PT-BR | https://www.youtube.com/user/boraparapratica/ |
 | Cabeça de Lab | Podcast | Não | PT-BR | https://www.cabecadelab.com.br/ |
 | CaveriaTech | Youtube | Não | PT-BR | https://www.youtube.com/user/caveiratech2 |
 | Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
