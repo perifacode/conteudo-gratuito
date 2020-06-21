@@ -80,6 +80,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | PodProgramar | Podcast | Não | PT-BR | https://mundopodcast.com.br/podprogramar/ |
 | Professor Frisby's Mostly Adequate Guide to Functional Programming | Livro | Não | EN | https://github.com/MostlyAdequate/mostly-adequate-guide |
 | Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução) | Livro | Não | PT-BR | https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR |
+| Professor José de Assis | Youtube | Não | PT-BR | https://www.youtube.com/user/ProfessorJosedeAssis | 
 | Programação Dinâmica | Youtube | Não | PT-BR | https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg |
 | Programador Sagaz | Youtube | Não | PT-BR | https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ |
 | Python Pro | Youtube | Não | PT-BR | https://www.youtube.com/user/renzonuccitelli |
