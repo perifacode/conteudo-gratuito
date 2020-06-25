@@ -23,6 +23,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
 | CIJUN Academy | Cursos | Sim | PT-BR | https://cijun.sp.gov.br/academy/|
 | Clojure for the Brave and True | Livro |Não| EN | https://www.braveclojure.com/ |
+| Codando | Cursos | Não | PT-BR | https://codando.org/material-gratuito/ |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
 | Code Show | Youtube | Não | PT-BR | https://www.youtube.com/user/brunovegan |
 | Código Fonte TV| Youtube | Não | PT-BR | https://www.youtube.com/user/codigofontetv |
@@ -127,3 +128,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Jamessom Queiroz](https://github.com/jamessom)
 * [Gustavo Dias A.](https://github.com/gfda)
 * [Zian25](https://github.com/zian25)
+* [Victor Radael](https://github.com/victorradael)
