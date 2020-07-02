@@ -8,8 +8,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 ## Lista de Conteúdo (em ordem alfabética)
 
-| Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma |
-| ------------- |: -------------: |: -----: |: -----: |
+| Descrição     | Tipo (Curso, Livro, etc)  | Certificado | Idioma |
+| ------------- | ---------- | :-------: | :--------- |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | PT-BR |
 | [Balta.io](https://balta.io/cursos) | Cursos | Não | PT-BR |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Cursos | Não | EN |
@@ -46,7 +46,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [FalaDev](https://pizzadedados.com/) | Podcast | Não | PT-BR | 
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |Não | PT-BR | 
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |Não | PT-BR | 
-| [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Cursos | Sim | PT-BR | |
+| [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Cursos | Sim | PT-BR | 
 | [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | PT-BR |
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos | Sim | EN |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | EN/PT-BR |
@@ -81,7 +81,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ ) | Youtube | Não | PT-BR | 
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli) | Youtube | Não | PT-BR | 
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ) | Youtube | NÃO | PT-BR | 
-| [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | NÃO | PT-BR | 
+| [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | Não | PT-BR | 
 | [Rocketseat](https://rocketseat.com.br) | Youtube/Cursos/Podcast/Blog | Não | PT-BR | 
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Cursos | Sim | PT-BR | 
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | PT-BR | 
@@ -99,8 +99,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 ## Quem já contribuiu
 
-| | |
-| ------------------------------------------------  | -----------------------------------------------------|
+|||
+| ----------------- | ----------------- |
 | [Guilherme Vieira](https://github.com/gitlherme)  | [Luís Ângelo](https://github.com/luisangelorjr)
 | [Kamila Santos](https://github.com/Kamilahsantos) | [José Ulisses](https://github.com/jos3s)
 | [William Oliveira](https://github.com/woliveiras) | [Igor Cavalcanti](https://github.com/cavalcantigor)
