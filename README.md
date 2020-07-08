@@ -114,4 +114,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Hugo Leonardo](https://github.com/hugoltsp)      | [Felipe Mellão](https://github.com/MellonFive)
 | [Cadu](https://github.com/cadu12359)              | [Edson Bruno](https://github.com/edsonbruno415)
 | [Victor Katsuo](https://github.com/vyamashiro)    | [Guilherme de Andrade](https://github.com/guilhermedeandrade)
-| [Wellington Silva](https://github.com/sswellington)    |
+| [Wellington Silva](https://github.com/sswellington)    | [Jamessom Queiroz](https://github.com/jamessom)
+| [Gustavo Dias A.](https://github.com/gfda)        | [Zian25](https://github.com/zian25)
