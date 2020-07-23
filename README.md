@@ -60,9 +60,10 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | EN | 
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | PT-BR | 
 | [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN |
-| [Introdução a Segurança da Informação](https://ead.esecurity.com.br/login/index.php) | Curso | Sim | PT |
+| [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Sim | PT |
 | [Jessica Temporal](https://jtemporal.com/ ) | Blog | Não | PT-BR |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | PT-BR | 
+| [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Curso | Sim | PT |
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Cursos | Sim | EN |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Podcast | Não | PT-BR | 
 | [Leticia Portella](https://leportella.com/pt-br) | Blog | Não | PT-BR/EN |
