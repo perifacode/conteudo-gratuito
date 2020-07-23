@@ -59,7 +59,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | EN |  
 | [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | EN | 
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | PT-BR | 
-| [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN | 
+| [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN |
+| [Introdução a Segurança da Informação](https://ead.esecurity.com.br/login/index.php) | Curso | Sim | PT |
 | [Jessica Temporal](https://jtemporal.com/ ) | Blog | Não | PT-BR |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | PT-BR | 
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Cursos | Sim | EN |
@@ -114,4 +115,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Hugo Leonardo](https://github.com/hugoltsp)      | [Felipe Mellão](https://github.com/MellonFive)
 | [Cadu](https://github.com/cadu12359)              | [Edson Bruno](https://github.com/edsonbruno415)
 | [Victor Katsuo](https://github.com/vyamashiro)    | [Guilherme de Andrade](https://github.com/guilhermedeandrade)
-| [Wellington Silva](https://github.com/sswellington)    |
+| [Wellington Silva](https://github.com/sswellington)    |[Larissa Benevides Vieira](https://github.com/Laribene)
