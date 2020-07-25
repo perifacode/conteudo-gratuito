@@ -18,6 +18,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | PT-BR |
 | [Balta.io](https://balta.io/cursos) | Cursos | Não | PT-BR |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Cursos | Não | EN |
+| [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | PT-BR |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | Podcast | Não | PT-BR |
 | [CaveriaTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | PT-BR |
 | [Caelum](https://www.caelum.com.br/apostilas) | Apostilas |Não| PT-BR |
@@ -59,7 +60,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos | Sim | EN |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | EN/PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | PT-BR |
-| Future Learn | Cursos | Não | EN | https://www.futurelearn.com/ |
+| [Future Learn](https://www.futurelearn.com) | Cursos | Não | EN | https://www.futurelearn.com/ |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | EN | 
 | [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | EN | 
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | PT-BR | 
@@ -91,7 +92,9 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [PodProgramar]( https://mundopodcast.com.br/podprogramar/) | Podcast | Não | PT-BR |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | Livro | Não | EN | 
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | Livro | Não | PT-BR | 
+| [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis) | Youtube | Não | PT-BR | 
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | pt-BR | 
+| [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) | Youtube | Não | PT-BR |
 | [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg) | Youtube | Não | PT-BR |
 | [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ ) | Youtube | Não | PT-BR | 
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli) | Youtube | Não | PT-BR | 
