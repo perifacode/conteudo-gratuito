@@ -59,6 +59,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos | Sim | EN |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | EN/PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | PT-BR |
+| Future Learn | Cursos | Não | EN | https://www.futurelearn.com/ |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | EN | 
 | [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | EN | 
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | PT-BR | 
