@@ -24,6 +24,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Caelum](https://www.caelum.com.br/apostilas) | Apostilas |Não| PT-BR |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/) | Cursos | Sim | PT-BR |
 | [Clojure for the Brave and True](https://www.braveclojure.com/) | Livro |Não| EN |
+| [Codando](https://codando.org/material-gratuito/) | Cursos | Não | PT-BR |
 | [Code Academy](https://www.codecademy.com/ ) | Cursos | Não | EN |
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | PT-BR |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/) | Jogo | Não | EN |
@@ -132,4 +133,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Jamessom Queiroz](https://github.com/jamessom)    |[Gustavo Dias A.](https://github.com/gfda)  
 | [Zian25](https://github.com/zian25)     | [Thaiane Braga](https://github.com/Thaiane)
 | [Wellington Silva](https://github.com/sswellington)    |  [Thyago Santiago](https://github.com/tlsantiago)
-| [Larissa Benevides Vieira](https://github.com/Laribene)    |
+| [Larissa Benevides Vieira](https://github.com/Laribene)    | [Victor Radael](https://github.com/victorradael)
