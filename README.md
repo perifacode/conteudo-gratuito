@@ -66,8 +66,11 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN | 
 | [JavaScript for Cats](http://jsforcats.com/) | Tutorial | Não | EN |
 | [JavaScript Katas](https://jskatas.org/ ) | Desafios | Não | EN |
+| [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN |
+| [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Sim | PT |
 | [Jessica Temporal](https://jtemporal.com/ ) | Blog | Não | PT-BR |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | PT-BR | 
+| [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Curso | Sim | PT |
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Cursos | Sim | EN |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Podcast | Não | PT-BR | 
 | [Leticia Portella](https://leportella.com/pt-br) | Blog | Não | PT-BR/EN |
@@ -123,3 +126,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Cadu](https://github.com/cadu12359)              | [Edson Bruno](https://github.com/edsonbruno415)
 | [Victor Katsuo](https://github.com/vyamashiro)    | [Guilherme de Andrade](https://github.com/guilhermedeandrade)
 | [Wellington Silva](https://github.com/sswellington)    | [Thaiane Braga](https://github.com/Thaiane)
+| [Larissa Benevides Vieira](https://github.com/Laribene)    |
