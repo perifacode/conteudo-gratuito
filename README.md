@@ -125,5 +125,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Hugo Leonardo](https://github.com/hugoltsp)      | [Felipe Mellão](https://github.com/MellonFive)
 | [Cadu](https://github.com/cadu12359)              | [Edson Bruno](https://github.com/edsonbruno415)
 | [Victor Katsuo](https://github.com/vyamashiro)    | [Guilherme de Andrade](https://github.com/guilhermedeandrade)
-| [Wellington Silva](https://github.com/sswellington)    | [Thaiane Braga](https://github.com/Thaiane)
-| [Larissa Benevides Vieira](https://github.com/Laribene)    | [Thyago Santiago](https://github.com/tlsantiago)
+| [Jamessom Queiroz](https://github.com/jamessom)    |[Gustavo Dias A.](https://github.com/gfda)  
+| [Zian25](https://github.com/zian25)     | [Thaiane Braga](https://github.com/Thaiane)
+| [Wellington Silva](https://github.com/sswellington)    |  [Thyago Santiago](https://github.com/tlsantiago)
+| [Larissa Benevides Vieira](https://github.com/Laribene)    |
