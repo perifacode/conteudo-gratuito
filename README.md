@@ -14,7 +14,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 ## Lista de Conteúdo (em ordem alfabética)
 
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma |
-| ------------- |: -------------: |: -----: |: -----: |
+| -------------- | ---------------------------------- | ----------- | ------ |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | PT-BR |
 | [Balta.io](https://balta.io/cursos) | Cursos | Não | PT-BR |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Cursos | Não | EN |
