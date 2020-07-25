@@ -101,7 +101,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | PT-BR | 
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Curso | Não | EN |  
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/) | Palestras | Não | EN |
-| [The Odin Project](https://www.theodinproject.com/home) | Cursos | Não | EN |
+| [The Odin Project](https://www.theodinproject.com/) | Cursos | Não | EN |
 | [Tim Tec](https://cursos.timtec.com.br/) | Cursos | Sim | PT-BR |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Cursos | Não | PT-BR |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Cursos | Não | PT-BR |
@@ -126,4 +126,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Cadu](https://github.com/cadu12359)              | [Edson Bruno](https://github.com/edsonbruno415)
 | [Victor Katsuo](https://github.com/vyamashiro)    | [Guilherme de Andrade](https://github.com/guilhermedeandrade)
 | [Wellington Silva](https://github.com/sswellington)    | [Thaiane Braga](https://github.com/Thaiane)
-| [Larissa Benevides Vieira](https://github.com/Laribene)    |
+| [Larissa Benevides Vieira](https://github.com/Laribene)    | [Thyago Santiago](https://github.com/tlsantiago)
