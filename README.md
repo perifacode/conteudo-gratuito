@@ -25,6 +25,8 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Clojure for the Brave and True](https://www.braveclojure.com/) | Livro |Não| EN |
 | [Code Academy](https://www.codecademy.com/ ) | Cursos | Não | EN |
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | PT-BR |
+| [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/) | Jogo | Não | EN |
+| [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo | Não | EN |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)| Youtube | Não | PT-BR |
 | [Collabplay](https://collabplay.online/br/) |Cursos/Youtube | Sim | PT-BR |
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) | Youtube | Não | PT-BR |
@@ -41,6 +43,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Dev na Estrada](https://devnaestrada.com.br/) | Podcast | Não | PT-BR |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)| Cursos | Sim | PT-BR | 
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | Livro | Não | PT-BR | 
+| [Eddabit](https://edabit.com/) | Desafios | Não | EN | 
 | [Eduardo Cuducos](https://cuducos.me/blog/) | Blog | Não | PT-BR | 
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo ) | Youtube | Não | PT-BR | 
 | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/)| Livro | Não | EN | 
@@ -56,9 +59,13 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos | Sim | EN |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | EN/PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | PT-BR |
-| [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | EN |  
+| [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | EN | 
 | [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | EN | 
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | PT-BR | 
+| [HTML Dog](https://htmldog.com/) | Tutoriais | Não | EN | 
+| [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN | 
+| [JavaScript for Cats](http://jsforcats.com/) | Tutorial | Não | EN |
+| [JavaScript Katas](https://jskatas.org/ ) | Desafios | Não | EN |
 | [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Sim | PT |
 | [Jessica Temporal](https://jtemporal.com/ ) | Blog | Não | PT-BR |
@@ -94,9 +101,11 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | PT-BR | 
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Curso | Não | EN |  
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/) | Palestras | Não | EN |
+| [The Odin Project](https://www.theodinproject.com/home) | Cursos | Não | EN |
 | [Tim Tec](https://cursos.timtec.com.br/) | Cursos | Sim | PT-BR |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Cursos | Não | PT-BR |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Cursos | Não | PT-BR |
+| [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) | Desafios | Não | PT-BR |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | Não | PT-BR |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs) | Livro | Não | PT-BR |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso/Udemy | Não | PT-BR |  
@@ -116,4 +125,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Hugo Leonardo](https://github.com/hugoltsp)      | [Felipe Mellão](https://github.com/MellonFive)
 | [Cadu](https://github.com/cadu12359)              | [Edson Bruno](https://github.com/edsonbruno415)
 | [Victor Katsuo](https://github.com/vyamashiro)    | [Guilherme de Andrade](https://github.com/guilhermedeandrade)
-| [Wellington Silva](https://github.com/sswellington)    |[Larissa Benevides Vieira](https://github.com/Laribene)
+| [Wellington Silva](https://github.com/sswellington)    | [Thaiane Braga](https://github.com/Thaiane)
+| [Larissa Benevides Vieira](https://github.com/Laribene)    |
