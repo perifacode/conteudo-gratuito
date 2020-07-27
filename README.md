@@ -19,11 +19,13 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Balta.io](https://balta.io/cursos) | Cursos | Não | PT-BR |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Cursos | Não | EN |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | PT-BR |
+| [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | Não | PT-BR |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | Podcast | Não | PT-BR |
 | [CaveriaTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | PT-BR |
 | [Caelum](https://www.caelum.com.br/apostilas) | Apostilas |Não| PT-BR |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/) | Cursos | Sim | PT-BR |
 | [Clojure for the Brave and True](https://www.braveclojure.com/) | Livro |Não| EN |
+| [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | Não | PT-BR |
 | [Codando](https://codando.org/material-gratuito/) | Cursos | Não | PT-BR |
 | [Code Academy](https://www.codecademy.com/ ) | Cursos | Não | EN |
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | PT-BR |
@@ -41,6 +43,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | PT-BR |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | Site | Sim | PT-BR |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | PT-BR| 
+| [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | PT-BR |
 | [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbiA)| Youtube | Não | PT-BR| 
 | [Dev na Estrada](https://devnaestrada.com.br/) | Podcast | Não | PT-BR |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)| Cursos | Sim | PT-BR | 
@@ -59,6 +62,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |Não | PT-BR | 
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Cursos | Sim | PT-BR | |
 | [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | PT-BR |
+| [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | Não | PT-BR |
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos | Sim | EN |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | EN/PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | PT-BR |
@@ -137,5 +141,4 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Zian25](https://github.com/zian25)     | [Thaiane Braga](https://github.com/Thaiane)
 | [Wellington Silva](https://github.com/sswellington)    |  [Thyago Santiago](https://github.com/tlsantiago)
 | [Larissa Benevides Vieira](https://github.com/Laribene)    | [Victor Radael](https://github.com/victorradael)
-| [Lucas Rodrigues](https://github.com/lucasrc98)  
-
+| [Douglas Rosa](https://github.com/douglasanro) | [Lucas Rodrigues](https://github.com/lucasrc98)  
