@@ -9,9 +9,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 **Conteúdos deverão seguir a ordem alfabética**&nbsp;
 
-
-**Adicione o seu nome na parte de contribuidores junto com o PR**
-
+**Seu nome será inserido na lista de contribuidores após a aprovação do PR, através do [all-contributors](https://github.com/all-contributors/all-contributors)**
 ---
 
 ## Lista de Conteúdo (em ordem alfabética)
@@ -128,27 +126,10 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Livro | Não | EN |  
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | PT-BR |
 
-## Quem já contribuiu
 
-| | |
-| ------------------------------------------------  | -----------------------------------------------------|
-| [Guilherme Vieira](https://github.com/gitlherme)  | [Luís Ângelo](https://github.com/luisangelorjr)
-| [Kamila Santos](https://github.com/Kamilahsantos) | [José Ulisses](https://github.com/jos3s)
-| [William Oliveira](https://github.com/woliveiras) | [Igor Cavalcanti](https://github.com/cavalcantigor)
-| [Tammy Fagá](https://github.com/tammyfaga)        | [Naldson Chagas](https://github.com/NaldsonChagas)
-| [Carla Paiva](https://github.com/CarlaPaiva)      | [Júlio Moreira](https://github.com/juliomoreira666)
-| [Hugo Leonardo](https://github.com/hugoltsp)      | [Felipe Mellão](https://github.com/MellonFive)
-| [Cadu](https://github.com/cadu12359)              | [Edson Bruno](https://github.com/edsonbruno415)
-| [Victor Katsuo](https://github.com/vyamashiro)    | [Guilherme de Andrade](https://github.com/guilhermedeandrade)
-| [Jamessom Queiroz](https://github.com/jamessom)    |[Gustavo Dias A.](https://github.com/gfda)  
-| [Zian25](https://github.com/zian25)     | [Thaiane Braga](https://github.com/Thaiane)
-| [Wellington Silva](https://github.com/sswellington)    |  [Thyago Santiago](https://github.com/tlsantiago)
-| [Larissa Benevides Vieira](https://github.com/Laribene)    | [Victor Radael](https://github.com/victorradael)
-| [Douglas Rosa](https://github.com/douglasanro) | [Lucas Rodrigues](https://github.com/lucasrc98)  
+## Contribuidores ✨
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse repositório com suas contribuições 🎉
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -194,4 +175,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Esse projeto segue as especificações do [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições são muito bem-vindas!
