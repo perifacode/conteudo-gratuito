@@ -63,6 +63,9 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Cursos | Sim | PT-BR | |
 | [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | PT-BR |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | Não | PT-BR |
+| [Folha de Dicas (Cheat Sheet) CSS](https://overapi.com/css) | Consulta Rápida | Não | EN |
+| [Folha de Dicas (Cheat Sheet) HTML](https://overapi.com/html) | Consulta Rápida | Não | EN |
+| [Folha de Dicas (Cheat Sheet) JS](https://overapi.com/javascript) | Consulta Rápida | Não | EN |
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos | Sim | EN |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | EN/PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | PT-BR |
@@ -84,6 +87,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Podcast | Não | PT-BR | 
 | [Leticia Portella](https://leportella.com/pt-br) | Blog | Não | PT-BR/EN |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal ) | Youtube | Não | PT-BR |
+| [Lista de Questões JS](https://github.com/lydiahallie/javascript-questions/blob/master/pt-BR/README_pt_BR.md) | Desafios | Não | PT-BR |
 | [Loiane Training](https://loiane.training/cursos) | Cursos | Sim | PT-BR |  
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg ) | Youtube | Não | PT-BR |
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) | Youtube | Nao | PT-BR |  
@@ -141,4 +145,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Zian25](https://github.com/zian25)     | [Thaiane Braga](https://github.com/Thaiane)
 | [Wellington Silva](https://github.com/sswellington)    |  [Thyago Santiago](https://github.com/tlsantiago)
 | [Larissa Benevides Vieira](https://github.com/Laribene)    | [Victor Radael](https://github.com/victorradael)
-| [Douglas Rosa](https://github.com/douglasanro) | [Lucas Rodrigues](https://github.com/lucasrc98)  
+| [Douglas Rosa](https://github.com/douglasanro) | [Lucas Rodrigues](https://github.com/lucasrc98)
+| [Gustavo Varallo](https://github.com/guvarallo) |  
