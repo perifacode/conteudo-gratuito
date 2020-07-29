@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "gitlherme",
+      "name": "Guilherme Vieira",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/37789845?v=4",
+      "profile": "http://guilhermevieira.dev",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "conteudo-gratuito",
+  "projectOwner": "perifacode",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
