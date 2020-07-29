@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -171,6 +171,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://felipecastellimellao.epizy.com/"><img src="https://avatars2.githubusercontent.com/u/26828160?v=4" width="100px;" alt=""/><br /><sub><b>Felipe Mellão</b></sub></a><br /><a href="#content-MellonFive" title="Content">🖋</a></td>
     <td align="center"><a href="https://sourcerer.io/cadu12359"><img src="https://avatars2.githubusercontent.com/u/43688143?v=4" width="100px;" alt=""/><br /><sub><b>cadu12359</b></sub></a><br /><a href="#content-cadu12359" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/edsonbruno415"><img src="https://avatars0.githubusercontent.com/u/41022096?v=4" width="100px;" alt=""/><br /><sub><b>Edson Bruno</b></sub></a><br /><a href="#content-edsonbruno415" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/vyamashiro/"><img src="https://avatars2.githubusercontent.com/u/15017935?v=4" width="100px;" alt=""/><br /><sub><b>Victor Katsuo Yamashiro</b></sub></a><br /><a href="#content-vyamashiro" title="Content">🖋</a></td>
   </tr>
 </table>
 
