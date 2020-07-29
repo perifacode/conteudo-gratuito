@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -183,6 +183,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/tlsantiago"><img src="https://avatars2.githubusercontent.com/u/33438841?v=4" width="100px;" alt=""/><br /><sub><b>Thyago Lins Santiago</b></sub></a><br /><a href="#content-tlsantiago" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Laribene"><img src="https://avatars1.githubusercontent.com/u/43556610?v=4" width="100px;" alt=""/><br /><sub><b>Larissa Benevides Vieira</b></sub></a><br /><a href="#content-Laribene" title="Content">🖋</a></td>
   </tr>
 </table>
 
