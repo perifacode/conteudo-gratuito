@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -156,6 +156,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://guilhermevieira.dev"><img src="https://avatars0.githubusercontent.com/u/37789845?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Vieira</b></sub></a><br /><a href="#content-gitlherme" title="Content">🖋</a></td>
+    <td align="center"><a href="https://sourcerer.io/cadu12359"><img src="https://avatars2.githubusercontent.com/u/43688143?v=4" width="100px;" alt=""/><br /><sub><b>cadu12359</b></sub></a><br /><a href="#content-cadu12359" title="Content">🖋</a></td>
   </tr>
 </table>
 
