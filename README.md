@@ -6,10 +6,11 @@
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
 
 Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
+Seu nome será inserido na lista de contribuidores após a aprovação do PR, através do [all-contributors](https://github.com/all-contributors/all-contributors)
 
 **Conteúdos deverão seguir a ordem alfabética**&nbsp;
 
-__Seu nome será inserido na lista de contribuidores após a aprovação do PR, através do [all-contributors](https://github.com/all-contributors/all-contributors)__
+
 ---
 
 ## Lista de Conteúdo (em ordem alfabética)
