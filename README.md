@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -175,6 +175,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/vyamashiro/"><img src="https://avatars2.githubusercontent.com/u/15017935?v=4" width="100px;" alt=""/><br /><sub><b>Victor Katsuo Yamashiro</b></sub></a><br /><a href="#content-vyamashiro" title="Content">🖋</a></td>
     <td align="center"><a href="http://guilherme.codes"><img src="https://avatars2.githubusercontent.com/u/8797405?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme de Andrade</b></sub></a><br /><a href="#content-guilhermedeandrade" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/jamessom"><img src="https://avatars0.githubusercontent.com/u/2079263?v=4" width="100px;" alt=""/><br /><sub><b>Jamessom Queiroz</b></sub></a><br /><a href="#content-jamessom" title="Content">🖋</a></td>
   </tr>
 </table>
 
