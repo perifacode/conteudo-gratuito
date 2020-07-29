@@ -1,4 +1,7 @@
 # 📌 Conteúdo gratuito
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
 
@@ -142,3 +145,22 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | [Wellington Silva](https://github.com/sswellington)    |  [Thyago Santiago](https://github.com/tlsantiago)
 | [Larissa Benevides Vieira](https://github.com/Laribene)    | [Victor Radael](https://github.com/victorradael)
 | [Douglas Rosa](https://github.com/douglasanro) | [Lucas Rodrigues](https://github.com/lucasrc98)  
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://guilhermevieira.dev"><img src="https://avatars0.githubusercontent.com/u/37789845?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Vieira</b></sub></a><br /><a href="#content-gitlherme" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
