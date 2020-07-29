@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -180,6 +180,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Zian25"><img src="https://avatars2.githubusercontent.com/u/45297168?v=4" width="100px;" alt=""/><br /><sub><b>Zian25</b></sub></a><br /><a href="#content-Zian25" title="Content">🖋</a></td>
     <td align="center"><a href="http://thaiane.github.io"><img src="https://avatars1.githubusercontent.com/u/5108244?v=4" width="100px;" alt=""/><br /><sub><b>Thaiane Braga</b></sub></a><br /><a href="#content-Thaiane" title="Content">🖋</a></td>
     <td align="center"><a href="https://sswellington.github.io/sswellington/"><img src="https://avatars2.githubusercontent.com/u/45939490?v=4" width="100px;" alt=""/><br /><sub><b>Wellington Silva</b></sub></a><br /><a href="#content-sswellington" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/tlsantiago"><img src="https://avatars2.githubusercontent.com/u/33438841?v=4" width="100px;" alt=""/><br /><sub><b>Thyago Lins Santiago</b></sub></a><br /><a href="#content-tlsantiago" title="Content">🖋</a></td>
   </tr>
 </table>
 
