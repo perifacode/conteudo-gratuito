@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -158,6 +158,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://guilhermevieira.dev"><img src="https://avatars0.githubusercontent.com/u/37789845?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Vieira</b></sub></a><br /><a href="#content-gitlherme" title="Content">🖋</a></td>
     <td align="center"><a href="https://luisangelorjr.com.br"><img src="https://avatars3.githubusercontent.com/u/22268900?v=4" width="100px;" alt=""/><br /><sub><b>Luís Ângelo Rodrigues Jr.</b></sub></a><br /><a href="#content-luisangelorjr" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/kamila-santos-oliveira/"><img src="https://avatars2.githubusercontent.com/u/32311268?v=4" width="100px;" alt=""/><br /><sub><b>Kamila de fatima santos oliveira</b></sub></a><br /><a href="#content-Kamilahsantos" title="Content">🖋</a></td>
+    <td align="center"><a href="http://jos3s.github.io"><img src="https://avatars2.githubusercontent.com/u/50359547?v=4" width="100px;" alt=""/><br /><sub><b>José Ulisses</b></sub></a><br /><a href="#content-jos3s" title="Content">🖋</a></td>
   </tr>
 </table>
 
