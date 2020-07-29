@@ -9,7 +9,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 
 **Conteúdos deverão seguir a ordem alfabética**&nbsp;
 
-**Seu nome será inserido na lista de contribuidores após a aprovação do PR, através do [all-contributors](https://github.com/all-contributors/all-contributors)**
+__Seu nome será inserido na lista de contribuidores após a aprovação do PR, através do [all-contributors](https://github.com/all-contributors/all-contributors)__
 ---
 
 ## Lista de Conteúdo (em ordem alfabética)
