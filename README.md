@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -168,6 +168,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/CarlaPaiva"><img src="https://avatars0.githubusercontent.com/u/51243239?v=4" width="100px;" alt=""/><br /><sub><b>Carla Paiva</b></sub></a><br /><a href="#content-CarlaPaiva" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/juliomoreira666"><img src="https://avatars1.githubusercontent.com/u/10946155?v=4" width="100px;" alt=""/><br /><sub><b>Júlio Moreira</b></sub></a><br /><a href="#content-juliomoreira666" title="Content">🖋</a></td>
     <td align="center"><a href="https://hugoltsp.github.io/"><img src="https://avatars1.githubusercontent.com/u/10605391?v=4" width="100px;" alt=""/><br /><sub><b>Hugo Leonardo Teles</b></sub></a><br /><a href="#content-hugoltsp" title="Content">🖋</a></td>
+    <td align="center"><a href="http://felipecastellimellao.epizy.com/"><img src="https://avatars2.githubusercontent.com/u/26828160?v=4" width="100px;" alt=""/><br /><sub><b>Felipe Mellão</b></sub></a><br /><a href="#content-MellonFive" title="Content">🖋</a></td>
   </tr>
 </table>
 
