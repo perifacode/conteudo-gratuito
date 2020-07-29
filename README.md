@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -161,6 +161,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://jos3s.github.io"><img src="https://avatars2.githubusercontent.com/u/50359547?v=4" width="100px;" alt=""/><br /><sub><b>José Ulisses</b></sub></a><br /><a href="#content-jos3s" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/woliveiras"><img src="https://avatars1.githubusercontent.com/u/4243601?v=4" width="100px;" alt=""/><br /><sub><b>William Oliveira</b></sub></a><br /><a href="#content-woliveiras" title="Content">🖋</a></td>
     <td align="center"><a href="https://cavalcantigor.github.io"><img src="https://avatars2.githubusercontent.com/u/8291170?v=4" width="100px;" alt=""/><br /><sub><b>Igor Cavalcanti</b></sub></a><br /><a href="#content-cavalcantigor" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/tammy-fag%C3%A1-7229b7129/"><img src="https://avatars1.githubusercontent.com/u/23056026?v=4" width="100px;" alt=""/><br /><sub><b>Tammy Fagá</b></sub></a><br /><a href="#content-tammyfaga" title="Content">🖋</a></td>
   </tr>
 </table>
 
