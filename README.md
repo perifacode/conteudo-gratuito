@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -185,6 +185,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/tlsantiago"><img src="https://avatars2.githubusercontent.com/u/33438841?v=4" width="100px;" alt=""/><br /><sub><b>Thyago Lins Santiago</b></sub></a><br /><a href="#content-tlsantiago" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Laribene"><img src="https://avatars1.githubusercontent.com/u/43556610?v=4" width="100px;" alt=""/><br /><sub><b>Larissa Benevides Vieira</b></sub></a><br /><a href="#content-Laribene" title="Content">🖋</a></td>
     <td align="center"><a href="https://victorradael.netlify.app/"><img src="https://avatars3.githubusercontent.com/u/53879758?v=4" width="100px;" alt=""/><br /><sub><b>Victor Radael</b></sub></a><br /><a href="#content-victorradael" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/douglasanro"><img src="https://avatars2.githubusercontent.com/u/4148526?v=4" width="100px;" alt=""/><br /><sub><b>Douglas Rosa</b></sub></a><br /><a href="#content-douglasanro" title="Content">🖋</a></td>
   </tr>
 </table>
 
