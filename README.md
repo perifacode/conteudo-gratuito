@@ -18,6 +18,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma |
 | -------------- | ---------------------------------- | ----------- | ------ |
+| [4noobs](https://github.com/he4rt/4noobs) | Cursos | Não | PT-BR |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | PT-BR |
 | [Balta.io](https://balta.io/cursos) | Cursos | Não | PT-BR |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Cursos | Não | EN |
