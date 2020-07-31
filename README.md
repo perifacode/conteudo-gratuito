@@ -80,6 +80,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [JavaScript for Cats](http://jsforcats.com/) | Tutorial | Não | EN |
 | [JavaScript Katas](https://jskatas.org/ ) | Desafios | Não | EN |
 | [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN |
+| [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Curso/Youtube | Sim | PT-BR |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Sim | PT |
 | [Jessica Temporal](https://jtemporal.com/ ) | Blog | Não | PT-BR |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | PT-BR | 
@@ -92,6 +93,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg ) | Youtube | Não | PT-BR |
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) | Youtube | Nao | PT-BR |  
 | [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag) | Youtube | Nao | PT-BR |  
+| [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/) | Curso/Youtube | Sim | PT-BR | 
 | [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Cursos | Não | PT/EN |
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q) | Youtube | Nao | PT-BR | 
 | [NodeSchool](https://nodeschool.io/) | Cursos | Não | PT-BR |  
@@ -108,7 +110,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | pt-BR | 
 | [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) | Youtube | Não | PT-BR |
 | [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg) | Youtube | Não | PT-BR |
-| [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ ) | Youtube | Não | PT-BR | 
+| [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ ) | Youtube | Não | PT-BR |
+| [Python Básico](https://solyd.com.br/treinamentos/python-basico/)| Curso/Youtube | Sim | PT-BR |
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli) | Youtube | Não | PT-BR | 
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ) | Youtube | NÃO | PT-BR | 
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | NÃO | PT-BR | 
@@ -124,7 +127,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) | Desafios | Não | PT-BR |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | Não | PT-BR |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs) | Livro | Não | PT-BR |
-| [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso/Udemy | Não | PT-BR |  
+| [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso/Udemy | Não | PT-BR |
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | Livro | Não | PT-BR |  
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Livro | Não | EN |  
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | PT-BR |
