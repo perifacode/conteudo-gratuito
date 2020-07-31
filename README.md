@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -171,6 +171,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://victorradael.netlify.app/"><img src="https://avatars3.githubusercontent.com/u/53879758?v=4" width="100px;" alt=""/><br /><sub><b>Victor Radael</b></sub></a><br /><a href="#content-victorradael" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/douglasanro"><img src="https://avatars2.githubusercontent.com/u/4148526?v=4" width="100px;" alt=""/><br /><sub><b>Douglas Rosa</b></sub></a><br /><a href="#content-douglasanro" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/lucasrc98"><img src="https://avatars0.githubusercontent.com/u/18463011?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Rodrigues</b></sub></a><br /><a href="#content-lucasrc98" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/SaLandini"><img src="https://avatars0.githubusercontent.com/u/62630050?v=4" width="100px;" alt=""/><br /><sub><b>Rafael Salandin</b></sub></a><br /><a href="#content-SaLandini" title="Content">🖋</a></td>
   </tr>
 </table>
 
