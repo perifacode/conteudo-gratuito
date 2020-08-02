@@ -42,7 +42,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science )| Cursos | Não | EN |
 | [cursae](https://www.cursae.com.br/)| Cursos | Sim | PT-BR |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | PT |
-| [Curso em Vídeo (Gustavo Guanabara)](https://www.youtube.com/user/cursosemvideo/) | Youtube | Sim (via site, temporariamente indisponível) | PT-BR | 
+| [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/) | Youtube | Sim (Pago) | PT-BR | 
 | [Data Hackers](https://datahackers.com.br/podcast) | Podcast | Não | PT-BR | 
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | PT-BR |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | Site | Sim | PT-BR |
@@ -116,6 +116,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ) | Youtube | NÃO | PT-BR | 
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | NÃO | PT-BR | 
 | [Rocketseat](https://rocketseat.com.br) | Youtube/Cursos/Podcast/Blog | Não | PT-BR | 
+| [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) | Youtube/Cursos | Não | PT-BR | 
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Cursos | Sim | PT-BR | 
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | PT-BR | 
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Curso | Não | EN |  
