@@ -119,6 +119,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) | Youtube/Cursos | Não | PT-BR | 
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Cursos | Sim | PT-BR | 
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | PT-BR | 
+| [Test Automation University](https://testautomationu.applitools.com) | Cursos | Sim | EN | 
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Curso | Não | EN |  
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/) | Palestras | Não | EN |
 | [The Odin Project](https://www.theodinproject.com/) | Cursos | Não | EN |
