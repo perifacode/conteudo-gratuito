@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -178,6 +178,9 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://www.linkedin.com/in/lucasrc98"><img src="https://avatars0.githubusercontent.com/u/18463011?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Rodrigues</b></sub></a><br /><a href="#content-lucasrc98" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/SaLandini"><img src="https://avatars0.githubusercontent.com/u/62630050?v=4" width="100px;" alt=""/><br /><sub><b>Rafael Salandin</b></sub></a><br /><a href="#content-SaLandini" title="Content">🖋</a></td>
     <td align="center"><a href="http://cristuker.github.io/"><img src="https://avatars0.githubusercontent.com/u/42705870?v=4" width="100px;" alt=""/><br /><sub><b>Cristian Magalhães</b></sub></a><br /><a href="#content-Cristuker" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/laurielylourenco"><img src="https://avatars3.githubusercontent.com/u/49760702?v=4" width="100px;" alt=""/><br /><sub><b>lauriely lourenço</b></sub></a><br /><a href="#content-laurielylourenco" title="Content">🖋</a></td>
   </tr>
 </table>
 
