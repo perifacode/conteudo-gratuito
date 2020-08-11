@@ -115,7 +115,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli) | Youtube | Não | PT-BR | 
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ) | Youtube | NÃO | PT-BR | 
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | NÃO | PT-BR | 
-| [Rocketseat](https://rocketseat.com.br) | Youtube/Cursos/Podcast/Blog | Não | PT-BR | 
+| [Rocketseat](https://rocketseat.com.br) | Youtube/Cursos/Podcast/Blog | Não | PT-BR |
+| [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas) | Youtube/Cursos | Não | PT-BR | 
 | [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) | Youtube/Cursos | Não | PT-BR | 
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Cursos | Sim | PT-BR | 
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | PT-BR | 
