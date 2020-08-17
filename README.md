@@ -31,7 +31,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Clojure for the Brave and True](https://www.braveclojure.com/) | Livro |Não| EN |
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | Não | PT-BR |
 | [Codando](https://codando.org/material-gratuito/) | Cursos | Não | PT-BR |
-| [Code Academy](https://www.codecademy.com/ ) | Cursos | Não | EN |
+| [Codecademy](https://www.codecademy.com/ ) | Cursos | Não | EN |
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | PT-BR |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/) | Jogo | Não | EN |
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo | Não | EN |
