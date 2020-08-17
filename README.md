@@ -73,6 +73,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Future Learn](https://www.futurelearn.com) | Cursos | Não | EN | https://www.futurelearn.com/ |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | EN | 
 | [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | EN | 
+| [High5Devs](http://high5devs.com/) | Blog | Não | PT-BR | 
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | PT-BR | 
 | [HTML Dog](https://htmldog.com/) | Tutoriais | Não | EN | 
 | [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN | 
