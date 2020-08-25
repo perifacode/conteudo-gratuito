@@ -1,6 +1,6 @@
 # 📌 Conteúdo gratuito
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -187,6 +187,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://www.linkedin.com/in/cleberolv/"><img src="https://avatars1.githubusercontent.com/u/18565015?v=4" width="100px;" alt=""/><br /><sub><b>Cleber Oliveira</b></sub></a><br /><a href="#content-cleberolv" title="Content">🖋</a></td>
     <td align="center"><a href="https://hellyson-ferreira.github.io/hellysonferreira.github.io/."><img src="https://avatars1.githubusercontent.com/u/37805353?v=4" width="100px;" alt=""/><br /><sub><b>Hellyson Ferreira</b></sub></a><br /><a href="#content-Hellyson-Ferreira" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/dwarfthief/"><img src="https://avatars3.githubusercontent.com/u/20383317?v=4" width="100px;" alt=""/><br /><sub><b>Brenno Barboza</b></sub></a><br /><a href="#content-DwarfThief" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.quora.com/profile/Gabriel-Crispino"><img src="https://avatars3.githubusercontent.com/u/8827509?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Crispino</b></sub></a><br /><a href="#content-GCrispino" title="Content">🖋</a></td>
   </tr>
 </table>
 
