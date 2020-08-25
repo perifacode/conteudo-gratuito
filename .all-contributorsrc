@@ -292,6 +292,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "GCrispino",
+      "name": "Gabriel Crispino",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8827509?v=4",
+      "profile": "https://www.quora.com/profile/Gabriel-Crispino",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
