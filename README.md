@@ -44,6 +44,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | PT |
 | [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/) | Youtube | Sim (Pago) | PT-BR | 
 | [Data Hackers](https://datahackers.com.br/podcast) | Podcast | Não | PT-BR | 
+| [Desafio #30diasCSS](https://github.com/MilenaCarecho/30diasDeCSS) | Desafio | Não | PT-BR |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | PT-BR |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | Site | Sim | PT-BR |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | PT-BR| 
