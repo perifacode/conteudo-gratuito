@@ -2,7 +2,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -35,11 +35,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Codando](https://codando.org/material-gratuito/)                                                                                              | Cursos                      | Não         | PT-BR    |
 | [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Não         | EN       |
 | [Code Show](https://www.youtube.com/user/brunovegan)                                                                                           | Youtube                     | Não         | PT-BR    |
-| [CodeSignal](https://app.codesignal.com/login)                                                                                                 | Desafios                    | Não         | EN       |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)                                                                          | Jogo                        | Não         | EN       |
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/)                                                                                | Jogo                        | Não         | EN       |
+| [CodeSignal](https://app.codesignal.com/login)                                                                                                 | Desafios                    | Não         | EN       |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)                                                                                  | Youtube                     | Não         | PT-BR    |
-| [Codingame](https://www.codingame.com/)                                                                                                        | Desafios                    | Não         | EN       |
+| [CodinGame](https://www.codingame.com/)                                                                                                        | Desafios                    | Não         | EN       |
 | [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube              | Sim         | PT-BR    |
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
@@ -48,6 +48,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito)                                                               | Curso                       | Sim         | PT       |
 | [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/)                                                                            | Youtube                     | Sim (Pago)  | PT-BR    |
 | [Data Hackers](https://datahackers.com.br/podcast)                                                                                             | Podcast                     | Não         | PT-BR    |
+| [Desafio #30diasCSS](https://github.com/MilenaCarecho/30diasDeCSS)                                                                             | Desafio                     | Não         | PT-BR    |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Desenvolvedor.io](https://desenvolvedor.io/)                                                                                                  | Site                        | Sim         | PT-BR    |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)                                                                            | Youtube                     | Não         | PT-BR    |
@@ -195,6 +196,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://www.linkedin.com/in/dwarfthief/"><img src="https://avatars3.githubusercontent.com/u/20383317?v=4" width="100px;" alt=""/><br /><sub><b>Brenno Barboza</b></sub></a><br /><a href="#content-DwarfThief" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.quora.com/profile/Gabriel-Crispino"><img src="https://avatars3.githubusercontent.com/u/8827509?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Crispino</b></sub></a><br /><a href="#content-GCrispino" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/LetticiaNicoli"><img src="https://avatars3.githubusercontent.com/u/13442773?v=4" width="100px;" alt=""/><br /><sub><b>Letticia Nicoli</b></sub></a><br /><a href="#content-LetticiaNicoli" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/MilenaCarecho"><img src="https://avatars3.githubusercontent.com/u/37448340?v=4" width="100px;" alt=""/><br /><sub><b>Milena Carecho</b></sub></a><br /><a href="#content-MilenaCarecho" title="Content">🖋</a></td>
   </tr>
 </table>
 
