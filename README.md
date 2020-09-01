@@ -1,9 +1,7 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -198,11 +196,13 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/LetticiaNicoli"><img src="https://avatars3.githubusercontent.com/u/13442773?v=4" width="100px;" alt=""/><br /><sub><b>Letticia Nicoli</b></sub></a><br /><a href="#content-LetticiaNicoli" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/MilenaCarecho"><img src="https://avatars3.githubusercontent.com/u/37448340?v=4" width="100px;" alt=""/><br /><sub><b>Milena Carecho</b></sub></a><br /><a href="#content-MilenaCarecho" title="Content">🖋</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/gustavodomingueti/"><img src="https://avatars1.githubusercontent.com/u/36142371?v=4" width="100px;" alt=""/><br /><sub><b>Gustavo Domingueti</b></sub></a><br /><a href="#content-dominguetigs" title="Content">🖋</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Esse projeto segue as especificações do [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições são muito bem-vindas!
