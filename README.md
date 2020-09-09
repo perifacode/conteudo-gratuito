@@ -153,6 +153,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS)                                                                    | Livro                       | Não         | EN       |
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
+| [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
 
 
 
