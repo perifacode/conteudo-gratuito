@@ -83,6 +83,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/)                                                                                   | Cursos                      | Sim         | PT-BR    |
 | [Future Learn](https://www.futurelearn.com)                                                                                                    | Cursos                      | Não         | EN       | 
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
+| [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Hacker Rank](https://www.hackerrank.com/)                                                                                                     | Desafios                    | Não         | EN       |
 | [High5Devs](http://high5devs.com/)                                                                                                             | Blog                        | Não         | PT-BR    |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                                                                  | Podcast                     | Não         | PT-BR    |
@@ -153,6 +154,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS)                                                                    | Livro                       | Não         | EN       |
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
+
 
 
 
