@@ -70,6 +70,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)                                                                           | Youtube                     | Não         | EN       |
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ)                                                                   | Youtube/Cursos              | Não         | PT-BR    |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)                                                                                           | Podcast                     | Não         | PT-BR    |
+| [Estudonauta](https://www.estudonauta.com/home-principal/)                                                                                           | Curso                     | Sim        | PT-BR    |
 | [eXcript](https://www.youtube.com/user/excriptvideo)                                                                                           | Youtube                     | Não         | PT-BR    |
 | [Exercism](https://exercism.io/)                                                                                                               | Desafios                    | Não         | EN       |
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)                                                                                       | Youtube                     | Não         | PT-BR    |
@@ -120,6 +121,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)                                                                        | Youtube                     | Não         | PT-BR    | 
 | [Pizza de Dados](https://pizzadedados.com/)                                                                                                    | Podcast                     | Não         | PT-BR    |
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/)                                                                                      | Podcast                     | Não         | PT-BR    |
+| [PokePHP](https://pokephp.com.br/)                                                            | Curso/Youtube                     | Não         | PT-BR    |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)                  | Livro                       | Não         | EN       |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | Livro                       | Não         | PT-BR    |
 | [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis)                                                                   | Youtube                     | Não         | PT-BR    |
