@@ -70,7 +70,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)                                                                           | Youtube                     | Não         | EN       |
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ)                                                                   | Youtube/Cursos              | Não         | PT-BR    |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)                                                                                           | Podcast                     | Não         | PT-BR    |
-| [Estudonauta](https://www.estudonauta.com/home-principal/)                                                                                           | Curso                     | Sim        | PT-BR    |
+| [Estudonauta](https://www.estudonauta.com/home-principal/)                                                                                           | Curso                     | Sim (Pago)        | PT-BR    |
 | [eXcript](https://www.youtube.com/user/excriptvideo)                                                                                           | Youtube                     | Não         | PT-BR    |
 | [Exercism](https://exercism.io/)                                                                                                               | Desafios                    | Não         | EN       |
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)                                                                                       | Youtube                     | Não         | PT-BR    |
