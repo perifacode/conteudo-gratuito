@@ -77,7 +77,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)                                                                           | Youtube                     | Não         | PT-BR    |
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)                                           | Cursos                      | Sim         | PT-BR    |  
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem)                                                                                         | YouTube                     | Não         | PT-BR    |
-| [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)                                                                    | YouTube                     | Não         | PT-BR    |
+| [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)                                                                    | YouTube                     | Não         | PT-BR    |
 | [FreeCodeCamp](https://www.freecodecamp.org/)                                                                                                  | Cursos                      | Sim         | EN       |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges)                                                                     | Desafios                    | Não         | EN/PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/)                                                                                   | Cursos                      | Sim         | PT-BR    |
@@ -144,6 +144,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Tim Tec](https://cursos.timtec.com.br/)                                                                                                       | Cursos                      | Sim         | PT-BR    |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/)                                                                             | Cursos                      | Não         | PT-BR    |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity)                                           | Cursos                      | Não         | PT-BR    |
+| [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)                                                                | YouTube                     | Não         | pt-BR    |
 | [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)                                                                           | Desafios                    | Não         | PT-BR    |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)                                                                   | Youtube                     | Não         | PT-BR    |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs)                                                                                             | Livro                       | Não         | PT-BR    |
