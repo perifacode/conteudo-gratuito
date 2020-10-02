@@ -42,6 +42,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [CodeSignal](https://app.codesignal.com/login)                                                                                                 | Desafios                    | Não         | EN       |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)                                                                                  | Youtube                     | Não         | PT-BR    |
 | [CodinGame](https://www.codingame.com/)                                                                                                        | Desafios                    | Não         | EN       |
+| [Coluna7](https://colaboradados.com.br/podcast.html)                                                                                           | Podcast                     | Não         | PT-BR       |
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube              | Sim         | PT-BR    |
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
@@ -218,7 +219,9 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://www.linkedin.com/in/gustavodomingueti/"><img src="https://avatars1.githubusercontent.com/u/36142371?v=4" width="100px;" alt=""/><br /><sub><b>Gustavo Domingueti</b></sub></a><br /><a href="#content-dominguetigs" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/fernandocalheirox"><img src="https://avatars2.githubusercontent.com/u/26009394?v=4" width="100px;" alt=""/><br /><sub><b>Fernando </b></sub></a><br /><a href="#content-fernandocalheirox" title="Content">🖋</a></td>
     <td align="center"><a href="https://twitter.com/FernanduAndrade"><img src="https://avatars0.githubusercontent.com/u/58053397?v=4" width="100px;" alt=""/><br /><sub><b>Fernando Andrade</b></sub></a><br /><a href="#content-fernanduandrade" title="Content">🖋</a></td>
+    <td align-"center"><a href="https://twitter.com/devblackpower"><img src="https://avatars3.githubusercontent.com/u/32372161?s=4" width="100px;" alt=""/><br /><sub><b>Dilenon Delfino</b></sub></a></br /><a href="#content-devblackpower" title="Content">🖋</a></td>
   </tr>
+  
 </table>
 
 <!-- markdownlint-enable -->
