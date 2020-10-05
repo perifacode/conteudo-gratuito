@@ -138,6 +138,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)                                                                     | Youtube                     | Não         | PT-BR    |
 | [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ)                                                                  | Youtube                     | Não         | PT-BR    |
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/)                                                                              | Curso/Youtube               | Sim         | PT-BR    |
+| [Python para Zumbis](https://www.pycursos.com/python-para-zumbis)                                                                              | Cursos         | Não         | PT-BR    |      
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli)                                                                                     | Youtube                     | Não         | PT-BR    |
 | [Python for Everybody](https://www.py4e.com/)                                                                                                  | Curso/Livro                 | Não         | PT-BR/EN |
 | [QuebraDev](https://quebradev.com.br/) | Podcast | Não | PT-BR |
