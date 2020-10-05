@@ -34,6 +34,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)                                                                       | YouTube                     | Não         | PT-BR    |
+| [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |
 | [Codando](https://codando.org/material-gratuito/)                                                                                              | Cursos                      | Não         | PT-BR    |
 | [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Não         | EN       |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)                                                                          | Jogo                        | Não         | EN       |
