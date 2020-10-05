@@ -21,6 +21,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [4noobs](https://github.com/he4rt/4noobs)                                                                                                      | Cursos                      | Não         | PT-BR    |
 | [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
+| [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
 | [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Não         | PT-BR    |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
