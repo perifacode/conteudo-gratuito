@@ -427,6 +427,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "fernandosutter",
+      "name": "Fernando Sutter",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/37943384?v=4",
+      "profile": "https://github.com/fernandosutter",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
