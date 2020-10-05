@@ -112,6 +112,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [Loiane Training](https://loiane.training/cursos)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)                                                                      | Youtube                     | Não         | PT-BR    |
+| [Manu Codes](https://www.youtube.com/c/ManuCodes)                                                                                              | Youtube                     | Não         | PT-PT    |
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow)                                                   | Youtube                     | Nao         | PT-BR    |
 | [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag)                                                                     | Youtube                     | Nao         | PT-BR    |
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/)                                                | Curso/Youtube               | Sim         | PT-BR    |
@@ -155,6 +156,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Tim Tec](https://cursos.timtec.com.br/)                                                                                                       | Cursos                      | Sim         | PT-BR    |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/)                                                                             | Cursos                      | Não         | PT-BR    |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity)                                           | Cursos                      | Não         | PT-BR    |
+| [Universo Discreto](https://www.youtube.com/c/UniversoDiscreto/videos)                                                                         | Curso/Youtube                      | Não         | PT-BR    |
 | [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)                                                                           | Desafios                    | Não         | PT-BR    |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)                                                                   | Youtube                     | Não         | PT-BR    |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs)                                                                                             | Livro                       | Não         | PT-BR    |
