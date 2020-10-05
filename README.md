@@ -1,7 +1,7 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -222,6 +222,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/fernandocalheirox"><img src="https://avatars2.githubusercontent.com/u/26009394?v=4" width="100px;" alt=""/><br /><sub><b>Fernando </b></sub></a><br /><a href="#content-fernandocalheirox" title="Content">🖋</a></td>
     <td align="center"><a href="https://twitter.com/FernanduAndrade"><img src="https://avatars0.githubusercontent.com/u/58053397?v=4" width="100px;" alt=""/><br /><sub><b>Fernando Andrade</b></sub></a><br /><a href="#content-fernanduandrade" title="Content">🖋</a></td>
     <td align="center"><a href="http://jpres.dev"><img src="https://avatars2.githubusercontent.com/u/58999202?v=4" width="100px;" alt=""/><br /><sub><b>João Pedro</b></sub></a><br /><a href="#content-jpbrab0" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/edersonferreira"><img src="https://avatars3.githubusercontent.com/u/54503981?v=4" width="100px;" alt=""/><br /><sub><b>Ederson Ferreira</b></sub></a><br /><a href="#content-edersonferreira" title="Content">🖋</a></td>
   </tr>
 </table>
 
