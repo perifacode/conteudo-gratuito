@@ -346,6 +346,60 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "jpbrab0",
+      "name": "João Pedro",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58999202?v=4",
+      "profile": "http://jpres.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "edersonferreira",
+      "name": "Ederson Ferreira",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54503981?v=4",
+      "profile": "https://github.com/edersonferreira",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "LeonardoSSev",
+      "name": "Leonardo Santos",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/22045061?v=4",
+      "profile": "https://www.linkedin.com/in/leonardossev/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "feliper2002",
+      "name": "Felipe Ribeiro",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/64623273?v=4",
+      "profile": "https://github.com/feliper2002",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "DoodlesEpic",
+      "name": "Eduardo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37254797?v=4",
+      "profile": "https://github.com/DoodlesEpic",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "rayanepimentel",
+      "name": "Rayane Pimentel",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37915359?v=4",
+      "profile": "https://linkedin.com/in/rayanepimentel",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
