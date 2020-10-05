@@ -1,7 +1,7 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -235,6 +235,9 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/edersonferreira"><img src="https://avatars3.githubusercontent.com/u/54503981?v=4" width="100px;" alt=""/><br /><sub><b>Ederson Ferreira</b></sub></a><br /><a href="#content-edersonferreira" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/leonardossev/"><img src="https://avatars3.githubusercontent.com/u/22045061?v=4" width="100px;" alt=""/><br /><sub><b>Leonardo Santos</b></sub></a><br /><a href="#content-LeonardoSSev" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/feliper2002"><img src="https://avatars1.githubusercontent.com/u/64623273?v=4" width="100px;" alt=""/><br /><sub><b>Felipe Ribeiro</b></sub></a><br /><a href="#content-feliper2002" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/DoodlesEpic"><img src="https://avatars1.githubusercontent.com/u/37254797?v=4" width="100px;" alt=""/><br /><sub><b>Eduardo</b></sub></a><br /><a href="#content-DoodlesEpic" title="Content">🖋</a></td>
   </tr>
 </table>
 
