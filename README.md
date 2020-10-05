@@ -166,6 +166,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)                                                                           | Desafios                    | Não         | PT-BR    |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)                                                                   | Youtube                     | Não         | PT-BR    |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs)                                                                                             | Livro                       | Não         | PT-BR    |
+| [Waldemar Neto Dev Lab](https://www.youtube.com/user/waldemaneto)                                                                              | Youtube                     | Não         | PT-BR    |
 | [Web skills](https://andreasbm.github.io/web-skills/)                                                                                          | Site                        | Nao         | EN       |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/)                                                   | Curso/Udemy                 | Não         | PT-BR    |
 | [Write your own Operating System](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)                                                    | Youtube                     | Não         | EN       | 
