@@ -1,7 +1,7 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -244,6 +244,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/DoodlesEpic"><img src="https://avatars1.githubusercontent.com/u/37254797?v=4" width="100px;" alt=""/><br /><sub><b>Eduardo</b></sub></a><br /><a href="#content-DoodlesEpic" title="Content">🖋</a></td>
     <td align="center"><a href="https://linkedin.com/in/rayanepimentel"><img src="https://avatars1.githubusercontent.com/u/37915359?v=4" width="100px;" alt=""/><br /><sub><b>Rayane Pimentel</b></sub></a><br /><a href="#content-rayanepimentel" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Giancarl021"><img src="https://avatars1.githubusercontent.com/u/44367174?v=4" width="100px;" alt=""/><br /><sub><b>Giancarlo Fontela da Luz</b></sub></a><br /><a href="#content-Giancarl021" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin/in/staelsabrina"><img src="https://avatars1.githubusercontent.com/u/70036949?v=4" width="100px;" alt=""/><br /><sub><b>Stael Sabrina</b></sub></a><br /><a href="#content-staelsabrina" title="Content">🖋</a></td>
   </tr>
 </table>
 
