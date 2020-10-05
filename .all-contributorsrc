@@ -346,6 +346,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "jpbrab0",
+      "name": "João Pedro",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58999202?v=4",
+      "profile": "http://jpres.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
