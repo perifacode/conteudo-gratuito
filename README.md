@@ -27,6 +27,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/)                                                                          | Youtube                     | Não         | PT-BR    |
 | [Bóson Treinamentos](https://www.youtube.com/channel/UCzOGJclZQvPVgYZIwERsf5g)                                                                 | Youtube                     | Não         | PT-BR    |
+| [Brackeys](https://www.youtube.com/c/Brackeys)                                                                                              | YouTube                     | Não         | EN       |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS)                                                                                              | YouTube                     | Não         | PT-BR    |
 | [C/C++ Brasil](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg)                                                                       | Youtube                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
