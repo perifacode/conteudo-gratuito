@@ -1,7 +1,9 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -83,13 +85,13 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [FalaDev](https://pizzadedados.com/)                                                                                                           | Podcast                     | Não         | PT-BR    |
 | [FalaNeto](https://falaneto.com/) | Podcast | Não | PT-BR |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)                                                                           | Youtube                     | Não         | PT-BR    |
-| [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)                                           | Cursos                      | Sim         | PT-BR    |  
+| [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)                                           | Cursos                      | Sim         | PT-BR    |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem)                                                                                         | YouTube                     | Não         | PT-BR    |
 | [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)                                                                    | YouTube                     | Não         | PT-BR    |
 | [FreeCodeCamp](https://www.freecodecamp.org/)                                                                                                  | Cursos                      | Sim         | EN       |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges)                                                                     | Desafios                    | Não         | EN/PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/)                                                                                   | Cursos                      | Sim         | PT-BR    |
-| [Future Learn](https://www.futurelearn.com)                                                                                                    | Cursos                      | Não         | EN       | 
+| [Future Learn](https://www.futurelearn.com)                                                                                                    | Cursos                      | Não         | EN       |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
@@ -102,6 +104,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/)                                          | Curso/Youtube               | Sim         | PT-BR    |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/)                                  | Curso                       | Sim         | PT       |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA)                                                                 | Youtube                     | Não         | PT-BR    |
+| [JavaScript30](https://javascript30.com/)                                                                                                      | Desafios                    | Não         | EN       |
 | [JavaScript for Cats](http://jsforcats.com/)                                                                                                   | Tutorial                    | Não         | EN       |
 | [JavaScript Katas](https://jskatas.org/)                                                                                                       | Desafios                    | Não         | EN       |
 | [Jessica Temporal](https://jtemporal.com/)                                                                                                     | Blog                        | Não         | PT-BR    |
@@ -110,7 +113,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng) | Youtube | Não | EN |
 | [KeepToo](https://www.youtube.com/channel/UCJLK4lzsBtGtxr9aj-6Ok8Q)                                                                            | Youtube                     | Não         | EN       | 
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)                                                        | Cursos                      | Sim         | EN       |
-| [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos)                                                               | Youtube                     | Não         | PT-BR    | 
+| [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos)                                                               | Youtube                     | Não         | PT-BR    |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                                                         | Podcast                     | Não         | PT-BR    |
 | [Leticia Portella](https://leportella.com/pt-br)                                                                                               | Blog                        | Não         | PT-BR/EN |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal)                                                                                       | Youtube                     | Não         | PT-BR    |
@@ -170,17 +173,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Waldemar Neto Dev Lab](https://www.youtube.com/user/waldemaneto)                                                                              | Youtube                     | Não         | PT-BR    |
 | [Web skills](https://andreasbm.github.io/web-skills/)                                                                                          | Site                        | Nao         | EN       |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/)                                                   | Curso/Udemy                 | Não         | PT-BR    |
-| [Write your own Operating System](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)                                                    | Youtube                     | Não         | EN       | 
+| [Write your own Operating System](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)                                                    | Youtube                     | Não         | EN       |
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS)                                                               | Livro                       | Não         | PT-BR    |
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS)                                                                    | Livro                       | Não         | EN       |
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
-
-
-
-
-
-
 
 ## Contribuidores ✨
 
@@ -256,6 +253,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Esse projeto segue as especificações do [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições são muito bem-vindas!
