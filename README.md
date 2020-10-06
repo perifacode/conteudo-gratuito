@@ -1,9 +1,7 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -248,12 +246,12 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://www.linkedin/in/staelsabrina"><img src="https://avatars1.githubusercontent.com/u/70036949?v=4" width="100px;" alt=""/><br /><sub><b>Stael Sabrina</b></sub></a><br /><a href="#content-staelsabrina" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/lucasmc64"><img src="https://avatars1.githubusercontent.com/u/56159095?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Marçal Coutinho</b></sub></a><br /><a href="#content-lucasmc64" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/fernandosutter"><img src="https://avatars2.githubusercontent.com/u/37943384?v=4" width="100px;" alt=""/><br /><sub><b>Fernando Sutter</b></sub></a><br /><a href="#content-fernandosutter" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/anderson-antunes-a612b954/"><img src="https://avatars2.githubusercontent.com/u/48885210?v=4" width="100px;" alt=""/><br /><sub><b>Anderson Antunes</b></sub></a><br /><a href="#content-andyantunes" title="Content">🖋</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Esse projeto segue as especificações do [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições são muito bem-vindas!
