@@ -454,6 +454,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "rfpe",
+      "name": "Renan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5500912?v=4",
+      "profile": "https://github.com/rfpe",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
