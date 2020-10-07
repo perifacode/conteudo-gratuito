@@ -1,7 +1,7 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -251,6 +251,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
   </tr>
   <tr>
     <td align="center"><a href="https://elismarsilva.netlify.app"><img src="https://avatars3.githubusercontent.com/u/49734800?v=4" width="100px;" alt=""/><br /><sub><b>Elismar Silva</b></sub></a><br /><a href="#content-Elismar13" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/rfpe"><img src="https://avatars3.githubusercontent.com/u/5500912?v=4" width="100px;" alt=""/><br /><sub><b>Renan</b></sub></a><br /><a href="#content-rfpe" title="Content">🖋</a></td>
   </tr>
 </table>
 
