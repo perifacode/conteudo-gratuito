@@ -99,6 +99,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                                                                  | Podcast                     | Não         | PT-BR    |
 | [HTML Dog](https://htmldog.com/)                                                                                                               | Tutoriais                   | Não         | EN       |
 | [iMasters](https://www.youtube.com/user/imasters) | Youtube | Não | PT-BR
+| [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) | Curso | Sim | PT-BR
 | [Interneting is Hard](https://www.internetingishard.com/)                                                                                      | Tutorial                    | Não         | EN       |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/)                                          | Curso/Youtube               | Sim         | PT-BR    |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/)                                  | Curso                       | Sim         | PT       |
