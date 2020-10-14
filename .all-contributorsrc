@@ -472,6 +472,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "gadsdev",
+      "name": "Gustavo Silva",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/39275291?s=460&u=94ebbcffff22e8352aa527c90827d33225f9c193&v=4",
+      "profile": "https://github.com/GadsDev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
