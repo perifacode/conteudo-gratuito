@@ -74,6 +74,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Eloquente Javascript (2ª edição)](https://braziljs.github.io/eloquente-javascript/)                                                           | Livro                       | Não         | PT-BR    |
 | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/)                                                                             | Livro                       | Não         | EN       |
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)                                                                      | Youtube                     | Não         | PT-BR    |
+| [Erick Wendel](https://www.youtube.com/c/ErickWendelTreinamentos)                                                                      | Youtube/Cursos                     | Não         | PT-BR    |
 | [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)                                                                           | Youtube                     | Não         | EN       |
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ)                                                                   | Youtube/Cursos              | Não         | PT-BR    |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)                                                                                           | Podcast                     | Não         | PT-BR    |
@@ -129,6 +130,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [NodeSchool](https://nodeschool.io/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)                                                           | Youtube                     | Não         | PT-BR    |
 | [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html)                                                                    | Livro                       | Não         | PT       |
+| [Otávio Lemos](https://www.youtube.com/user/OtavioALLemos)                                                                                | Youtube                     | Não         | PT-BR    |
 | [Otávio Miranda](https://www.youtube.com/user/todoespacoonline)                                                                                | Youtube                     | Não         | PT-BR    |
 | [Origamid](https://www.youtube.com/channel/UCRe4a2l_hRvROUU02_0YCmQ)                                                                           | Youtube                     | Não         | PT-BR    |
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao)                                                                  | YouTube                     | Não         | pt-BR    |
@@ -158,6 +160,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Scrimba](https://www.scrimba.com)                                                                                                             | Cursos                      | Não         | EN       |
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos)                                                                   | Cursos                      | Sim         | PT-BR    |
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
+| [Tech World with Nana](https://www.youtube.com/c/TechWorldwithNana)                                                                                            | Youtube/Cursos                      | Não         | EN       |
 | [Test Automation University](https://testautomationu.applitools.com)                                                                           | Cursos                      | Sim         | EN       |
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                      | Curso                       | Não         | EN       |
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/)                                                                                           | Palestras                   | Não         | EN       |
