@@ -1,7 +1,7 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-53-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -257,6 +257,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/rfpe"><img src="https://avatars3.githubusercontent.com/u/5500912?v=4" width="100px;" alt=""/><br /><sub><b>Renan</b></sub></a><br /><a href="#content-rfpe" title="Content">🖋</a></td>
     <td align="center"><a href="http://kavalcante.github.io"><img src="https://avatars0.githubusercontent.com/u/13931503?v=4" width="100px;" alt=""/><br /><sub><b>Johnny Cavalcante</b></sub></a><br /><a href="#content-kavalcante" title="Content">🖋</a></td>
     <td align="center"><a href="https://programacaoemusica.wordpress.com/"><img src="https://avatars0.githubusercontent.com/u/28680369?v=4" width="100px;" alt=""/><br /><sub><b>HLAM</b></sub></a><br /><a href="#content-hemilioaraujo" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Camilotk"><img src="https://avatars1.githubusercontent.com/u/30880723?v=4" width="100px;" alt=""/><br /><sub><b>Camilo Cunha de Azevedo</b></sub></a><br /><a href="#content-Camilotk" title="Content">🖋</a></td>
   </tr>
 </table>
 
