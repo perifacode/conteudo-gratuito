@@ -162,6 +162,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos)                                                                   | Cursos                      | Sim         | PT-BR    |
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
 | [SoloLearn](https://www.sololearn.com/)                                                                           | Cursos                      | Sim         | EN       |
+| [Spring Developer](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA)                                                                           | Youtube                     | Não         | EN       |
 | [Test Automation University](https://testautomationu.applitools.com)                                                                           | Cursos                      | Sim         | EN       |
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                      | Curso                       | Não         | EN       |
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/)                                                                                           | Palestras                   | Não         | EN       |
