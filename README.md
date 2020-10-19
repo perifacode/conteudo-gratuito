@@ -112,7 +112,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)                                                              | Youtube                     | Não         | PT-BR    |
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/)                                                        | Curso                       | Sim         | PT       |
 | [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng) | Youtube | Não | EN |
-| [KeepToo](https://www.youtube.com/channel/UCJLK4lzsBtGtxr9aj-6Ok8Q)                                                                            | Youtube                     | Não         | EN       | 
+| [KeepToo](https://www.youtube.com/channel/UCJLK4lzsBtGtxr9aj-6Ok8Q)                                                                            | Youtube                     | Não         | EN       |
+| [Khan Academy](https://pt.khanacademy.org/)                                                                                                    | Cursos                      | Não         | PT-BR/EN    |
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)                                                        | Cursos                      | Sim         | EN       |
 | [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos)                                                               | Youtube                     | Não         | PT-BR    |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                                                         | Podcast                     | Não         | PT-BR    |
@@ -147,6 +148,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Programação Orientada a Objetos com Python - Fernando Feltrin](https://www.slideshare.net/fernandofeltrin56/programacao-orientada-a-objetos-fernando-feltrin-105?fbclid=IwAR2Qx-B6eVCptt7W6eYJ-aYlfCC2gHKGIHcXdorEfSCAxjAsI5Lf9unxn6Q)                                                               | Livro                     | Não         | PT-BR    |
 | [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)                                                                     | Youtube                     | Não         | PT-BR    |
 | [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ)                                                                  | Youtube                     | Não         | PT-BR    |
+| [PyLadies Parnaíba](https://www.youtube.com/channel/UCSS9PKgt7zsaZDJ6ZeSLh6w)                                                                  | Youtube                     | Não         | PT-BR    |
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/)                                                                              | Curso/Youtube               | Sim         | PT-BR    |
 | [Python para Zumbis](https://www.pycursos.com/python-para-zumbis)                                                                              | Cursos         | Não         | PT-BR    |      
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli)                                                                                     | Youtube                     | Não         | PT-BR    |
@@ -183,6 +185,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS)                                                                    | Livro                       | Não         | EN       |
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
+| [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
 
 ## Contribuidores ✨
 
