@@ -535,6 +535,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "o-mago",
+      "name": "Alexandre Cabral",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23153316?v=4",
+      "profile": "https://www.linkedin.com/in/alexandre-cabral-bedeschi/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
