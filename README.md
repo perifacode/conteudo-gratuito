@@ -19,6 +19,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | Descrição                                                                                                                                      | Tipo (Curso, Livro, etc)    | Certificado | Idioma   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
 | [4noobs](https://github.com/he4rt/4noobs)                                                                                                      | Cursos                      | Não         | PT-BR    |
+| [Ace Front End](https://www.acefrontend.com/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
 | [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
@@ -39,6 +40,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |
 | [Codando](https://codando.org/material-gratuito/)                                                                                              | Cursos                      | Não         | PT-BR    |
 | [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Não         | EN       |
+| [CodePen Challenges](https://codepen.io/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)                                                                          | Jogo                        | Não         | EN       |
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/)                                                                                | Jogo                        | Não         | EN       |
 | [code_report](https://www.youtube.com/c/codereport)                                                                                            | Youtube                     | Não         | EN       |
@@ -47,6 +49,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)                                                                                  | Youtube                     | Não         | PT-BR    |
 | [CodinGame](https://www.codingame.com/)                                                                                                        | Desafios                    | Não         | EN       |
+| [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube              | Sim         | PT-BR    |
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
@@ -62,6 +65,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Desenvolvedor.io](https://desenvolvedor.io/)                                                                                                  | Site                        | Sim         | PT-BR    |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)                                                                            | Youtube                     | Não         | PT-BR    |
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)                                                                           | YouTube                     | Não         | PT-BR    |
+| [Dev Challenges](https://devchallenges.io/)                                                                                                 | Desafios                     | Não         | EN    |
 | [Dev na Estrada](https://devnaestrada.com.br/)                                                                                                 | Podcast                     | Não         | PT-BR    |
 | [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbiA)                                                                        | Youtube                     | Não         | PT-BR    |
 | [DicasPraDevs](https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ/videos)                                                                             | YouTube                      | Não         | PT-BR    |
