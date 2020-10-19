@@ -114,6 +114,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Jessica Temporal](https://jtemporal.com/)                                                                                                     | Blog                        | Não         | PT-BR    |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)                                                              | Youtube                     | Não         | PT-BR    |
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/)                                                        | Curso                       | Sim         | PT       |
+| [Katacoda](https://www.katacoda.com/)                                                                                                          | Curso                       | Não         | EN       |
 | [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng) | Youtube | Não | EN |
 | [KeepToo](https://www.youtube.com/channel/UCJLK4lzsBtGtxr9aj-6Ok8Q)                                                                            | Youtube                     | Não         | EN       |
 | [Khan Academy](https://pt.khanacademy.org/)                                                                                                    | Cursos                      | Não         | PT-BR/EN    |
