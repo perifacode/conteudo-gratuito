@@ -20,6 +20,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
 | [4noobs](https://github.com/he4rt/4noobs)                                                                                                      | Cursos                      | Não         | PT-BR    |
 | [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
+| [Alura](https://www.alura.com.br/?gclid=CjwKCAjwz6_8BRBkEiwA3p02VUqCLqDOd8TZk_jhFy959tuUyF_08OSP7nnhKxbWytBPp7kQVSxlGhoCRXgQAvD_BwE                                                                   | Curso                    | Sim         | PT-BR      |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
@@ -27,7 +28,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/)                                                                          | Youtube                     | Não         | PT-BR    |
 | [Bóson Treinamentos](https://www.youtube.com/channel/UCzOGJclZQvPVgYZIwERsf5g)                                                                 | Youtube                     | Não         | PT-BR    |
-| [Brackeys](https://www.youtube.com/c/Brackeys)                                                                                              | YouTube                     | Não         | EN       |
+| [Brackeys](https://www.youtube.com/c/Brackeys)                                                                                                | YouTube                     | Não         | EN       |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS)                                                                                              | YouTube                     | Não         | PT-BR    |
 | [C/C++ Brasil](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg)                                                                       | Youtube                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
@@ -83,6 +84,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [FalaDev](https://pizzadedados.com/)                                                                                                           | Podcast                     | Não         | PT-BR    |
 | [FalaNeto](https://falaneto.com/) | Podcast | Não | PT-BR |
+| [Felipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)                                                                           | Youtube                     | Não         | PT-BR    |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)                                                                           | Youtube                     | Não         | PT-BR    |
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)                                           | Cursos                      | Sim         | PT-BR    |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem)                                                                                         | YouTube                     | Não         | PT-BR    |
@@ -177,11 +179,13 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Waldemar Neto Dev Lab](https://www.youtube.com/user/waldemaneto)                                                                              | Youtube                     | Não         | PT-BR    |
 | [Web skills](https://andreasbm.github.io/web-skills/)                                                                                          | Site                        | Nao         | EN       |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/)                                                   | Curso/Udemy                 | Não         | PT-BR    |
+| [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w)                                                   | Youtube                 | Não         | PT-BR    |
 | [Write your own Operating System](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)                                                    | Youtube                     | Não         | EN       |
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS)                                                               | Livro                       | Não         | PT-BR    |
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS)                                                                    | Livro                       | Não         | EN       |
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
+
 
 ## Contribuidores ✨
 
