@@ -52,6 +52,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       |
 | [cursae](https://www.cursae.com.br/)                                                                                                           | Cursos                      | Sim         | PT-BR    |
+| [Curso de Flask - Julia Rizza](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX)                                                               | Youtube                       | Não         | PT-BR       |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito)                                                               | Curso                       | Sim         | PT       |
 | [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/)                                                                            | Youtube                     | Sim (Pago)  | PT-BR    |
 | [Daniel Snows](https://www.youtube.com/c/DanielNeves01)                                                                                        | Youtube                     | Não         | PT-BR    |
