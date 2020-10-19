@@ -84,8 +84,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [FalaDev](https://pizzadedados.com/)                                                                                                           | Podcast                     | Não         | PT-BR    |
 | [FalaNeto](https://falaneto.com/) | Podcast | Não | PT-BR |
-| [Felipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)                                                                           | Youtube                     | Não         | PT-BR    |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)                                                                           | Youtube                     | Não         | PT-BR    |
+|[Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)                                                                           | Youtube                     | Não         | PT-BR    |
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)                                           | Cursos                      | Sim         | PT-BR    |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem)                                                                                         | YouTube                     | Não         | PT-BR    |
 | [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)                                                                   | YouTube                     | Não         | PT-BR    |
