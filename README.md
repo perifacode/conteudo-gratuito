@@ -20,7 +20,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
 | [4noobs](https://github.com/he4rt/4noobs)                                                                                                      | Cursos                      | Não         | PT-BR    |
 | [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
-| [Alura](https://www.alura.com.br/?gclid=CjwKCAjwz6_8BRBkEiwA3p02VUqCLqDOd8TZk_jhFy959tuUyF_08OSP7nnhKxbWytBPp7kQVSxlGhoCRXgQAvD_BwE                                                                   | Curso                    | Sim         | PT-BR      |
+| [Alura](https://www.alura.com.br/?gclid=CjwKCAjwz6_8BRBkEiwA3p02VUqCLqDOd8TZk_jhFy959tuUyF_08OSP7nnhKxbWytBPp7kQVSxlGhoCRXgQAvD_BwE)                                                                   | Curso                    | Sim         | PT-BR      |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
