@@ -22,6 +22,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
+| [Ask Lucas Montano Show](https://www.youtube.com/channel/UClSPuL8jrJGs7R99WpvVDGw)                                                             | YouTube                       | Não       | PT-BR    |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
 | [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
 | [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |
