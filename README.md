@@ -108,6 +108,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/)                                          | Curso/Youtube               | Sim         | PT-BR    |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/)                                  | Curso                       | Sim         | PT       |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA)                                                                 | Youtube                     | Não         | PT-BR    |
+| [Java Brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)                                                                 | Youtube                     | Não         | EN    |
 | [JavaScript30](https://javascript30.com/)                                                                                                      | Desafios                    | Não         | EN       |
 | [JavaScript for Cats](http://jsforcats.com/)                                                                                                   | Tutorial                    | Não         | EN       |
 | [JavaScript Katas](https://jskatas.org/)                                                                                                       | Desafios                    | Não         | EN       |
