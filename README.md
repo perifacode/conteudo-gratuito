@@ -167,6 +167,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos)                                                                                  | Cursos                      | Sim         | PT-BR    |
 | [Scrimba](https://www.scrimba.com)                                                                                                             | Cursos                      | Não         | EN       |
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos)                                                                   | Cursos                      | Sim         | PT-BR    |
+| [Simple Programming](https://www.youtube.com/channel/UCDnZ8f2yo-JGBh8rOn30OAg)                                                                   | Youtube                     | Não        | EN    |
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
 | [Spring Guides](https://spring.io/guides)                                                                                            | Tutorial                     | Não         | EN       |
 | [SoloLearn](https://www.sololearn.com/)                                                                           | Cursos                      | Sim         | EN       |
