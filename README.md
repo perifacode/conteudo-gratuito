@@ -192,6 +192,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
+| [Public APIs](https://github.com/public-apis/public-apis)                                                                                            | Repositório              | Não         | EN    |
 
 ## Contribuidores ✨
 
