@@ -168,6 +168,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Scrimba](https://www.scrimba.com)                                                                                                             | Cursos                      | Não         | EN       |
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos)                                                                   | Cursos                      | Sim         | PT-BR    |
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
+| [Spring Guides](https://spring.io/guides)                                                                                            | Tutorial                     | Não         | EN       |
 | [SoloLearn](https://www.sololearn.com/)                                                                           | Cursos                      | Sim         | EN       |
 | [Tech World with Nana](https://www.youtube.com/c/TechWorldwithNana)                                                                                            | Youtube/Cursos                      | Não         | EN       |
 | [Test Automation University](https://testautomationu.applitools.com)                                                                           | Cursos                      | Sim         | EN       |
