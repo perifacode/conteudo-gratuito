@@ -133,6 +133,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Manu Codes](https://www.youtube.com/c/ManuCodes)                                                                                              | Youtube                     | Não         | PT-PT    |
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow)                                                   | Youtube                     | Nao         | PT-BR    |
+| [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel)                       | Youtube                     | Nao         | PT-BR    |
 | [Meetanços](https://www.youtube.com/channel/UCtbW-YwuCvbM1TTlQdC7YOA)                                                   | Youtube                     | Nao         | PT-BR    |
 | [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag)                                                                     | Youtube                     | Nao         | PT-BR    |
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/)                                                | Curso/Youtube               | Sim         | PT-BR    |
