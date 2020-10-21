@@ -508,6 +508,42 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "fgemig",
+      "name": "Fabio Gemignani",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23200856?v=4",
+      "profile": "https://github.com/fgemig",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "celenny",
+      "name": "Celenny Cristhyne ",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/70456452?v=4",
+      "profile": "https://instagram.com/celycodes",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "carvalhox",
+      "name": "Laíse Carvalho",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/34722707?v=4",
+      "profile": "https://github.com/carvalhox",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "o-mago",
+      "name": "Alexandre Cabral",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23153316?v=4",
+      "profile": "https://www.linkedin.com/in/alexandre-cabral-bedeschi/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
