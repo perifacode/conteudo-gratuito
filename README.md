@@ -1,7 +1,7 @@
 ﻿# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-60-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -23,6 +23,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
+| [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
 | [Baeldung](https://www.baeldung.com/)                                                                                                            | Blog/Tutoriais                     | Não         | EN   |
 | [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
@@ -34,6 +35,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
 | [Caelum](https://www.caelum.com.br/apostilas)                                                                                                  | Apostilas                   | Não         | PT-BR    |
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2)                                                                                       | Youtube                     | Não         | PT-BR    |
+| [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists)                                                                                       | Youtube                     | Não         | EN   |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)                                                                       | YouTube                     | Não         | PT-BR    |
@@ -53,6 +55,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       |
 | [cursae](https://www.cursae.com.br/)                                                                                                           | Cursos                      | Sim         | PT-BR    |
+| [Curso de Flask - Julia Rizza](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX)                                                               | Youtube                       | Não         | PT-BR       |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito)                                                               | Curso                       | Sim         | PT       |
 | [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/)                                                                            | Youtube                     | Sim (Pago)  | PT-BR    |
 | [Daniel Snows](https://www.youtube.com/c/DanielNeves01)                                                                                        | Youtube                     | Não         | PT-BR    |
@@ -75,6 +78,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Eloquente Javascript (2ª edição)](https://braziljs.github.io/eloquente-javascript/)                                                           | Livro                       | Não         | PT-BR    |
 | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/)                                                                             | Livro                       | Não         | EN       |
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)                                                                      | Youtube                     | Não         | PT-BR    |
+| [Erick Wendel](https://www.youtube.com/c/ErickWendelTreinamentos)                                                                      | Youtube/Cursos                     | Não         | PT-BR    |
 | [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)                                                                           | Youtube                     | Não         | EN       |
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ)                                                                   | Youtube/Cursos              | Não         | PT-BR    |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)                                                                                           | Podcast                     | Não         | PT-BR    |
@@ -102,10 +106,12 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [HTML Dog](https://htmldog.com/)                                                                                                               | Tutoriais                   | Não         | EN       |
 | [iMasters](https://www.youtube.com/user/imasters) | Youtube | Não | PT-BR
 | [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) | Curso | Sim | PT-BR
+| [in28minutes Cloud, DevOps and Microservices](https://www.youtube.com/channel/UCLz7LG4YVi7_iyk4yOARcxA) | Youtube | Não | EN
 | [Interneting is Hard](https://www.internetingishard.com/)                                                                                      | Tutorial                    | Não         | EN       |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/)                                          | Curso/Youtube               | Sim         | PT-BR    |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/)                                  | Curso                       | Sim         | PT       |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA)                                                                 | Youtube                     | Não         | PT-BR    |
+| [Java Brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)                                                                 | Youtube                     | Não         | EN    |
 | [JavaScript30](https://javascript30.com/)                                                                                                      | Desafios                    | Não         | EN       |
 | [JavaScript for Cats](http://jsforcats.com/)                                                                                                   | Tutorial                    | Não         | EN       |
 | [JavaScript Katas](https://jskatas.org/)                                                                                                       | Desafios                    | Não         | EN       |
@@ -113,7 +119,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)                                                              | Youtube                     | Não         | PT-BR    |
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/)                                                        | Curso                       | Sim         | PT       |
 | [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng) | Youtube | Não | EN |
-| [KeepToo](https://www.youtube.com/channel/UCJLK4lzsBtGtxr9aj-6Ok8Q)                                                                            | Youtube                     | Não         | EN       | 
+| [KeepToo](https://www.youtube.com/channel/UCJLK4lzsBtGtxr9aj-6Ok8Q)                                                                            | Youtube                     | Não         | EN       |
+| [Khan Academy](https://pt.khanacademy.org/)                                                                                                    | Cursos                      | Não         | PT-BR/EN    |
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)                                                        | Cursos                      | Sim         | EN       |
 | [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos)                                                               | Youtube                     | Não         | PT-BR    |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                                                         | Podcast                     | Não         | PT-BR    |
@@ -132,6 +139,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [NodeSchool](https://nodeschool.io/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)                                                           | Youtube                     | Não         | PT-BR    |
 | [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html)                                                                    | Livro                       | Não         | PT       |
+| [Otávio Lemos](https://www.youtube.com/user/OtavioALLemos)                                                                                | Youtube                     | Não         | PT-BR    |
 | [Otávio Miranda](https://www.youtube.com/user/todoespacoonline)                                                                                | Youtube                     | Não         | PT-BR    |
 | [Origamid](https://www.youtube.com/channel/UCRe4a2l_hRvROUU02_0YCmQ)                                                                           | Youtube                     | Não         | PT-BR    |
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao)                                                                  | YouTube                     | Não         | pt-BR    |
@@ -144,9 +152,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | Livro                       | Não         | PT-BR    |
 | [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis)                                                                   | Youtube                     | Não         | PT-BR    |
 | [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)                                                               | Youtube                     | Não         | PT-BR    |
+| [ProgrAmada Mente](https://www.youtube.com/user/ozirispc)                                                                                      | YouTube                     | Não         | PT-BR    |
 | [Programação Orientada a Objetos com Python - Fernando Feltrin](https://www.slideshare.net/fernandofeltrin56/programacao-orientada-a-objetos-fernando-feltrin-105?fbclid=IwAR2Qx-B6eVCptt7W6eYJ-aYlfCC2gHKGIHcXdorEfSCAxjAsI5Lf9unxn6Q)                                                               | Livro                     | Não         | PT-BR    |
 | [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)                                                                     | Youtube                     | Não         | PT-BR    |
 | [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ)                                                                  | Youtube                     | Não         | PT-BR    |
+| [PyLadies Parnaíba](https://www.youtube.com/channel/UCSS9PKgt7zsaZDJ6ZeSLh6w)                                                                  | Youtube                     | Não         | PT-BR    |
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/)                                                                              | Curso/Youtube               | Sim         | PT-BR    |
 | [Python para Zumbis](https://www.pycursos.com/python-para-zumbis)                                                                              | Cursos         | Não         | PT-BR    |      
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli)                                                                                     | Youtube                     | Não         | PT-BR    |
@@ -161,8 +171,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos)                                                                                  | Cursos                      | Sim         | PT-BR    |
 | [Scrimba](https://www.scrimba.com)                                                                                                             | Cursos                      | Não         | EN       |
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos)                                                                   | Cursos                      | Sim         | PT-BR    |
+| [Simple Programming](https://www.youtube.com/channel/UCDnZ8f2yo-JGBh8rOn30OAg)                                                                   | Youtube                     | Não        | EN    |
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
+| [Spring Guides](https://spring.io/guides)                                                                                            | Tutorial                     | Não         | EN       |
 | [SoloLearn](https://www.sololearn.com/)                                                                           | Cursos                      | Sim         | EN       |
+| [Tech World with Nana](https://www.youtube.com/c/TechWorldwithNana)                                                                                            | Youtube/Cursos                      | Não         | EN       |
 | [Test Automation University](https://testautomationu.applitools.com)                                                                           | Cursos                      | Sim         | EN       |
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                      | Curso                       | Não         | EN       |
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/)                                                                                           | Palestras                   | Não         | EN       |
@@ -183,6 +196,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS)                                                                    | Livro                       | Não         | EN       |
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
+| [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
+| [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
 
 ## Contribuidores ✨
 
@@ -263,6 +278,12 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/Camilotk"><img src="https://avatars1.githubusercontent.com/u/30880723?v=4" width="100px;" alt=""/><br /><sub><b>Camilo Cunha de Azevedo</b></sub></a><br /><a href="#content-Camilotk" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/naslausky"><img src="https://avatars2.githubusercontent.com/u/17036003?v=4" width="100px;" alt=""/><br /><sub><b>Naslausky</b></sub></a><br /><a href="#content-naslausky" title="Content">🖋</a></td>
     <td align="center"><a href="https://juliabrazolim.github.io/"><img src="https://avatars2.githubusercontent.com/u/13179312?v=4" width="100px;" alt=""/><br /><sub><b>Julia Brazolim</b></sub></a><br /><a href="#content-JuliaBrazolim" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/fgemig"><img src="https://avatars3.githubusercontent.com/u/23200856?v=4" width="100px;" alt=""/><br /><sub><b>Fabio Gemignani</b></sub></a><br /><a href="#content-fgemig" title="Content">🖋</a></td>
+    <td align="center"><a href="https://instagram.com/celycodes"><img src="https://avatars1.githubusercontent.com/u/70456452?v=4" width="100px;" alt=""/><br /><sub><b>Celenny Cristhyne </b></sub></a><br /><a href="#content-celenny" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/carvalhox"><img src="https://avatars2.githubusercontent.com/u/34722707?v=4" width="100px;" alt=""/><br /><sub><b>Laíse Carvalho</b></sub></a><br /><a href="#content-carvalhox" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/alexandre-cabral-bedeschi/"><img src="https://avatars0.githubusercontent.com/u/23153316?v=4" width="100px;" alt=""/><br /><sub><b>Alexandre Cabral</b></sub></a><br /><a href="#content-o-mago" title="Content">🖋</a></td>
   </tr>
 </table>
 
