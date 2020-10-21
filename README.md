@@ -201,9 +201,10 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS)                                                               | Livro                       | Não         | PT-BR    |
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS)                                                                    | Livro                       | Não         | EN       |
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY)                                                                    | Youtube                     | Não         | PT-BR    |
-| [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
+| [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)   
+| [Curso em Vídeo JS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)  
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
-| [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
+| [Zurubabel](https://www.youtube.com/user/Zurubabel)                           
 
 ## Contribuidores ✨
 
@@ -280,6 +281,9 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://elismarsilva.netlify.app"><img src="https://avatars3.githubusercontent.com/u/49734800?v=4" width="100px;" alt=""/><br /><sub><b>Elismar Silva</b></sub></a><br /><a href="#content-Elismar13" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rfpe"><img src="https://avatars3.githubusercontent.com/u/5500912?v=4" width="100px;" alt=""/><br /><sub><b>Renan</b></sub></a><br /><a href="#content-rfpe" title="Content">🖋</a></td>
     <td align="center"><a href="http://kavalcante.github.io"><img src="https://avatars0.githubusercontent.com/u/13931503?v=4" width="100px;" alt=""/><br /><sub><b>Johnny Cavalcante</b></sub></a><br /><a href="#content-kavalcante" title="Content">🖋</a></td>
+
+    <td align="center"><a href="https://github.com/GadsDev"><img src="https://avatars2.githubusercontent.com/u/39275291?s=460&u=94ebbcffff22e8352aa527c90827d33225f9c193&v=4" width="100px;" alt=""/><br /><sub><b>Gustavo Silva</b></sub></a><br /><a href="#content-Elismar13" title="Content">🖋</a></td>
+  </tr> 
     <td align="center"><a href="https://programacaoemusica.wordpress.com/"><img src="https://avatars0.githubusercontent.com/u/28680369?v=4" width="100px;" alt=""/><br /><sub><b>HLAM</b></sub></a><br /><a href="#content-hemilioaraujo" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Camilotk"><img src="https://avatars1.githubusercontent.com/u/30880723?v=4" width="100px;" alt=""/><br /><sub><b>Camilo Cunha de Azevedo</b></sub></a><br /><a href="#content-Camilotk" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/naslausky"><img src="https://avatars2.githubusercontent.com/u/17036003?v=4" width="100px;" alt=""/><br /><sub><b>Naslausky</b></sub></a><br /><a href="#content-naslausky" title="Content">🖋</a></td>
