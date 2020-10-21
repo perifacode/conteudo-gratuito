@@ -1,7 +1,7 @@
 ﻿# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-60-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -288,6 +288,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://instagram.com/celycodes"><img src="https://avatars1.githubusercontent.com/u/70456452?v=4" width="100px;" alt=""/><br /><sub><b>Celenny Cristhyne </b></sub></a><br /><a href="#content-celenny" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/carvalhox"><img src="https://avatars2.githubusercontent.com/u/34722707?v=4" width="100px;" alt=""/><br /><sub><b>Laíse Carvalho</b></sub></a><br /><a href="#content-carvalhox" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/alexandre-cabral-bedeschi/"><img src="https://avatars0.githubusercontent.com/u/23153316?v=4" width="100px;" alt=""/><br /><sub><b>Alexandre Cabral</b></sub></a><br /><a href="#content-o-mago" title="Content">🖋</a></td>
+    <td align="center"><a href="http://linkedin.com/in/leticiacamposs"><img src="https://avatars0.githubusercontent.com/u/34458509?v=4" width="100px;" alt=""/><br /><sub><b>Leticia Campos</b></sub></a><br /><a href="#content-leticiacamposs2" title="Content">🖋</a></td>
   </tr>
 </table>
 
