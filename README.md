@@ -181,6 +181,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
 | [Spring Guides](https://spring.io/guides)                                                                                            | Tutorial                     | Não         | EN       |
 | [SoloLearn](https://www.sololearn.com/)                                                                           | Cursos                      | Sim         | EN       |
+| [Spring Developer](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA)                                                                           | Youtube                     | Não         | EN       |
 | [Tech primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)                                                                           | Yotutube                   | Não         | EN       |
 | [Tech World with Nana](https://www.youtube.com/c/TechWorldwithNana)                                                                                            | Youtube/Cursos                      | Não         | EN       |
 | [Test Automation University](https://testautomationu.applitools.com)                                                                           | Cursos                      | Sim         | EN       |
