@@ -93,6 +93,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)                                           | Cursos                      | Sim         | PT-BR    |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem)                                                                                         | YouTube                     | Não         | PT-BR    |
 | [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)                                                                   | YouTube                     | Não         | PT-BR    |
+| [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)                                                                   | YouTube                     | Não         | EN    |
+| [Flávio Copes](https://flaviocopes.com/)                                                                                                | Blog                     | Não         | EN    |
 | [Flutterando](https://www.youtube.com/c/Flutterando)                                                                                           | YouTube                     | Não         | PT-BR    |
 | [FreeCodeCamp](https://www.freecodecamp.org/)                                                                                                  | Cursos                      | Sim         | EN       |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges)                                                                     | Desafios                    | Não         | EN/PT-BR |
@@ -176,6 +178,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)                                                                                      | Youtube/Cursos              | Não         | PT-BR    |
 | [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA)                                                                  | Youtube/Cursos              | Não         | PT-BR    |
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos)                                                                                  | Cursos                      | Sim         | PT-BR    |
+| [Scott Hanselman](https://www.youtube.com/c/shanselman/videos)                                                                                  | YouTube                      | Sim         | EN    |
 | [Scrimba](https://www.scrimba.com)                                                                                                             | Cursos                      | Não         | EN       |
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos)                                                                   | Cursos                      | Sim         | PT-BR    |
 | [Simple Programming](https://www.youtube.com/channel/UCDnZ8f2yo-JGBh8rOn30OAg)                                                                   | Youtube                     | Não        | EN    |
