@@ -169,6 +169,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Python for Everybody](https://www.py4e.com/)                                                                                                  | Curso/Livro                 | Não         | PT-BR/EN |
 | [QuebraDev](https://quebradev.com.br/) | Podcast | Não | PT-BR |
 | [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)                                            | Repositório                 | Não         | PT-BR    |
+| [Reflectoring ](https://reflectoring.io/#)                                            | Blog/tutoriais              | Não         | EN    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | NÃO         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | NÃO         | PT-BR    |
 | [Rocketseat](https://rocketseat.com.br)                                                                                                        | Youtube/Cursos/Podcast/Blog | Não         | PT-BR    |
