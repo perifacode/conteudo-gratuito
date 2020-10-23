@@ -120,6 +120,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [JavaScript Katas](https://jskatas.org/)                                                                                                       | Desafios                    | Não         | EN       |
 | [Jessica Temporal](https://jtemporal.com/)                                                                                                     | Blog                        | Não         | PT-BR    |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)                                                              | Youtube                     | Não         | PT-BR    |
+| [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)                                                              | Youtube                     | Não         | EN-US    |
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/)                                                        | Curso                       | Sim         | PT       |
 | [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng) | Youtube | Não | EN |
 | [KeepToo](https://www.youtube.com/channel/UCJLK4lzsBtGtxr9aj-6Ok8Q)                                                                            | Youtube                     | Não         | EN       |
@@ -193,7 +194,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [The Odin Project](https://www.theodinproject.com/)                                                                                            | Cursos                      | Não         | EN       |
 | [Tim Tec](https://cursos.timtec.com.br/)                                                                                                       | Cursos                      | Sim         | PT-BR    |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/)                                                                             | Cursos                      | Não         | PT-BR    |
-| [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)                                                                             | Cursos                      | Não         | PT-BR    |
+| [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)                                                                             | Cursos                      | Não         | EN-US    |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity)                                           | Cursos                      | Não         | PT-BR    |
 | [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)                                                                | YouTube                     | Não         | pt-BR    |
 | [Universo Discreto](https://www.youtube.com/c/UniversoDiscreto/videos)                                                                         | Curso/Youtube                      | Não         | PT-BR    |
