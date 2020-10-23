@@ -141,6 +141,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/)                                                | Curso/Youtube               | Sim         | PT-BR    |
 | [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)                                                                                     | Cursos                      | Não         | PT/EN    |
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)                                                                    | Youtube                     | Nao         | PT-BR    |
+| [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/featured)                                                                    | Youtube                     | Nao         | EN-US    |
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/)                                                                                     | Cursos                      | Sim         | PT-BR    |
 | [NodeSchool](https://nodeschool.io/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)                                                           | Youtube                     | Não         | PT-BR    |
