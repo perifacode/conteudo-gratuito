@@ -161,6 +161,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao)                                                                  | YouTube                     | Não         | pt-BR    |
 | [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)                                                                        | Youtube                     | Não         | PT-BR    | 
 | [PHPSP](https://www.youtube.com/user/phpsp1) | Youtube | Não | PT-BR |
+| [Pipoca Ágil](https://open.spotify.com/show/5J1scP1l7m7kXK6v5RZS7J?si=OSznos0oQ4mlLeTMRE_LVA)                                                  | Podcast                     | Não         | PT-BR    |
 | [Pizza de Dados](https://pizzadedados.com/)                                                                                                    | Podcast                     | Não         | PT-BR    |
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/)                                                                                      | Podcast                     | Não         | PT-BR    |
 | [PokePHP](https://pokephp.com.br/)                                                            | Curso/Youtube                     | Não         | PT-BR    |
@@ -172,6 +173,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Programação Orientada a Objetos com Python - Fernando Feltrin](https://www.slideshare.net/fernandofeltrin56/programacao-orientada-a-objetos-fernando-feltrin-105?fbclid=IwAR2Qx-B6eVCptt7W6eYJ-aYlfCC2gHKGIHcXdorEfSCAxjAsI5Lf9unxn6Q)                                                               | Livro                     | Não         | PT-BR    |
 | [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)                                                                     | Youtube                     | Não         | PT-BR    |
 | [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ)                                                                  | Youtube                     | Não         | PT-BR    |
+| [Public APIs](https://github.com/public-apis/public-apis)                                                                                            | Repositório              | Não         | EN    |
 | [PyLadies Parnaíba](https://www.youtube.com/channel/UCSS9PKgt7zsaZDJ6ZeSLh6w)                                                                  | Youtube                     | Não         | PT-BR    |
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/)                                                                              | Curso/Youtube               | Sim         | PT-BR    |
 | [Python para Zumbis](https://www.pycursos.com/python-para-zumbis)                                                                              | Cursos         | Não         | PT-BR    |      
@@ -179,6 +181,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Python for Everybody](https://www.py4e.com/)                                                                                                  | Curso/Livro                 | Não         | PT-BR/EN |
 | [QuebraDev](https://quebradev.com.br/) | Podcast | Não | PT-BR |
 | [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)                                            | Repositório                 | Não         | PT-BR    |
+| [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | Não         | PT-BR    |
+| [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | Não         | PT-BR    |
 | [Reflectoring ](https://reflectoring.io/#)                                            | Blog/tutoriais              | Não         | EN    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | NÃO         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | NÃO         | PT-BR    |
@@ -219,7 +223,6 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [W3Schools](https://www.w3schools.com/)                                                                                                        | Site                         | Não         | EN    |
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
-| [Public APIs](https://github.com/public-apis/public-apis)                                                                                            | Repositório              | Não         | EN    |
 
 ## Contribuidores ✨
 
