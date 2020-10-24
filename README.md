@@ -83,6 +83,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Eddabit](https://edabit.com/)                                                                                                                 | Desafios                    | Não         | EN       |
 | [Eduardo Cuducos](https://cuducos.me/blog/)                                                                                                    | Blog                        | Não         | PT-BR    |
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)                                                                                  | Youtube                     | Não         | PT-BR    |
+| [Edx](https://www.edx.org/)                                                                                                                    | Site                       | Sim (pago)  | EN       |
 | [Eloquente Javascript (2ª edição)](https://braziljs.github.io/eloquente-javascript/)                                                           | Livro                       | Não         | PT-BR    |
 | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/)                                                                             | Livro                       | Não         | EN       |
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)                                                                      | Youtube                     | Não         | PT-BR    |
