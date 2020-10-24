@@ -184,6 +184,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity)                                           | Cursos                      | Não         | PT-BR    |
 | [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)                                                                | YouTube                     | Não         | pt-BR    |
 | [Universo Discreto](https://www.youtube.com/c/UniversoDiscreto/videos)                                                                         | Curso/Youtube                      | Não         | PT-BR    |
+| [UpInside](https://www.youtube.com/user/UpInsideBr)                                                                                            | Youtube                      | Não         | PT-BR    |
 | [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)                                                                           | Desafios                    | Não         | PT-BR    |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)                                                                   | Youtube                     | Não         | PT-BR    |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs)                                                                                             | Livro                       | Não         | PT-BR    |
