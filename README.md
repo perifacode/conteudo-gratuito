@@ -1,7 +1,7 @@
 ﻿# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-66-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-67-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -312,6 +312,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://linkedin.com/in/biancacpereira"><img src="https://avatars2.githubusercontent.com/u/16962057?v=4" width="100px;" alt=""/><br /><sub><b>Bianca Pereira</b></sub></a><br /><a href="#content-BiancaPereira" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/george124816"><img src="https://avatars1.githubusercontent.com/u/26443736?v=4" width="100px;" alt=""/><br /><sub><b>George Rodrigues</b></sub></a><br /><a href="#content-george124816" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Annghell"><img src="https://avatars0.githubusercontent.com/u/55581633?v=4" width="100px;" alt=""/><br /><sub><b>Andressa Camargo</b></sub></a><br /><a href="#content-Annghell" title="Content">🖋</a></td>
+    <td align="center"><a href="https://medium.com/@IranNeto"><img src="https://avatars0.githubusercontent.com/u/17055617?v=4" width="100px;" alt=""/><br /><sub><b>Iran Neto</b></sub></a><br /><a href="#content-IranNeto" title="Content">🖋</a></td>
   </tr>
 </table>
 
