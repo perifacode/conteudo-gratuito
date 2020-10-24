@@ -110,6 +110,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
+| [Guia de Estudos CSS](https://trello.com/b/wv0mCgaQ/guia-de-estudos-css-v10)                                                                    | Tutoriais                     | Não         | PT-BR/EN    |
 | [Hacker Rank](https://www.hackerrank.com/)                                                                                                     | Desafios                    | Não         | EN       |
 | [High5Devs](http://high5devs.com/)                                                                                                             | Blog                        | Não         | PT-BR    |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                                                                  | Podcast                     | Não         | PT-BR    |
@@ -182,6 +183,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli)                                                                                     | Youtube                     | Não         | PT-BR    |
 | [Python for Everybody](https://www.py4e.com/)                                                                                                  | Curso/Livro                 | Não         | PT-BR/EN |
 | [QuebraDev](https://quebradev.com.br/) | Podcast | Não | PT-BR |
+| [Rails Girls](http://guides.railsgirls.com/guides-ptbr/) | Tutoriais | Não | PT-BR |
 | [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)                                            | Repositório                 | Não         | PT-BR    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | Não         | PT-BR    |
