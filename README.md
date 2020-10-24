@@ -1,4 +1,4 @@
-﻿# 📌 Conteúdo gratuito
+# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-74-orange.svg?style=flat-square)](#contributors-)
@@ -65,6 +65,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/)                                                                            | Youtube                     | Sim (Pago)  | PT-BR    |
 | [Daniel Snows](https://www.youtube.com/c/DanielNeves01)                                                                                        | Youtube                     | Não         | PT-BR    |
 | [Data Hackers](https://datahackers.com.br/podcast)                                                                                             | Podcast                     | Não         | PT-BR    |
+| [Data School](https://www.youtube.com/dataschool)                                                                                             | Youtube                     | Não         | EN    |
 | [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)                                                                   | Youtube                     | Não         | EN       |
 | [Desafios de Programação](https://github.com/michelbernardods/programming-challenges)                                                          | Desafio                  |           | Não         | PT-BR/EN |
 | [Desafio #30diasCSS](https://github.com/MilenaCarecho/30diasDeCSS)                                                                             | Desafio                     | Não         | PT-BR    |
