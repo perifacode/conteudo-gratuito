@@ -1,7 +1,7 @@
 ﻿# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-68-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-69-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -316,6 +316,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/Annghell"><img src="https://avatars0.githubusercontent.com/u/55581633?v=4" width="100px;" alt=""/><br /><sub><b>Andressa Camargo</b></sub></a><br /><a href="#content-Annghell" title="Content">🖋</a></td>
     <td align="center"><a href="https://medium.com/@IranNeto"><img src="https://avatars0.githubusercontent.com/u/17055617?v=4" width="100px;" alt=""/><br /><sub><b>Iran Neto</b></sub></a><br /><a href="#content-IranNeto" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.wferreiracosta.com"><img src="https://avatars0.githubusercontent.com/u/24726458?v=4" width="100px;" alt=""/><br /><sub><b>Wesley Costa</b></sub></a><br /><a href="#content-wferreiracosta" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/daviemboaba"><img src="https://avatars0.githubusercontent.com/u/37676885?v=4" width="100px;" alt=""/><br /><sub><b>Davi Emboaba</b></sub></a><br /><a href="#content-daviemboaba" title="Content">🖋</a></td>
   </tr>
 </table>
 
