@@ -1,7 +1,7 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-75-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-76-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -337,6 +337,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/JBNascimento"><img src="https://avatars0.githubusercontent.com/u/3236294?v=4" width="100px;" alt=""/><br /><sub><b>Jeferson Nascimento</b></sub></a><br /><a href="#content-JBNascimento" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/sheilagomes"><img src="https://avatars0.githubusercontent.com/u/26465317?v=4" width="100px;" alt=""/><br /><sub><b>Sheila Gomes</b></sub></a><br /><a href="#content-sheilagomes" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/czrpxr"><img src="https://avatars1.githubusercontent.com/u/27984831?v=4" width="100px;" alt=""/><br /><sub><b>Cezar Peixeiro</b></sub></a><br /><a href="#content-czrpxr" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/LuizCostaa"><img src="https://avatars1.githubusercontent.com/u/28596680?v=4" width="100px;" alt=""/><br /><sub><b>Luiz Guilherme</b></sub></a><br /><a href="#content-LuizCostaa" title="Content">🖋</a></td>
   </tr>
 </table>
 
