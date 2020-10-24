@@ -102,6 +102,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Flutterando](https://www.youtube.com/c/Flutterando)                                                                                           | YouTube                     | Não         | PT-BR    |
 | [FreeCodeCamp](https://www.freecodecamp.org/)                                                                                                  | Cursos                      | Sim         | EN       |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges)                                                                     | Desafios                    | Não         | EN/PT-BR |
+| [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)                                                                         | Youtube                    | Não         | PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/)                                                                                   | Cursos                      | Sim         | PT-BR    |
 | [Future Learn](https://www.futurelearn.com)                                                                                                    | Cursos                      | Não         | EN       |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
@@ -134,6 +135,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)                                                        | Cursos                      | Sim         | EN       |
 | [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos)                                                               | Youtube                     | Não         | PT-BR    |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                                                         | Podcast                     | Não         | PT-BR    |
+| [LeetCode](https://leetcode.com/)                                                                                                              | Desafios                     | Não         | EN       |
 | [Let's Debug Tech](https://www.youtube.com/channel/UCmrNAq0jWguZ2d9GoCYUAsg)                                                                                         | Youtube                     | Não         | EN    |
 | [Leticia Portella](https://leportella.com/pt-br)                                                                                               | Blog                        | Não         | PT-BR/EN |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal)                                                                                       | Youtube                     | Não         | PT-BR    |
@@ -213,6 +215,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS)                                                                    | Livro                       | Não         | EN       |
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
+| [W3Schools](https://www.w3schools.com/)                                                                                                        | Site                         | Não         | EN    |
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
 
