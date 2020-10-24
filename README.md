@@ -67,6 +67,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)                                                                            | Youtube                     | Não         | PT-BR    |
 | [DevGlan](https://www.devglan.com/)                                                                            | Tech Blog                   | Não         | EN   |
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)                                                                           | YouTube                     | Não         | PT-BR    |
+| [Dev Aprender](https://www.youtube.com/DevAprender)                                                                                                 | Youtube                     | Não         | PT-BR    |
+
 | [Dev na Estrada](https://devnaestrada.com.br/)                                                                                                 | Podcast                     | Não         | PT-BR    |
 | [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbiA)                                                                        | Youtube                     | Não         | PT-BR    |
 | [DicasPraDevs](https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ/videos)                                                                             | YouTube                      | Não         | PT-BR    |
