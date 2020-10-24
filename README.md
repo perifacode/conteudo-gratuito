@@ -218,6 +218,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [W3Schools](https://www.w3schools.com/)                                                                                                        | Site                         | Não         | EN    |
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
+| [Public APIs](https://github.com/public-apis/public-apis)                                                                                            | Repositório              | Não         | EN    |
 
 ## Contribuidores ✨
 
