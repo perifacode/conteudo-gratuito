@@ -159,6 +159,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Otávio Miranda](https://www.youtube.com/user/todoespacoonline)                                                                                | Youtube                     | Não         | PT-BR    |
 | [Origamid](https://www.youtube.com/channel/UCRe4a2l_hRvROUU02_0YCmQ)                                                                           | Youtube                     | Não         | PT-BR    |
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao)                                                                  | YouTube                     | Não         | pt-BR    |
+| [Papo de Dev](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/featured)                                                               | YouTube                     | Não | pt-BR |
 | [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)                                                                        | Youtube                     | Não         | PT-BR    | 
 | [PHPSP](https://www.youtube.com/user/phpsp1) | Youtube | Não | PT-BR |
 | [Pipoca Ágil](https://open.spotify.com/show/5J1scP1l7m7kXK6v5RZS7J?si=OSznos0oQ4mlLeTMRE_LVA)                                                  | Podcast                     | Não         | PT-BR    |
