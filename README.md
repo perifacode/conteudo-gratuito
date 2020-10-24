@@ -181,6 +181,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Simple Programming](https://www.youtube.com/channel/UCDnZ8f2yo-JGBh8rOn30OAg)                                                                   | Youtube                     | Não        | EN    |
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
 | [Spring Guides](https://spring.io/guides)                                                                                            | Tutorial                     | Não         | EN       |
+| [Softblue](https://www.softblue.com.br/site/index#)                                                                           | Cursos                      | Sim         | PT-BR       |
 | [SoloLearn](https://www.sololearn.com/)                                                                           | Cursos                      | Sim         | EN       |
 | [Spring Developer](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA)                                                                           | Youtube                     | Não         | EN       |
 | [Tech primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)                                                                           | Yotutube                   | Não         | EN       |
