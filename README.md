@@ -118,6 +118,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [High5Devs](http://high5devs.com/)                                                                                                             | Blog                        | Não         | PT-BR    |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                                                                  | Podcast                     | Não         | PT-BR    |
 | [HTML Dog](https://htmldog.com/)                                                                                                               | Tutoriais                   | Não         | EN       |
+| [Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw) | Youtube | Não | PT-BR |
 | [iMasters](https://www.youtube.com/user/imasters) | Youtube | Não | PT-BR
 | [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) | Curso | Sim | PT-BR
 | [in28minutes Cloud, DevOps and Microservices](https://www.youtube.com/channel/UCLz7LG4YVi7_iyk4yOARcxA) | Youtube | Não | EN
