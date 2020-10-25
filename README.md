@@ -133,6 +133,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [JavaScript Katas](https://jskatas.org/)                                                                                                       | Desafios                    | Não         | EN       |
 | [Jessica Temporal](https://jtemporal.com/)                                                                                                     | Blog                        | Não         | PT-BR    |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)                                                              | Youtube                     | Não         | PT-BR    |
+| [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)                                                              | Youtube                     | Não         | EN-US    |
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/)                                                        | Curso                       | Sim         | PT       |
 | [Katacoda](https://www.katacoda.com/)                                                                                                          | Curso                       | Não         | EN       |
 | [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng) | Youtube | Não | EN |
@@ -156,6 +157,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/)                                                | Curso/Youtube               | Sim         | PT-BR    |
 | [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)                                                                                     | Cursos                      | Não         | PT/EN    |
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)                                                                    | Youtube                     | Nao         | PT-BR    |
+| [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/featured)                                                                    | Youtube/Cursos                     | Nao         | EN-US    |
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/)                                                                                     | Cursos                      | Sim         | PT-BR    |
 | [NodeSchool](https://nodeschool.io/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)                                                           | Youtube                     | Não         | PT-BR    |
@@ -176,6 +178,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | Livro                       | Não         | PT-BR    |
 | [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis)                                                                   | Youtube                     | Não         | PT-BR    |
 | [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)                                                               | Youtube                     | Não         | PT-BR    |
+| [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)                                                                                      | YouTube                     | Não         | EN-US    |
 | [ProgrAmada Mente](https://www.youtube.com/user/ozirispc)                                                                                      | YouTube                     | Não         | PT-BR    |
 | [Programação Orientada a Objetos com Python - Fernando Feltrin](https://www.slideshare.net/fernandofeltrin56/programacao-orientada-a-objetos-fernando-feltrin-105?fbclid=IwAR2Qx-B6eVCptt7W6eYJ-aYlfCC2gHKGIHcXdorEfSCAxjAsI5Lf9unxn6Q)                                                               | Livro                     | Não         | PT-BR    |
 | [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)                                                                     | Youtube                     | Não         | PT-BR    |
@@ -214,6 +217,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [The Odin Project](https://www.theodinproject.com/)                                                                                            | Cursos                      | Não         | EN       |
 | [Tim Tec](https://cursos.timtec.com.br/)                                                                                                       | Cursos                      | Sim         | PT-BR    |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/)                                                                             | Cursos                      | Não         | PT-BR    |
+| [TOTVS Developers](https://www.youtube.com/c/TOTVSDevelopers/featured)                                                                             | YouTube                      | Não         | PT-BR    |
+| [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)                                                                             | YouTube                      | Não         | EN-US    |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity)                                           | Cursos                      | Não         | PT-BR    |
 | [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)                                                                | YouTube                     | Não         | pt-BR    |
 | [Universo Discreto](https://www.youtube.com/c/UniversoDiscreto/videos)                                                                         | Curso/Youtube                      | Não         | PT-BR    |
