@@ -96,6 +96,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges)                                                                     | Desafios                    | Não         | EN/PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/)                                                                                   | Cursos                      | Sim         | PT-BR    |
 | [Future Learn](https://www.futurelearn.com)                                                                                                    | Cursos                      | Não         | EN       |
+| [Geek Dev](https://www.youtube.com/c/CanalGeekDev/videos)                                                                                      | Youtube                     | Não         | PT-BR    |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
