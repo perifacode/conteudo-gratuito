@@ -87,6 +87,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Eduardo Cuducos](https://cuducos.me/blog/)                                                                                                    | Blog                        | Não         | PT-BR    |
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)                                                                                  | Youtube                     | Não         | PT-BR    |
 | [Edx](https://www.edx.org/)                                                                                                                    | Site                       | Sim (pago)  | EN       |
+| [Elite Data Science](https://elitedatascience.com/)                                                                                            | Artigos              | Não         | EN    |
 | [Eloquente Javascript (2ª edição)](https://braziljs.github.io/eloquente-javascript/)                                                           | Livro                       | Não         | PT-BR    |
 | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/)                                                                             | Livro                       | Não         | EN       |
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)                                                                      | Youtube                     | Não         | PT-BR    |
@@ -240,6 +241,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [W3Schools](https://www.w3schools.com/)                                                                                                        | Site                         | Não         | EN    |
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
+
 
 ## Contribuidores ✨
 
