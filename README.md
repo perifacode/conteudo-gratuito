@@ -36,6 +36,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [C/C++ Brasil](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg)                                                                       | Youtube                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
 | [Caelum](https://www.caelum.com.br/apostilas)                                                                                                  | Apostilas                   | Não         | PT-BR    |
+| [Canal TI](https://www.youtube.com/CanalTIoficial)                                                                                             | Youtube                     | Não         | PT-BR    |
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists)                                                                                       | Youtube                     | Não         | EN   |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
@@ -71,6 +72,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Desafio #30diasCSS](https://github.com/MilenaCarecho/30diasDeCSS)                                                                             | Desafio                     | Não         | PT-BR    |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Desenvolvedor.io](https://desenvolvedor.io/)                                                                                                  | Site                        | Sim         | PT-BR    |
+| [Dev Aprender](https://www.youtube.com/DevAprender)                                                                                            | Youtube                     | Não         | PT-BR    |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)                                                                            | Youtube                     | Não         | PT-BR    |
 | [DevGlan](https://www.devglan.com/)                                                                            | Tech Blog                   | Não         | EN   |
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)                                                                           | YouTube                     | Não         | PT-BR    |
@@ -224,8 +226,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)                                                                | YouTube                     | Não         | pt-BR    |
 | [Universo Discreto](https://www.youtube.com/c/UniversoDiscreto/videos)                                                                         | Curso/Youtube                      | Não         | PT-BR    |
 | [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)                                                                           | Desafios                    | Não         | PT-BR    |
-| [Via rapida](http://www.viarapida.sp.gov.br/trilhas-sp-tech)                                                                                   | Site                     | Sim         | PT-BR    |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)                                                                   | Youtube                     | Não         | PT-BR    |
+| [Via rapida](http://www.viarapida.sp.gov.br/trilhas-sp-tech)                                                                                   | Site                     | Sim         | PT-BR    |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs)                                                                                             | Livro                       | Não         | PT-BR    |
 | [Waldemar Neto Dev Lab](https://www.youtube.com/user/waldemaneto)                                                                              | Youtube                     | Não         | PT-BR    |
 | [Web skills](https://andreasbm.github.io/web-skills/)                                                                                          | Site                        | Nao         | EN       |
