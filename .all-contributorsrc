@@ -688,6 +688,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Matheusdoe-dev",
+      "name": "Matheus do É Santos",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58111490?v=4",
+      "profile": "http://matheusdoe.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
