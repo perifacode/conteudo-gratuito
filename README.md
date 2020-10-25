@@ -1,7 +1,7 @@
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-81-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-82-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -358,6 +358,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/WSantos79"><img src="https://avatars0.githubusercontent.com/u/58752564?v=4" width="100px;" alt=""/><br /><sub><b>Wellington Santos</b></sub></a><br /><a href="#content-WSantos79" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/GabrielF9"><img src="https://avatars3.githubusercontent.com/u/36803662?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Ferreira</b></sub></a><br /><a href="#content-GabrielF9" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/leitoraincomum"><img src="https://avatars3.githubusercontent.com/u/52082710?v=4" width="100px;" alt=""/><br /><sub><b>Fernanda Souza</b></sub></a><br /><a href="#content-leitoraincomum" title="Content">🖋</a></td>
+    <td align="center"><a href="https://dev.to/danieldeev"><img src="https://avatars3.githubusercontent.com/u/61810952?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Pereira</b></sub></a><br /><a href="#content-danieldeev" title="Content">🖋</a></td>
   </tr>
 </table>
 
