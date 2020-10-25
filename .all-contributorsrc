@@ -697,6 +697,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "renan-assis-santos",
+      "name": "Renan de Assis",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/61845573?v=4",
+      "profile": "https://github.com/renan-assis-santos",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
