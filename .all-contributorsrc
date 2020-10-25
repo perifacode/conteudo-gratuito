@@ -733,6 +733,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "danieldeev",
+      "name": "Daniel Pereira",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/61810952?v=4",
+      "profile": "https://dev.to/danieldeev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
