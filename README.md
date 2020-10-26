@@ -40,6 +40,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists)                                                                                       | Youtube                     | Não         | EN   |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
+| [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       |
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)                                                                       | YouTube                     | Não         | PT-BR    |
 | [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |
@@ -73,6 +74,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Desafio #30diasCSS](https://github.com/MilenaCarecho/30diasDeCSS)                                                                             | Desafio                     | Não         | PT-BR    |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Desenvolvedor.io](https://desenvolvedor.io/)                                                                                                  | Site                        | Sim         | PT-BR    |
+| [Desenvolvimento para web](https://desenvolvimentoparaweb.com/)                                                                                                  | Site                        | Não         | PT-BR    |
 | [Dev Aprender](https://www.youtube.com/DevAprender)                                                                                            | Youtube                     | Não         | PT-BR    |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)                                                                            | Youtube                     | Não         | PT-BR    |
 | [DevGlan](https://www.devglan.com/)                                                                            | Tech Blog                   | Não         | EN   |
@@ -102,6 +104,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [FalaDev](https://pizzadedados.com/)                                                                                                           | Podcast                     | Não         | PT-BR    |
 | [FalaNeto](https://falaneto.com/) | Podcast | Não | PT-BR |
+| [Felipe Fialho](https://www.felipefialho.com/blog/) | Blog | Não | PT-BR |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)                                                                           | Youtube                     | Não         | PT-BR    |
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)                                           | Cursos                      | Sim         | PT-BR    |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem)                                                                                         | YouTube                     | Não         | PT-BR    |
