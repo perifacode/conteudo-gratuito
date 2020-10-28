@@ -60,6 +60,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Commit](https://radiopublic.com/commit-WYMXMl/episodes)                                                                      | Podcast                        | Não         | PT-BR    |
 | [Compiladoras de Cafeína](https://dev.to/compiladoras)                                                                                         | Blog                        | Não         | PT-BR    |
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
+| [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube                     | Não         | EN       |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       |
 | [cursae](https://www.cursae.com.br/)                                                                                                           | Cursos                      | Sim         | PT-BR    |
 | [Curso de Flask - Julia Rizza](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX)                                                               | Youtube                       | Não         | PT-BR       |
@@ -147,6 +148,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)                                                        | Cursos                      | Sim         | EN       |
 | [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos)                                                               | Youtube                     | Não         | PT-BR    |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                                                         | Podcast                     | Não         | PT-BR    |
+| [Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)                                                                   | Youtube                     | Não         | EN       |
 | [LeetCode](https://leetcode.com/)                                                                                                              | Desafios                     | Não         | EN       |
 | [Let's Debug Tech](https://www.youtube.com/channel/UCmrNAq0jWguZ2d9GoCYUAsg)                                                                                         | Youtube                     | Não         | EN    |
 | [Leticia Portella](https://leportella.com/pt-br)                                                                                               | Blog                        | Não         | PT-BR/EN |
