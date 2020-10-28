@@ -24,6 +24,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
 | [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
+| [Canal Ayushi Rawat - Python](https://www.youtube.com/c/AyushiRawat/videos)                                                                    | Youtube                     | Não         | EN-US    |
 | [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/)                                                                          | Youtube                     | Não         | PT-BR    |
