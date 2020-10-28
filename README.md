@@ -94,6 +94,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Erick Wendel](https://www.youtube.com/c/ErickWendelTreinamentos)                                                                      | Youtube/Cursos                     | Não         | PT-BR    |
 | [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)                                                                           | Youtube                     | Não         | EN       |
+| [ES6 para humanos](https://github.com/alexmoreno/ES6-para-humanos)     | Repositório      | Não    |    PT-BR    |  
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ)                                                                   | Youtube/Cursos              | Não         | PT-BR    |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)                                                                                           | Podcast                     | Não         | PT-BR    |
 | [Estudonauta](https://www.estudonauta.com/home-principal/)                                                                                           | Curso                     | Sim (Pago)        | PT-BR    |
