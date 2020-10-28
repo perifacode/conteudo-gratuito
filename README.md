@@ -23,6 +23,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
+| [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)                                              | Youtube                     | Não         | PT-BR    |
 | [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
 | [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
