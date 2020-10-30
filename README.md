@@ -122,11 +122,13 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)                                                                         | Youtube                    | Não         | PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/)                                                                                   | Cursos                      | Sim         | PT-BR    |
 | [Future Learn](https://www.futurelearn.com)                                                                                                    | Cursos                      | Não         | EN       |
+| [Garotas Geek](http://www.garotasgeeks.com/podcast/)                                                                                      | Podcast                     | Não         | PT-BR    |
 | [Geek Dev](https://www.youtube.com/c/CanalGeekDev/videos)                                                                                      | Youtube                     | Não         | PT-BR    |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Guia de Estudos CSS](https://trello.com/b/wv0mCgaQ/guia-de-estudos-css-v10)                                                                    | Tutoriais                     | Não         | PT-BR/EN    |
+| [Hack'n'Cast](https://hackncast.org/)                                                                                                     | Podcast                    | Não         | PT-BR       |
 | [Hacker Rank](https://www.hackerrank.com/)                                                                                                     | Desafios                    | Sim         | EN       |
 | [High5Devs](http://high5devs.com/)                                                                                                             | Blog                        | Não         | PT-BR    |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                                                                  | Podcast                     | Não         | PT-BR    |
@@ -173,6 +175,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)                                                                                     | Cursos                      | Não         | PT/EN    |
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)                                                                    | Youtube                     | Nao         | PT-BR    |
 | [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/featured)                                                                    | Youtube/Cursos                     | Nao         | EN-US    |
+| [NerdCast](https://jovemnerd.com.br/nerdcast/)                                                                                     | Podcast                      | Não         | PT-BR    |
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/)                                                                                     | Cursos                      | Sim         | PT-BR    |
 | [NodeSchool](https://nodeschool.io/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)                                                           | Youtube                     | Não         | PT-BR    |
@@ -190,6 +193,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Pizza de Dados](https://pizzadedados.com/)                                                                                                    | Podcast                     | Não         | PT-BR    |
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/)                                                                                      | Podcast                     | Não         | PT-BR    |
 | [PokePHP](https://pokephp.com.br/)                                                            | Curso/Youtube                     | Não         | PT-BR    |
+| [Pouco Pixel](https://poucopixel.com/console/podcast/)                                                            | Podcast                     | Não         | PT-BR    |
+| [Pretas na rede](https://anchor.fm/pretasnarede)                  | Podcast                       | Não         | PT-BR       |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)                  | Livro                       | Não         | EN       |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | Livro                       | Não         | PT-BR    |
 | [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis)                                                                   | Youtube                     | Não         | PT-BR    |
@@ -219,6 +224,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos)                                                                                  | Cursos                      | Sim         | PT-BR    |
 | [Scott Hanselman](https://www.youtube.com/c/shanselman/videos)                                                                                  | YouTube                      | Sim         | EN    |
 | [Scrimba](https://www.scrimba.com)                                                                                                             | Cursos                      | Não         | EN       |
+| [SegInfoCast](https://seginfo.com.br/category/podcast-seguranca-tecnologia-da-informacao-seginfocast/)                                                                   | Podcast                      | Não         | PT-BR    |
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos)                                                                   | Cursos                      | Sim         | PT-BR    |
 | [Simple Programming](https://www.youtube.com/channel/UCDnZ8f2yo-JGBh8rOn30OAg)                                                                   | Youtube                     | Não        | EN    |
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
@@ -253,6 +259,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
 | [W3Schools](https://www.w3schools.com/)                                                                                                        | Site                         | Não         | EN    |
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
+| [Zofe](https://zofe.com.br/)                                                                                            | Podcast              | Não         | PT-BR    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
 
 
