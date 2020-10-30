@@ -204,6 +204,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Programação Orientada a Objetos com Python - Fernando Feltrin](https://www.slideshare.net/fernandofeltrin56/programacao-orientada-a-objetos-fernando-feltrin-105?fbclid=IwAR2Qx-B6eVCptt7W6eYJ-aYlfCC2gHKGIHcXdorEfSCAxjAsI5Lf9unxn6Q)                                                               | Livro                     | Não         | PT-BR    |
 | [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)                                                                     | Youtube                     | Não         | PT-BR    |
 | [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ)                                                                  | Youtube                     | Não         | PT-BR    |
+| [Programaê](http://programae.org.br/)                                                                                                           Curso
+             Não          | PT-BR    |
 | [Public APIs](https://github.com/public-apis/public-apis)                                                                                            | Repositório              | Não         | EN    |
 | [PyLadies Parnaíba](https://www.youtube.com/channel/UCSS9PKgt7zsaZDJ6ZeSLh6w)                                                                  | Youtube                     | Não         | PT-BR    |
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/)                                                                              | Curso/Youtube               | Sim         | PT-BR    |
