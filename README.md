@@ -18,10 +18,12 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 
 | Descrição                                                                                                                                      | Tipo (Curso, Livro, etc)    | Certificado | Idioma   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
+| [100 days CSS](https://100dayscss.com/)                                                                                                      | Desafios                      | Não         | PT-BR    |
 | [4noobs](https://github.com/he4rt/4noobs)                                                                                                      | Cursos                      | Não         | PT-BR    |
 | [Ace Front End](https://www.acefrontend.com/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
 | [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
+| [App Ideas](https://github.com/florinpop17/app-ideas)                                                                   | Desafios                      | Não         | EN       |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Ask Lucas Montano Show](https://www.youtube.com/channel/UClSPuL8jrJGs7R99WpvVDGw)                                                             | YouTube                       | Não       | PT-BR    |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
@@ -53,6 +55,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/)                                                                                | Jogo                        | Não         | EN       |
 | [code_report](https://www.youtube.com/c/codereport)                                                                                            | Youtube                     | Não         | EN       |
 | [Code Show](https://www.youtube.com/user/brunovegan)                                                                                           | Youtube                     | Não         | PT-BR    |
+| [Coderbyte](https://coderbyte.com/)                                                                                                 | Desafios                    | Não         | EN       |
 | [CodeSignal](https://app.codesignal.com/login)                                                                                                 | Desafios                    | Não         | EN       |
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)                                                                                  | Youtube                     | Não         | PT-BR    |
@@ -65,6 +68,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube                     | Não         | EN       |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       |
+| [CSS Battle](https://cssbattle.dev/)                                   | Desafios                      | Não         | EN       |
+| [CSS Diner](https://flukeout.github.io/)                                   | Desafios                      | Não         | EN       |
 | [cursae](https://www.cursae.com.br/)                                                                                                           | Cursos                      | Sim         | PT-BR    |
 | [Curso de Flask - Julia Rizza](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX)                                                               | Youtube                       | Não         | PT-BR       |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito)                                                               | Curso                       | Sim         | PT       |
@@ -116,9 +121,13 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)                                                                   | YouTube                     | Não         | PT-BR    |
 | [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)                                                                   | YouTube                     | Não         | EN    |
 | [Flávio Copes](https://flaviocopes.com/)                                                                                                | Blog                     | Não         | EN    |
+| [Flexbox Defense](http://www.flexboxdefense.com/)                                                                                           | Desafios                     | Não         | EN    |
+| [Flexbox Zombie](https://mastery.games/flexboxzombies/chapter/1/level/1)                                                                                           | Desafios                     | Não         | EN    |
 | [Flutterando](https://www.youtube.com/c/Flutterando)                                                                                           | YouTube                     | Não         | PT-BR    |
 | [FreeCodeCamp](https://www.freecodecamp.org/)                                                                                                  | Cursos                      | Sim         | EN       |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges)                                                                     | Desafios                    | Não         | EN/PT-BR |
+| [Front-end Challenges Club](https://piccalil.li/category/front-end%20challenges%20club/)                                                                     | Desafios                    | Não         | EN |
+| [Front-end Mentor](https://www.frontendmentor.io/challenges)                                                                     | Desafios                    | Não         | EN |
 | [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)                                                                         | Youtube                    | Não         | PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/)                                                                                   | Cursos                      | Sim         | PT-BR    |
 | [Future Learn](https://www.futurelearn.com)                                                                                                    | Cursos                      | Não         | EN       |
@@ -150,6 +159,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Jessica Temporal](https://jtemporal.com/)                                                                                                     | Blog                        | Não         | PT-BR    |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)                                                              | Youtube                     | Não         | PT-BR    |
 | [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)                                                              | Youtube                     | Não         | EN-US    |
+| [JS Robot](https://lab.reaal.me/jsrobot/#level=1&language=en)                                                              | Desafios                    | Não         | EN    |
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/)                                                        | Curso                       | Sim         | PT       |
 | [Katacoda](https://www.katacoda.com/)                                                                                                          | Curso                       | Não         | EN       |
 | [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng) | Youtube | Não | EN |
@@ -159,6 +169,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos)                                                               | Youtube                     | Não         | PT-BR    |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                                                         | Podcast                     | Não         | PT-BR    |
 | [Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)                                                                   | Youtube                     | Não         | EN       |
+| [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)                                                                                               | Desafios                       | Não         | PT-BR/EN |
 | [LeetCode](https://leetcode.com/)                                                                                                              | Desafios                     | Não         | EN       |
 | [Let's Debug Tech](https://www.youtube.com/channel/UCmrNAq0jWguZ2d9GoCYUAsg)                                                                                         | Youtube                     | Não         | EN    |
 | [Leticia Portella](https://leportella.com/pt-br)                                                                                               | Blog                        | Não         | PT-BR/EN |
@@ -228,6 +239,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Scrimba](https://www.scrimba.com)                                                                                                             | Cursos                      | Não         | EN       |
 | [SegInfoCast](https://seginfo.com.br/category/podcast-seguranca-tecnologia-da-informacao-seginfocast/)                                                                   | Podcast                      | Não         | PT-BR    |
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos)                                                                   | Cursos                      | Sim         | PT-BR    |
+| [Silent Teacher](http://silentteacher.toxicode.fr/)                                                                   | Desafios                     | Não         | PT-BR/EN    |
 | [Simple Programming](https://www.youtube.com/channel/UCDnZ8f2yo-JGBh8rOn30OAg)                                                                   | Youtube                     | Não        | EN    |
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
 | [Spring Guides](https://spring.io/guides)                                                                                            | Tutorial                     | Não         | EN       |
