@@ -25,6 +25,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Ask Lucas Montano Show](https://www.youtube.com/channel/UClSPuL8jrJGs7R99WpvVDGw)                                                             | YouTube                       | Não       | PT-BR    |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
+| [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)                                              | Youtube                     | Não         | PT-BR    |
 | [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
 | [Baeldung](https://www.baeldung.com/)                                                                                                            | Blog/Tutoriais                     | Não         | EN   |
 | [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |
