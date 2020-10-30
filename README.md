@@ -241,6 +241,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [UpInside](https://www.youtube.com/user/UpInsideBr)                                                                                            | Youtube                      | Não         | PT-BR    |
 | [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)                                                                           | Desafios                    | Não         | PT-BR    |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)                                                                   | Youtube                     | Não         | PT-BR    |
+| [Vídeos de TI](https://videosdeti.com.br/)                                                                                                     | Tutoriais                   | Não         | PT-BR/EN |
+| [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)                                                                   | Youtube                     | Não         | PT-BR    |
 | [Via rapida](http://www.viarapida.sp.gov.br/trilhas-sp-tech)                                                                                   | Site                     | Sim         | PT-BR    |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs)                                                                                             | Livro                       | Não         | PT-BR    |
 | [Waldemar Neto Dev Lab](https://www.youtube.com/user/waldemaneto)                                                                              | Youtube                     | Não         | PT-BR    |
