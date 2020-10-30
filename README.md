@@ -82,6 +82,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Dev Challenges](https://devchallenges.io/)                                                                                                 | Desafios                     | Não         | EN    |
 | [Dev na Estrada](https://devnaestrada.com.br/)                                                                                                 | Podcast                     | Não         | PT-BR    |
 | [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbiA)                                                                        | Youtube                     | Não         | PT-BR    |
+| [Dias de Dev](https://www.youtube.com/c/DiasdeDev/)                                                                                            | Youtube                     | Não         | PT-BR    |
 | [DicasPraDevs](https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ/videos)                                                                             | YouTube                      | Não         | PT-BR    |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)                                                                             | Cursos                      | Sim         | PT-BR    |
 | [Diolinux](https://www.youtube.com/c/DiolinuxBr/videos)                                                                             | Youtube                      | Não         | PT-BR    |
