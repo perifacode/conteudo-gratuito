@@ -1,7 +1,7 @@
 ﻿# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-85-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-86-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -374,6 +374,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/danielesreis"><img src="https://avatars2.githubusercontent.com/u/18349956?v=4" width="100px;" alt=""/><br /><sub><b>Daniele Reis</b></sub></a><br /><a href="#content-danielesreis" title="Content">🖋</a></td>
+    <td align="center"><a href="http://angelobms.github.io"><img src="https://avatars1.githubusercontent.com/u/2703087?v=4" width="100px;" alt=""/><br /><sub><b>Angelo Brandão</b></sub></a><br /><a href="#content-angelobms" title="Content">🖋</a></td>
   </tr>
 </table>
 
