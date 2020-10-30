@@ -1,4 +1,4 @@
-# 📌 Conteúdo gratuito
+﻿# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-83-orange.svg?style=flat-square)](#contributors-)
@@ -45,7 +45,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)                                                                       | YouTube                     | Não         | PT-BR    |
 | [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |
 | [Codando](https://codando.org/material-gratuito/)                                                                                              | Cursos                      | Não         | PT-BR    |
-| [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Não         | EN       |
+| [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |
 | [CodePen Challenges](https://codepen.io/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)                                                                          | Jogo                        | Não         | EN       |
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/)                                                                                | Jogo                        | Não         | EN       |
@@ -123,7 +123,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Guia de Estudos CSS](https://trello.com/b/wv0mCgaQ/guia-de-estudos-css-v10)                                                                    | Tutoriais                     | Não         | PT-BR/EN    |
-| [Hacker Rank](https://www.hackerrank.com/)                                                                                                     | Desafios                    | Não         | EN       |
+| [Hacker Rank](https://www.hackerrank.com/)                                                                                                     | Desafios                    | Sim         | EN       |
 | [High5Devs](http://high5devs.com/)                                                                                                             | Blog                        | Não         | PT-BR    |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                                                                  | Podcast                     | Não         | PT-BR    |
 | [HTML Dog](https://htmldog.com/)                                                                                                               | Tutoriais                   | Não         | EN       |
