@@ -742,6 +742,42 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "omarkdev",
+      "name": "Marcos Felipe",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14936241?v=4",
+      "profile": "http://omark.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "lucascruz96",
+      "name": "Lucas Cruz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9105042?v=4",
+      "profile": "https://www.hackerrank.com/lucascruz96",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "danielesreis",
+      "name": "Daniele Reis",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18349956?v=4",
+      "profile": "https://github.com/danielesreis",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "angelobms",
+      "name": "Angelo Brandão",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2703087?v=4",
+      "profile": "http://angelobms.github.io",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

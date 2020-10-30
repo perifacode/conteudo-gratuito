@@ -1,7 +1,7 @@
-# 📌 Conteúdo gratuito
+﻿# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-82-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-86-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
@@ -25,7 +25,9 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Ask Lucas Montano Show](https://www.youtube.com/channel/UClSPuL8jrJGs7R99WpvVDGw)                                                             | YouTube                       | Não       | PT-BR    |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
+| [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)                                              | Youtube                     | Não         | PT-BR    |
 | [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
+| [ Ayushi Rawat - Python](https://www.youtube.com/c/AyushiRawat/videos)                                                                    | Youtube                     | Não         | EN-US    |
 | [Baeldung](https://www.baeldung.com/)                                                                                                            | Blog/Tutoriais                     | Não         | EN   |
 | [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
@@ -40,11 +42,12 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists)                                                                                       | Youtube                     | Não         | EN   |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
+| [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       |
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)                                                                       | YouTube                     | Não         | PT-BR    |
 | [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |
 | [Codando](https://codando.org/material-gratuito/)                                                                                              | Cursos                      | Não         | PT-BR    |
-| [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Não         | EN       |
+| [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |
 | [CodePen Challenges](https://codepen.io/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)                                                                          | Jogo                        | Não         | EN       |
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/)                                                                                | Jogo                        | Não         | EN       |
@@ -60,6 +63,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Commit](https://radiopublic.com/commit-WYMXMl/episodes)                                                                      | Podcast                        | Não         | PT-BR    |
 | [Compiladoras de Cafeína](https://dev.to/compiladoras)                                                                                         | Blog                        | Não         | PT-BR    |
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
+| [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube                     | Não         | EN       |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       |
 | [cursae](https://www.cursae.com.br/)                                                                                                           | Cursos                      | Sim         | PT-BR    |
 | [Curso de Flask - Julia Rizza](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX)                                                               | Youtube                       | Não         | PT-BR       |
@@ -73,6 +77,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Desafio #30diasCSS](https://github.com/MilenaCarecho/30diasDeCSS)                                                                             | Desafio                     | Não         | PT-BR    |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Desenvolvedor.io](https://desenvolvedor.io/)                                                                                                  | Site                        | Sim         | PT-BR    |
+| [Desenvolvimento para web](https://desenvolvimentoparaweb.com/)                                                                                                  | Site                        | Não         | PT-BR    |
 | [Dev Aprender](https://www.youtube.com/DevAprender)                                                                                            | Youtube                     | Não         | PT-BR    |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)                                                                            | Youtube                     | Não         | PT-BR    |
 | [DevGlan](https://www.devglan.com/)                                                                            | Tech Blog                   | Não         | EN   |
@@ -80,6 +85,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Dev Challenges](https://devchallenges.io/)                                                                                                 | Desafios                     | Não         | EN    |
 | [Dev na Estrada](https://devnaestrada.com.br/)                                                                                                 | Podcast                     | Não         | PT-BR    |
 | [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbiA)                                                                        | Youtube                     | Não         | PT-BR    |
+| [Dias de Dev](https://www.youtube.com/c/DiasdeDev/)                                                                                            | Youtube                     | Não         | PT-BR    |
 | [DicasPraDevs](https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ/videos)                                                                             | YouTube                      | Não         | PT-BR    |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)                                                                             | Cursos                      | Sim         | PT-BR    |
 | [Diolinux](https://www.youtube.com/c/DiolinuxBr/videos)                                                                             | Youtube                      | Não         | PT-BR    |
@@ -94,6 +100,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Erick Wendel](https://www.youtube.com/c/ErickWendelTreinamentos)                                                                      | Youtube/Cursos                     | Não         | PT-BR    |
 | [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)                                                                           | Youtube                     | Não         | EN       |
+| [ES6 para humanos](https://github.com/alexmoreno/ES6-para-humanos)     | Repositório      | Não    |    PT-BR    |  
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ)                                                                   | Youtube/Cursos              | Não         | PT-BR    |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)                                                                                           | Podcast                     | Não         | PT-BR    |
 | [Estudonauta](https://www.estudonauta.com/home-principal/)                                                                                           | Curso                     | Sim (Pago)        | PT-BR    |
@@ -102,6 +109,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [FalaDev](https://pizzadedados.com/)                                                                                                           | Podcast                     | Não         | PT-BR    |
 | [FalaNeto](https://falaneto.com/) | Podcast | Não | PT-BR |
+| [Felipe Fialho](https://www.felipefialho.com/blog/) | Blog | Não | PT-BR |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)                                                                           | Youtube                     | Não         | PT-BR    |
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)                                           | Cursos                      | Sim         | PT-BR    |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem)                                                                                         | YouTube                     | Não         | PT-BR    |
@@ -120,8 +128,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Guia de Estudos CSS](https://trello.com/b/wv0mCgaQ/guia-de-estudos-css-v10)                                                                    | Tutoriais                     | Não         | PT-BR/EN    |
-| [Hacker Rank](https://www.hackerrank.com/)                                                                                                     | Desafios                    | Não         | EN       |
 | [Hack'n'Cast](https://hackncast.org/)                                                                                                     | Podcast                    | Não         | PT-BR       |
+| [Hacker Rank](https://www.hackerrank.com/)                                                                                                     | Desafios                    | Sim         | EN       |
 | [High5Devs](http://high5devs.com/)                                                                                                             | Blog                        | Não         | PT-BR    |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                                                                  | Podcast                     | Não         | PT-BR    |
 | [HTML Dog](https://htmldog.com/)                                                                                                               | Tutoriais                   | Não         | EN       |
@@ -150,6 +158,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)                                                        | Cursos                      | Sim         | EN       |
 | [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos)                                                               | Youtube                     | Não         | PT-BR    |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                                                         | Podcast                     | Não         | PT-BR    |
+| [Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)                                                                   | Youtube                     | Não         | EN       |
 | [LeetCode](https://leetcode.com/)                                                                                                              | Desafios                     | Não         | EN       |
 | [Let's Debug Tech](https://www.youtube.com/channel/UCmrNAq0jWguZ2d9GoCYUAsg)                                                                                         | Youtube                     | Não         | EN    |
 | [Leticia Portella](https://leportella.com/pt-br)                                                                                               | Blog                        | Não         | PT-BR/EN |
@@ -367,6 +376,12 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="https://github.com/GabrielF9"><img src="https://avatars3.githubusercontent.com/u/36803662?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Ferreira</b></sub></a><br /><a href="#content-GabrielF9" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/leitoraincomum"><img src="https://avatars3.githubusercontent.com/u/52082710?v=4" width="100px;" alt=""/><br /><sub><b>Fernanda Souza</b></sub></a><br /><a href="#content-leitoraincomum" title="Content">🖋</a></td>
     <td align="center"><a href="https://dev.to/danieldeev"><img src="https://avatars3.githubusercontent.com/u/61810952?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Pereira</b></sub></a><br /><a href="#content-danieldeev" title="Content">🖋</a></td>
+    <td align="center"><a href="http://omark.dev"><img src="https://avatars2.githubusercontent.com/u/14936241?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Felipe</b></sub></a><br /><a href="#content-omarkdev" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.hackerrank.com/lucascruz96"><img src="https://avatars2.githubusercontent.com/u/9105042?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Cruz</b></sub></a><br /><a href="#content-lucascruz96" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/danielesreis"><img src="https://avatars2.githubusercontent.com/u/18349956?v=4" width="100px;" alt=""/><br /><sub><b>Daniele Reis</b></sub></a><br /><a href="#content-danielesreis" title="Content">🖋</a></td>
+    <td align="center"><a href="http://angelobms.github.io"><img src="https://avatars1.githubusercontent.com/u/2703087?v=4" width="100px;" alt=""/><br /><sub><b>Angelo Brandão</b></sub></a><br /><a href="#content-angelobms" title="Content">🖋</a></td>
   </tr>
 </table>
 
