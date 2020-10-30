@@ -742,6 +742,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "omarkdev",
+      "name": "Marcos Felipe",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14936241?v=4",
+      "profile": "http://omark.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
