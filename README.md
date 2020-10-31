@@ -67,6 +67,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Commit](https://radiopublic.com/commit-WYMXMl/episodes)                                                                      | Podcast                        | Não         | PT-BR    |
 | [Compiladoras de Cafeína](https://dev.to/compiladoras)                                                                                         | Blog                        | Não         | PT-BR    |
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
+| [Coursetro](https://coursetro.com/)                                                                                                           | Cursos                      | Não         | EN    |
 | [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube                     | Não         | EN       |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       |
 | [CSS Battle](https://cssbattle.dev/)                                   | Desafios                      | Não         | EN       |
