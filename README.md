@@ -129,6 +129,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Front-end Challenges Club](https://piccalil.li/category/front-end%20challenges%20club/)                                                                     | Desafios                    | Não         | EN |
 | [Front-end Mentor](https://www.frontendmentor.io/challenges)                                                                     | Desafios                    | Não         | EN |
 | [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)                                                                         | Youtube                    | Não         | PT-BR |
+| [Fullstack React GraphQL TypeScript Tutorial](https://youtu.be/I6ypD7qv3Z8)                                                                         | Youtube                    | Não         | EN |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/)                                                                                   | Cursos                      | Sim         | PT-BR    |
 | [Future Learn](https://www.futurelearn.com)                                                                                                    | Cursos                      | Não         | EN       |
 | [Garotas Geek](http://www.garotasgeeks.com/podcast/)                                                                                      | Podcast                     | Não         | PT-BR    |
