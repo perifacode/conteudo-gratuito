@@ -140,6 +140,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Guia de Estudos CSS](https://trello.com/b/wv0mCgaQ/guia-de-estudos-css-v10)                                                                    | Tutoriais                     | Não         | PT-BR/EN    |
+[Guilherme Souza - JavaScript gives you superpowers, use them](https://www.youtube.com/watch?v=G8Fa8oVnakM&t=924s) | Youtube | Não | PT-BR |
 | [Hack'n'Cast](https://hackncast.org/)                                                                                                     | Podcast                    | Não         | PT-BR       |
 | [Hacker Rank](https://www.hackerrank.com/)                                                                                                     | Desafios                    | Sim         | EN       |
 | [High5Devs](http://high5devs.com/)                                                                                                             | Blog                        | Não         | PT-BR    |
