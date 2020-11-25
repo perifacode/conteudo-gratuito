@@ -1,4 +1,4 @@
-﻿# 📌 Conteúdo gratuito
+﻿﻿# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
@@ -30,7 +30,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Angular do iniciante ao Intermediário](https://loiane.training/curso/angular)                                              | Youtube                     | Não         | PT-BR    |
 | [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)                                              | Youtube                     | Não         | PT-BR    |
 | [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
-| [ Ayushi Rawat - Python](https://www.youtube.com/c/AyushiRawat/videos)                                                                    | Youtube                     | Não         | EN-US    |
+| [Ayushi Rawat - Python](https://www.youtube.com/c/AyushiRawat/videos)                                                                    | Youtube                     | Não         | EN-US    |
 | [Baeldung](https://www.baeldung.com/)                                                                                                            | Blog/Tutoriais                     | Não         | EN   |
 | [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
@@ -38,6 +38,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Bóson Treinamentos](https://www.youtube.com/channel/UCzOGJclZQvPVgYZIwERsf5g)                                                                 | Youtube                     | Não         | PT-BR    |
 | [Brackeys](https://www.youtube.com/c/Brackeys)                                                                                              | YouTube                     | Não         | EN       |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS)                                                                                              | YouTube                     | Não         | PT-BR    |
+| [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)                                                                          | Youtube                     | Não         | EN       |
 | [C/C++ Brasil](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg)                                                                       | Youtube                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
 | [Caelum](https://www.caelum.com.br/apostilas)                                                                                                  | Apostilas                   | Não         | PT-BR    |
@@ -67,6 +68,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube              | Sim         | PT-BR    |
 | [Commit](https://radiopublic.com/commit-WYMXMl/episodes)                                                                      | Podcast                        | Não         | PT-BR    |
 | [Compiladoras de Cafeína](https://dev.to/compiladoras)                                                                                         | Blog                        | Não         | PT-BR    |
+| [Computer History Archives Project](https://www.youtube.com/channel/UCOyJD0RHtF_77_oAf5tT1nQ) | Youtube | Não | EN |
+| [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)                                                                      | Youtube                      | Não         | EN       |
 | [Coursera](https://pt.coursera.org/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [Coursetro](https://coursetro.com/)                                                                                                           | Cursos                      | Não         | EN    |
 | [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube                     | Não         | EN       |
@@ -97,7 +100,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [DicasPraDevs](https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ/videos)                                                                             | YouTube                      | Não         | PT-BR    |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)                                                                             | Cursos                      | Sim         | PT-BR    |
 | [Diolinux](https://www.youtube.com/c/DiolinuxBr/videos)                                                                             | Youtube                      | Não         | PT-BR    |
-| [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)                                                                   | Livro                       | Não         | PT-BR    | 
+| [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)                                                                   | Livro                       | Não         | PT-BR    |
 | [Eddabit](https://edabit.com/)                                                                                                                 | Desafios                    | Não         | EN       |
 | [Eduardo Cuducos](https://cuducos.me/blog/)                                                                                                    | Blog                        | Não         | PT-BR    |
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)                                                                                  | Youtube                     | Não         | PT-BR    |
@@ -118,6 +121,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [FalaDev](https://pizzadedados.com/)                                                                                                           | Podcast                     | Não         | PT-BR    |
 | [FalaNeto](https://falaneto.com/) | Podcast | Não | PT-BR |
 | [Felipe Fialho](https://www.felipefialho.com/blog/) | Blog | Não | PT-BR |
+| [Fernando Magno Quintao Pereira](https://www.youtube.com/channel/UCg5bk7P64WdvdIpxQ0OxnwQ) | Youtube | Não | PT-BR / EN |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)                                                                           | Youtube                     | Não         | PT-BR    |
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)                                           | Cursos                      | Sim         | PT-BR    |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem)                                                                                         | YouTube                     | Não         | PT-BR    |
@@ -159,6 +163,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [JavaScript30](https://javascript30.com/)                                                                                                      | Desafios                    | Não         | EN       |
 | [JavaScript for Cats](http://jsforcats.com/)                                                                                                   | Tutorial                    | Não         | EN       |
 | [JavaScript Katas](https://jskatas.org/)                                                                                                       | Desafios                    | Não         | EN       |
+| [javidx9](https://www.youtube.com/c/javidx9/) | Youtube | Não | EN |
 | [Jessica Temporal](https://jtemporal.com/)                                                                                                     | Blog                        | Não         | PT-BR    |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)                                                              | Youtube                     | Não         | PT-BR    |
 | [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)                                                              | Youtube                     | Não         | EN-US    |
@@ -178,6 +183,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Leticia Portella](https://leportella.com/pt-br)                                                                                               | Blog                        | Não         | PT-BR/EN |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [Loiane Training](https://loiane.training/cursos)                                                                                              | Cursos                      | Sim         | PT-BR    |
+| [Low Level Javascript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw) | Youtube | Não | EN |
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Manu Codes](https://www.youtube.com/c/ManuCodes)                                                                                              | Youtube                     | Não         | PT-PT    |
 | [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel)                       | Youtube                     | Nao         | PT-BR    |
@@ -222,7 +228,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Public APIs](https://github.com/public-apis/public-apis)                                                                                            | Repositório              | Não         | EN    |
 | [PyLadies Parnaíba](https://www.youtube.com/channel/UCSS9PKgt7zsaZDJ6ZeSLh6w)                                                                  | Youtube                     | Não         | PT-BR    |
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/)                                                                              | Curso/Youtube               | Sim         | PT-BR    |
-| [Python para Zumbis](https://www.pycursos.com/python-para-zumbis)                                                                              | Cursos         | Não         | PT-BR    |      
+| [Python para Zumbis](https://www.pycursos.com/python-para-zumbis)                                                                              | Cursos         | Não         | PT-BR    |
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli)                                                                                     | Youtube                     | Não         | PT-BR    |
 | [Python for Everybody](https://www.py4e.com/)                                                                                                  | Curso/Livro                 | Não         | PT-BR/EN |
 | [QuebraDev](https://quebradev.com.br/) | Podcast | Não | PT-BR |
@@ -230,8 +236,9 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)                                            | Repositório                 | Não         | PT-BR    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | Não         | PT-BR    |
-| [Reflectoring ](https://reflectoring.io/#)                                            | Blog/tutoriais              | Não         | EN    |
+| [Reflectoring](https://reflectoring.io/#)                                            | Blog/tutoriais              | Não         | EN    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | NÃO         | PT-BR    |
+| [Retro Game Mechanics Explained](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g) | Youtube | Não | EN |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | NÃO         | PT-BR    |
 | [Rocketseat](https://rocketseat.com.br)                                                                                                        | Youtube/Cursos/Podcast/Blog | Não         | PT-BR    |
 | [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)                                                                                      | Youtube/Cursos              | Não         | PT-BR    |
@@ -249,6 +256,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Spring Developer](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA)                                                                           | Youtube                     | Não         | EN       |
 | [Tech primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)                                                                           | Yotutube                   | Não         | EN       |
 | [Tech World with Nana](https://www.youtube.com/c/TechWorldwithNana)                                                                                            | Youtube/Cursos                      | Não         | EN       |
+| [Teske's Lab](https://www.youtube.com/channel/UCVTufsGGlhG6tLfERgG_HlQ) | Youtube | Não | PT-BR |
 | [Test Automation University](https://testautomationu.applitools.com)                                                                           | Cursos                      | Sim         | EN       |
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                      | Curso                       | Não         | EN       |
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/)                                                                                           | Palestras                   | Não         | EN       |
@@ -279,7 +287,6 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
 | [Zofe](https://zofe.com.br/)                                                                                            | Podcast              | Não         | PT-BR    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
-
 
 ## Contribuidores ✨
 
