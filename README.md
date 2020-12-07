@@ -279,7 +279,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
 | [Zofe](https://zofe.com.br/)                                                                                            | Podcast              | Não         | PT-BR    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
-
+| [The Huxley](https://www.thehuxley.com/) | Desafios | Não | PT-BR/EN |
 
 ## Contribuidores ✨
 
