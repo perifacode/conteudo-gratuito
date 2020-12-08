@@ -19,7 +19,6 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | Descrição                                                                                                                                      | Tipo (Curso, Livro, etc)    | Certificado | Idioma   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
 | [100 days CSS](https://100dayscss.com/)                                                                                                      | Desafios                      | Não         | PT-BR    |
-| [2Devs](https://2devs.simplecast.com/)                                                                                                      | Podcast                      | Não         | PT-BR    |
 | [4noobs](https://github.com/he4rt/4noobs)                                                                                                      | Cursos                      | Não         | PT-BR    |
 | [Ace Front End](https://www.acefrontend.com/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
 | [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
