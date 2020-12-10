@@ -44,6 +44,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Canal Jackson Pires](https://www.youtube.com/c/JacksonPires/videos)                                                                           | Youtube                     | Não         | PT-BR    |
 | [Canal TI](https://www.youtube.com/CanalTIoficial)                                                                                             | Youtube                     | Não         | PT-BR    |
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2)                                                                                       | Youtube                     | Não         | PT-BR    |
+| [CFBCursos](https://www.youtube.com/c/cfbcursos)                                                                                               | Youtube                     | Não         | PT-BR    |
 | [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists)                                                                                       | Youtube                     | Não         | EN   |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       |
