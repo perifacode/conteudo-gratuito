@@ -20,6 +20,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
 | [100 days CSS](https://100dayscss.com/)                                                                                                      | Desafios                      | Não         | PT-BR    |
 | [4noobs](https://github.com/he4rt/4noobs)                                                                                                      | Cursos                      | Não         | PT-BR    |
+| [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)                                                                          | Youtube                     | Não         | EN       |
 | [Ace Front End](https://www.acefrontend.com/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
 | [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
