@@ -18,7 +18,6 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma |
 | -------------- | ---------------------------------- | ----------- | ------ |
-| [Two Minute Papers](https://www.youtube.com/user/keeroyz) | Youtube | Não | EN |
 | [4noobs](https://github.com/he4rt/4noobs) | Cursos | Não | PT-BR |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | PT-BR |
 | [Balta.io](https://balta.io/cursos) | Cursos | Não | PT-BR |
@@ -130,6 +129,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [The Odin Project](https://www.theodinproject.com/) | Cursos | Não | EN |
 | [Tim Tec](https://cursos.timtec.com.br/) | Cursos | Sim | PT-BR |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Cursos | Não | PT-BR |
+| [Two Minute Papers](https://www.youtube.com/user/keeroyz) | Youtube | Não | EN |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Cursos | Não | PT-BR |
 | [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) | Desafios | Não | PT-BR |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | Não | PT-BR |
