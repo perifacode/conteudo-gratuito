@@ -43,7 +43,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [cursae](https://www.cursae.com.br/)| Cursos | Sim | PT-BR |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | PT |
 | [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/) | Youtube | Sim (Pago) | PT-BR | 
-| [Data Hackers](https://datahackers.com.br/podcast) | Podcast | Não | PT-BR | 
+| [Data Hackers](https://datahackers.com.br/podcast) | Podcast | Não | PT-BR |
+| [DeepLizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw) | Youtube | Não | EN | 
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | PT-BR |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | Site | Sim | PT-BR |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | PT-BR| 
