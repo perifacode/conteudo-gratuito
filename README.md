@@ -61,6 +61,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [CodeSignal](https://app.codesignal.com/login)                                                                                                 | Desafios                    | Não         | EN       |
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)                                                                                  | Youtube                     | Não         | PT-BR    |
+| [Código Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg)                                                                                  | Youtube                     | Não         | PT-BR    |
 | [CodinGame](https://www.codingame.com/)                                                                                                        | Desafios                    | Não         | EN       |
 | [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
