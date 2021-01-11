@@ -114,6 +114,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Estudonauta](https://www.estudonauta.com/home-principal/)                                                                                           | Curso                     | Sim (Pago)        | PT-BR    |
 | [eXcript](https://www.youtube.com/user/excriptvideo)                                                                                           | Youtube                     | Não         | PT-BR    |
 | [Exercism](https://exercism.io/)                                                                                                               | Desafios                    | Não         | EN       |
+| [EximiaCo](https://www.youtube.com/channel/UCwX5b4ru7-vkcxrg-3ehbPA)                                                                                                               | Youtube                    | Não         | PT-BR       |
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [FalaDev](https://pizzadedados.com/)                                                                                                           | Podcast                     | Não         | PT-BR    |
 | [FalaNeto](https://falaneto.com/) | Podcast | Não | PT-BR |
