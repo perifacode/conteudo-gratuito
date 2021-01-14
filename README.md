@@ -184,6 +184,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow)                                                   | Youtube                     | Nao         | PT-BR    |
 | [Melardev](https://www.youtube.com/channel/UCnG6_dkoHVz71JvzB_3v1rw)                                                   | Youtube                     | Nao         | EN/ES   |
 | [Meetanços](https://www.youtube.com/channel/UCtbW-YwuCvbM1TTlQdC7YOA)                                                   | Youtube                     | Nao         | PT-BR    |
+| [Mentoria para iniciantes](http://bit.ly/reativa-perifa)                                                                                       | Mentoria                    | Nao         | PT-BR    |
 | [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag)                                                                     | Youtube                     | Nao         | PT-BR    |
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/)                                                | Curso/Youtube               | Sim         | PT-BR    |
 | [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)                                                                                     | Cursos                      | Não         | PT/EN    |
