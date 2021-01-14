@@ -190,6 +190,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)                                                                    | Youtube                     | Nao         | PT-BR    |
 | [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/featured)                                                                    | Youtube/Cursos                     | Nao         | EN-US    |
 | [NerdCast](https://jovemnerd.com.br/nerdcast/)                                                                                     | Podcast                      | Não         | PT-BR    |
+| [Node.js Apostila Completa](http://bit.ly/apostila-nodejs-perifa-code)                                                                         | Livro                       | Não         | PT-BR    |
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/)                                                                                     | Cursos                      | Sim         | PT-BR    |
 | [NodeSchool](https://nodeschool.io/)                                                                                                           | Cursos                      | Não         | PT-BR    |
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)                                                           | Youtube                     | Não         | PT-BR    |
