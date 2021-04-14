@@ -45,6 +45,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Canal TI](https://www.youtube.com/CanalTIoficial)                                                                                             | Youtube                     | Não         | PT-BR    |
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists)                                                                                       | Youtube                     | Não         | EN   |
+| [Ciência de Dados com R](https://drive.google.com/file/d/1F_Snn33O6FVf0uwN7Oyc6CmHQmdWJJ0a/view?usp=sharing)  | Livro | Não | PT-BR/EN |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       |
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
@@ -176,6 +177,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [LeetCode](https://leetcode.com/)                                                                                                              | Desafios                     | Não         | EN       |
 | [Let's Debug Tech](https://www.youtube.com/channel/UCmrNAq0jWguZ2d9GoCYUAsg)                                                                                         | Youtube                     | Não         | EN    |
 | [Leticia Portella](https://leportella.com/pt-br)                                                                                               | Blog                        | Não         | PT-BR/EN |
+| [Linguagem C](https://drive.google.com/file/d/0ByFgW1BKyIt0OFJneUxPcXdCV0U/view?usp=sharing) | Livro | Não | PT-BR |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [Loiane Training](https://loiane.training/cursos)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)                                                                      | Youtube                     | Não         | PT-BR    |
@@ -402,6 +404,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="http://angelobms.github.io"><img src="https://avatars1.githubusercontent.com/u/2703087?v=4" width="100px;" alt=""/><br /><sub><b>Angelo Brandão</b></sub></a><br /><a href="#content-angelobms" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kellykn96"><img src="https://avatars0.githubusercontent.com/u/71232703?v=4" width="100px;" alt=""/><br /><sub><b>kellykn96</b></sub></a><br /><a href="#content-kellykn96" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ivanajuliao"><img src="https://avatars2.githubusercontent.com/u/10784704?v=4" width="100px;" alt=""/><br /><sub><b>Ivana A. Julião</b></sub></a><br /><a href="#content-ivanajuliao" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/CarlosViniMSouza"><img src="https://avatars.githubusercontent.com/u/60679101?v=4" width="100px;"alt=""/><br /><sub><b>Carlos Souza</b></sub></a><br /><a href="#content-carlosvinimsouza" title="Content">🖋</a></td>
   </tr>
 </table>
 
