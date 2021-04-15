@@ -222,7 +222,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Public APIs](https://github.com/public-apis/public-apis)                                                                                            | Repositório              | Não         | EN    |
 | [PyLadies Parnaíba](https://www.youtube.com/channel/UCSS9PKgt7zsaZDJ6ZeSLh6w)                                                                  | Youtube                     | Não         | PT-BR    |
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/)                                                                              | Curso/Youtube               | Sim         | PT-BR    |
-| [Python para Zumbis](https://www.pycursos.com/python-para-zumbis)                                                                              | Cursos         | Não         | PT-BR    |      
+| [Python para Zumbis](https://www.pycursos.com/python-para-zumbis)                                                                              | Cursos         | Não         | PT-BR    |
+| [Python Para Todos](https://www.youtube.com/watch?v=kzocN6Zugb4&list=PLH9knZH6lcgo0ndsXfwX0CGO_ad1t6cSO)                                       | Curso/Youtube               | Sim         | PT-BR    |
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli)                                                                                     | Youtube                     | Não         | PT-BR    |
 | [Python for Everybody](https://www.py4e.com/)                                                                                                  | Curso/Livro                 | Não         | PT-BR/EN |
 | [QuebraDev](https://quebradev.com.br/) | Podcast | Não | PT-BR |
