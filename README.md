@@ -1,4 +1,4 @@
-﻿# 📌 Conteúdo gratuito
+# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
@@ -97,7 +97,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [DicasPraDevs](https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ/videos)                                                                             | YouTube                      | Não         | PT-BR    |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)                                                                             | Cursos                      | Sim         | PT-BR    |
 | [Diolinux](https://www.youtube.com/c/DiolinuxBr/videos)                                                                             | Youtube                      | Não         | PT-BR    |
-| [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)                                                                   | Livro                       | Não         | PT-BR    | 
+| [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)                                                                   | Livro                       | Não         | PT-BR    |
 | [Eddabit](https://edabit.com/)                                                                                                                 | Desafios                    | Não         | EN       |
 | [Eduardo Cuducos](https://cuducos.me/blog/)                                                                                                    | Blog                        | Não         | PT-BR    |
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)                                                                                  | Youtube                     | Não         | PT-BR    |
@@ -108,7 +108,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Erick Wendel](https://www.youtube.com/c/ErickWendelTreinamentos)                                                                      | Youtube/Cursos                     | Não         | PT-BR    |
 | [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)                                                                           | Youtube                     | Não         | EN       |
-| [ES6 para humanos](https://github.com/alexmoreno/ES6-para-humanos)     | Repositório      | Não    |    PT-BR    |  
+| [ES6 para humanos](https://github.com/alexmoreno/ES6-para-humanos)     | Repositório      | Não    |    PT-BR    |
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ)                                                                   | Youtube/Cursos              | Não         | PT-BR    |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)                                                                                           | Podcast                     | Não         | PT-BR    |
 | [Estudonauta](https://www.estudonauta.com/home-principal/)                                                                                           | Curso                     | Sim (Pago)        | PT-BR    |
@@ -230,6 +230,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)                                            | Repositório                 | Não         | PT-BR    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | Não         | PT-BR    |
+| [Ricardo Longatto](https://www.youtube.com/user/ricardolongatto)                                                                                    | Youtube/Curso                     | Sim (Pago)         | PT-BR    |
 | [Reflectoring ](https://reflectoring.io/#)                                            | Blog/tutoriais              | Não         | EN    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | NÃO         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | NÃO         | PT-BR    |
@@ -402,6 +403,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="http://angelobms.github.io"><img src="https://avatars1.githubusercontent.com/u/2703087?v=4" width="100px;" alt=""/><br /><sub><b>Angelo Brandão</b></sub></a><br /><a href="#content-angelobms" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kellykn96"><img src="https://avatars0.githubusercontent.com/u/71232703?v=4" width="100px;" alt=""/><br /><sub><b>kellykn96</b></sub></a><br /><a href="#content-kellykn96" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ivanajuliao"><img src="https://avatars2.githubusercontent.com/u/10784704?v=4" width="100px;" alt=""/><br /><sub><b>Ivana A. Julião</b></sub></a><br /><a href="#content-ivanajuliao" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/ArthurHydr"><img src="https://avatars2.githubusercontent.com/u/61481946?v=4" width="100px;" alt=""/><br /><sub><b>Arthur Ottoni</b></sub></a><br /><a href="#content-ArthurHydr" title="Content">🖋</a></td>
   </tr>
 </table>
 
