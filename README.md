@@ -202,6 +202,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Papo de Dev](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/featured)                                                               | YouTube                     | Não | pt-BR |
 | [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)                                                                        | Youtube                     | Não         | PT-BR    |
 | [Pense em Python](https://github.com/PenseAllen/PensePython2e )                                                                        | Livro                       | Não         | PT-BR    |
+| [PHP do jeito certo](http://br.phptherightway.com) | Apostilas | Não | PT-BR |
 | [PHPSP](https://www.youtube.com/user/phpsp1) | Youtube | Não | PT-BR |
 | [Pipoca Ágil](https://open.spotify.com/show/5J1scP1l7m7kXK6v5RZS7J?si=OSznos0oQ4mlLeTMRE_LVA)                                                  | Podcast                     | Não         | PT-BR    |
 | [Pizza de Dados](https://pizzadedados.com/)                                                                                                    | Podcast                     | Não         | PT-BR    |
