@@ -195,6 +195,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)                                                           | Youtube                     | Não         | PT-BR    |
 | [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html)                                                                    | Livro                       | Não         | PT       |
 | [One Bit Code](https://onebitcode.com/)                                                                    | Tutoriais/Cursos                       | Não         | PT       |
+| [OsProgramadores Site](https://osprogramadores.com/)                                                                                           | Blog/Tutoriais/Desafios     | Não         | PT-BR    |
+| [OsProgramadores Podcast](https://anchor.fm/osprogramadores)                                                                                   | Podcast                     | Não         | PT-B     |
 | [Otávio Lemos](https://www.youtube.com/user/OtavioALLemos)                                                                                | Youtube                     | Não         | PT-BR    |
 | [Otávio Miranda](https://www.youtube.com/user/todoespacoonline)                                                                                | Youtube                     | Não         | PT-BR    |
 | [Origamid](https://www.youtube.com/channel/UCRe4a2l_hRvROUU02_0YCmQ)                                                                           | Youtube                     | Não         | PT-BR    |
