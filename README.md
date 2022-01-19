@@ -230,6 +230,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)                                            | Repositório                 | Não         | PT-BR    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | Não         | PT-BR    |
+| [Recode](https://recode.org.br/#cursos)                                                                                                       | Cursos                      | Sim         | PT-BR    |
 | [Reflectoring ](https://reflectoring.io/#)                                            | Blog/tutoriais              | Não         | EN    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | NÃO         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | NÃO         | PT-BR    |
