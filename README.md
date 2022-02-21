@@ -18,6 +18,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 
 | Descrição                                                                                                                                      | Tipo (Curso, Livro, etc)    | Certificado | Idioma   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
+| [Curso Python Basico](https://solyd.com.br/treinamentos/python-basico/)                                                                                             | Curso                       | Sim         | PT-BR    |
 | [100 days CSS](https://100dayscss.com/)                                                                                                      | Desafios                      | Não         | PT-BR    |
 | [20.21](https://open.spotify.com/show/38aOCkDPBAQ6RT0ufXIDjE)                                                                                  | Podcast                     | Não         | PT-BR    |
 | [4noobs](https://github.com/he4rt/4noobs)                                                                                                      | Cursos                      | Não         | PT-BR    |
