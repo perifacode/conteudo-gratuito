@@ -184,6 +184,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Let's Debug Tech](https://www.youtube.com/channel/UCmrNAq0jWguZ2d9GoCYUAsg)                                                                                         | Youtube                     | Não         | EN    |
 | [Leticia Portella](https://leportella.com/pt-br)                                                                                               | Blog                        | Não         | PT-BR/EN |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal)                                                                                       | Youtube                     | Não         | PT-BR    |
+| [Live de Python](https://www.youtube.com/user/mendesesduardo)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [Loiane Training](https://loiane.training/cursos)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)                                                                      | Youtube                     | Não         | PT-BR    |
 | [Luiz Carlos Faria](https://www.youtube.com/user/luizcarlosfaria)                                                                   | Youtube                     | Não         | PT-BR       |
