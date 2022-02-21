@@ -150,6 +150,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) | Curso | Sim | PT-BR
 | [in28minutes Cloud, DevOps and Microservices](https://www.youtube.com/channel/UCLz7LG4YVi7_iyk4yOARcxA) | Youtube | Não | EN
 | [Interneting is Hard](https://www.internetingishard.com/)                                                                                      | Tutorial                    | Não         | EN       |
+| [Introdução à Ciência da Computação com Python Parte 1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos)                                                                   | Curso                     | Sim(Pago)         | PT-BR       |
+| [Introdução à Ciência da Computação com Python Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2)                                                                   | Curso                     | Sim(Pago)         | PT-BR       |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/)                                          | Curso/Youtube               | Sim         | PT-BR    |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/)                                  | Curso                       | Sim         | PT       |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA)                                                                 | Youtube                     | Não         | PT-BR    |
@@ -170,6 +172,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Khan Academy](https://pt.khanacademy.org/)                                                                                                    | Cursos                      | Não         | PT-BR/EN    |
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)                                                        | Cursos                      | Sim         | EN       |
 | [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos)                                                               | Youtube                     | Não         | PT-BR    |
+| [Laboratório de Programação Orientada a Objetos - Parte 1](https://pt.coursera.org/learn/lab-poo-parte-1)                                                                   | Curso                     | Sim(Pago)         | PT-BR       |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                                                         | Podcast                     | Não         | PT-BR    |
 | [Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)                                                                   | Youtube                     | Não         | EN       |
 | [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)                                                                                               | Desafios                       | Não         | PT-BR/EN |
