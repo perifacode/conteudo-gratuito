@@ -84,6 +84,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Daniel Snows](https://www.youtube.com/c/DanielNeves01)                                                                                        | Youtube                     | Não         | PT-BR    |
 | [Data Hackers](https://datahackers.com.br/podcast)                                                                                             | Podcast                     | Não         | PT-BR    |
 | [Data School](https://www.youtube.com/dataschool)                                                                                             | Youtube                     | Não         | EN    |
+| [Data Science Academy](https://www.datascienceacademy.com.br/cursosgratuitos) | Cursos | Sim | PT-BR |
 | [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)                                                                   | Youtube                     | Não         | EN       |
 | [Desafios de Programação](https://github.com/michelbernardods/programming-challenges)                                                          | Desafio                  |           | Não         | PT-BR/EN |
 | [Desafio #30diasCSS](https://github.com/MilenaCarecho/30diasDeCSS)                                                                             | Desafio                     | Não         | PT-BR    |
