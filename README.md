@@ -259,6 +259,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Tech primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)                                                                           | Yotutube                   | Não         | EN       |
 | [Tech World with Nana](https://www.youtube.com/c/TechWorldwithNana)                                                                                            | Youtube/Cursos                      | Não         | EN       |
 | [Test Automation University](https://testautomationu.applitools.com)                                                                           | Cursos                      | Sim         | EN       |
+| [Testes na Veia - Ebook Download](http://rachidcalazans.com/livro?pi=VKuXwm)                                                      | Livro                       | Não         | PT-BR       |
 | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                      | Curso                       | Não         | EN       |
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/)                                                                                           | Palestras                   | Não         | EN       |
 | [The Odin Project](https://www.theodinproject.com/)                                                                                            | Cursos                      | Não         | EN       |
