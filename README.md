@@ -53,6 +53,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)                                                                       | YouTube                     | Não         | PT-BR    |
 | [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |
 | [Codando](https://codando.org/material-gratuito/)                                                                                              | Cursos                      | Não         | PT-BR    |
+| [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |
 | [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |
 | [CodePen Challenges](https://codepen.io/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)                                                                          | Jogo                        | Não         | EN       |
