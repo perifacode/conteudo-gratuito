@@ -31,7 +31,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)                                              | Youtube                     | Não         | PT-BR    |
 | [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
 | [ Ayushi Rawat - Python](https://www.youtube.com/c/AyushiRawat/videos)                                                                    | Youtube                     | Não         | EN-US    |
-| [Baeldung](https://www.baeldung.com/)                                                                                                            | Blog/Tutoriais                     | Não         | EN   |
+| [Azure na Prática](https://www.youtube.com/channel/UCdDXR2L48ZIfnHea207zoZw)                                                                   | Youtube                     | Não         | PT-BR       |
+| [Baeldung](https://www.baeldung.com/)                                                                   | Blog/Tutoriais                     | Não         | EN       |
 | [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/)                                                                          | Youtube                     | Não         | PT-BR    |
@@ -41,6 +42,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [C/C++ Brasil](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg)                                                                       | Youtube                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
 | [Caelum](https://www.caelum.com.br/apostilas)                                                                                                  | Apostilas                   | Não         | PT-BR    |
+| [Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)                                                                   | Youtube                     | Não         | PT-BR       |
 | [Canal Jackson Pires](https://www.youtube.com/c/JacksonPires/videos)                                                                           | Youtube                     | Não         | PT-BR    |
 | [Canal TI](https://www.youtube.com/CanalTIoficial)                                                                                             | Youtube                     | Não         | PT-BR    |
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2)                                                                                       | Youtube                     | Não         | PT-BR    |
@@ -182,6 +184,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [Loiane Training](https://loiane.training/cursos)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)                                                                      | Youtube                     | Não         | PT-BR    |
+| [Luiz Carlos Faria](https://www.youtube.com/user/luizcarlosfaria)                                                                   | Youtube                     | Não         | PT-BR       |
 | [Manu Codes](https://www.youtube.com/c/ManuCodes)                                                                                              | Youtube                     | Não         | PT-PT    |
 | [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel)                       | Youtube                     | Nao         | PT-BR    |
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow)                                                   | Youtube                     | Nao         | PT-BR    |
