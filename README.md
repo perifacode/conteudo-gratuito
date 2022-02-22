@@ -172,6 +172,7 @@ Youtube                    | Não         | PT-BR       |
 | [Jessica Temporal](https://jtemporal.com/)                                                                                                     | Blog                        | Não         | PT-BR    |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)                                                              | Youtube                     | Não         | PT-BR    |
 | [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)                                                              | Youtube                     | Não         | EN-US    |
+| [JSfiddle](https://jsfiddle.net/)                                                              | Serviço de IDE online                    | Não         | EN    |
 | [JS Robot](https://lab.reaal.me/jsrobot/#level=1&language=en)                                                              | Desafios                    | Não         | EN    |
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/)                                                        | Curso                       | Sim         | PT       |
 | [Katacoda](https://www.katacoda.com/)                                                                                                          | Curso                       | Não         | EN       |
