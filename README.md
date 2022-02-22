@@ -253,6 +253,7 @@ Youtube                    | Não         | PT-BR       |
 | [Reflectoring ](https://reflectoring.io/#)                                            | Blog/tutoriais              | Não         | EN    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | NÃO         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | NÃO         | PT-BR    |
+|[RithmSchool](https://www.rithmschool.com/courses)                                            | Site/Cursos        | Não         | EN    |
 | [Rocketseat](https://rocketseat.com.br)                                                                                                        | Youtube/Cursos/Podcast/Blog | Não         | PT-BR    |
 | [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)                                                                                      | Youtube/Cursos              | Não         | PT-BR    |
 | [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA)                                                                  | Youtube/Cursos              | Não         | PT-BR    |
