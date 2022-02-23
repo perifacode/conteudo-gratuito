@@ -303,6 +303,7 @@ Youtube                    | Não         | PT-BR       |
 | [Xtreme Security](https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA)                                                                    | Youtube                     | Não         | PT-BR    |
 | [W3Schools](https://www.w3schools.com/)                                                                                                        | Site                         | Não         | EN    |
 | [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                                                    | Youtube                     | Não         | EN    |
+| [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)                                                                    | Livros                     | Não         | EN-US    |
 | [Zofe](https://zofe.com.br/)                                                                                            | Podcast              | Não         | PT-BR    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
 
