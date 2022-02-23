@@ -226,6 +226,7 @@ Youtube                    | Não         | PT-BR       |
 | [Pipoca Ágil](https://open.spotify.com/show/5J1scP1l7m7kXK6v5RZS7J?si=OSznos0oQ4mlLeTMRE_LVA)                                                  | Podcast                     | Não         | PT-BR    |
 | [Pizza de Dados](https://pizzadedados.com/)                                                                                                    | Podcast                     | Não         | PT-BR    |
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/)                                                                                      | Podcast                     | Não         | PT-BR    |
+| [PodTag](https://podtag.com.br/)                                                                                      | Podcast                     | Não         | PT-BR    |
 | [PokePHP](https://pokephp.com.br/)                                                            | Curso/Youtube                     | Não         | PT-BR    |
 | [Pouco Pixel](https://poucopixel.com/console/podcast/)                                                            | Podcast                     | Não         | PT-BR    |
 | [Pretas na rede](https://anchor.fm/pretasnarede)                  | Podcast                       | Não         | PT-BR       |
