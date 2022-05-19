@@ -109,6 +109,7 @@ Youtube                    | Não         | PT-BR       |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)                                                                             | Cursos                      | Sim         | PT-BR    |
 | [Diolinux](https://www.youtube.com/c/DiolinuxBr/videos)                                                                             | Youtube                      | Não         | PT-BR    |
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)                                                                   | Livro                       | Não         | PT-BR    | 
+| [Docker DCA](https://youtube.com/playlist?list=PL4ESbIHXST_TJ4TvoXezA0UssP1hYbP9_)                                                                             | Curso/Youtube                      | Não         | PT-BR    |
 | [Eddabit](https://edabit.com/)                                                                                                                 | Desafios                    | Não         | EN       |
 | [Eduardo Cuducos](https://cuducos.me/blog/)                                                                                                    | Blog                        | Não         | PT-BR    |
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)                                                                                  | Youtube                     | Não         | PT-BR    |
