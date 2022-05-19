@@ -17,12 +17,19 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 ## Lista de Conteúdo em Português
 
 ### Apostilas
+
+<details><summary>exibir</summary> <p>
+
 | Descrição | Certificado |
 | :-- | :--: |
 | [Caelum](https://www.caelum.com.br/apostilas) | Não |
 | [PHP do jeito certo](http://br.phptherightway.com) | Não |
 
+</p> </details>
+
 ### Blog
+
+<details><summary>exibir</summary> <p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -34,7 +41,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Leticia Portella](https://leportella.com/pt-br) | Não |
 | [Os Programadores](https://osprogramadores.com/) | Não |
 
+</p></details>
+
 ### Cursos
+
+<details><summary>exibir</summary> <p>
 
 | Descrição | Certificado |
 | :-- | :--:  |
@@ -82,7 +93,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [cursae](https://www.cursae.com.br/) | Sim |
 | [Collabplay](https://collabplay.online/br/) | Sim |
 
+</p></details>
+
 ### Desafios
+
+<details><summary>exibir</summary> <p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -94,7 +109,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR) | Não |
 | [Silent Teacher](http://silentteacher.toxicode.fr/) | Não |
 
+</p></details>
+
 ### Livros
+
+<details><summary>exibir</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -109,7 +128,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | Não |
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | Não | 
 
+</p></details>
+
 ### Palestras e Podcast
+
+<details><summary>exibir</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -137,7 +160,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [SegInfoCast](https://seginfo.com.br/category/podcast-seguranca-tecnologia-da-informacao-seginfocast/) | Não |
 | [Zofe](https://zofe.com.br/) | Não |
 
+</p></details>
+
 ### Repositórios
+
+<details><summary>exibir</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -145,7 +172,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) | Não |
 | [ES6 para humanos](https://github.com/alexmoreno/ES6-para-humanos) | Não | 
 
+</p></details>
+
 ### Sites
+
+<details><summary>exibir</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -153,7 +184,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Desenvolvedor.io](https://desenvolvedor.io/) | Sim |
 | [Via rapida](http://www.viarapida.sp.gov.br/trilhas-sp-tech) | Sim |
 
+</p></details>
+
 ### Tutoriais
+
+<details><summary>exibir</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -162,7 +197,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Vídeos de TI](https://videosdeti.com.br/) | Não |
 | [One Bit Code](https://onebitcode.com/) | Não |
 
+</p></details>
+
 ### Youtube
+
+<details><summary>exibir</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -260,6 +299,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Zurubabel](https://www.youtube.com/user/Zurubabel) | Não |
 | [Rocketseat](https://rocketseat.com.br) | Não |
 
+</p></details>
 
 ---
 
@@ -267,11 +307,17 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 
 ### Artigos
 
+<details><summary>show</summary><p>
+
 | Descrição | Certificado |
 | :-- | :--: |
 | [Elite Data Science](https://elitedatascience.com/) | Não |
 
+</p></details>
+
 ### Blog
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -279,7 +325,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Baeldung](https://www.baeldung.com/) | Não |
 | [Reflectoring ](https://reflectoring.io/#) | Não |
 
+</p></details>
+
 ### Cursos
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--:  |
@@ -299,7 +349,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Test Automation University](https://testautomationu.applitools.com) | Sim |
 | [AWS Training](https://aws.amazon.com/pt/training) | Sim |
 
+</p></details>
+
 ### Desafios
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -326,14 +380,22 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [LeetCode](https://leetcode.com/) | Não |
 | [Hacker Rank](https://www.hackerrank.com/) | Sim |
 
+</p></details>
+
 ### Jogos
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/) | Não |
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Não |
 
+</p></details>
+
 ### Livros
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -344,19 +406,31 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Não |
 | [Wikibooks](https://en.wikibooks.org/wiki/Main_Page) | Não |
 
+</p></details>
+
 ### Palestras e Podcast
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
 | [The Conf InfoQ](https://www.infoq.com/br/the_conf/) | Não |
 
+</p></details>
+
 ### Repositórios
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
 | [Public APIs](https://github.com/public-apis/public-apis) | Não |
 
+</p></details>
+
 ### Sites
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -367,7 +441,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [RithmSchool](https://www.rithmschool.com/courses) | Não |
 | [DevGlan](https://www.devglan.com/) | Não |
 
+</p></details>
+
 ### Tutoriais
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -376,7 +454,11 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [JavaScript for Cats](http://jsforcats.com/) | Não |
 | [Spring Guides](https://spring.io/guides) | Não |
 
+</p></details>
+
 ### Youtube
+
+<details><summary>show</summary><p>
 
 | Descrição | Certificado |
 | :-- | :--: |
@@ -412,6 +494,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Tech World with Nana](https://www.youtube.com/c/TechWorldwithNana) | Não |
 | [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/featured) | Nao |
 
+</p></details>
 
 ---
 
