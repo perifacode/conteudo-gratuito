@@ -210,6 +210,7 @@ Youtube                    | Não         | PT-BR       |
 | [Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow)                                                                     | Youtube                     | Nao         | PT-BR    |
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/)                                                | Curso/Youtube               | Sim         | PT-BR    |
 | [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)                                                                                     | Cursos                      | Não         | PT/EN    |
+| [Mini-curso de TypeScript](https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)                                                                             | Youtube                      | Não         | PT-BR    |
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)                                                                    | Youtube                     | Nao         | PT-BR    |
 | [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/featured)                                                                    | Youtube/Cursos                     | Nao         | EN-US    |
 | [NerdCast](https://jovemnerd.com.br/nerdcast/)                                                                                     | Podcast                      | Não         | PT-BR    |
