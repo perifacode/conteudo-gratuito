@@ -149,6 +149,9 @@ Youtube                    | Não         | PT-BR       |
 | [Garotas Geek](http://www.garotasgeeks.com/podcast/)                                                                                      | Podcast                     | Não         | PT-BR    |
 | [Geek Dev](https://www.youtube.com/c/CanalGeekDev/videos)                                                                                      | Youtube                     | Não         | PT-BR    |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
+| [Git e Github para Iniciantes](https://youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)                                                                             | Youtube                      | Não         | PT-BR    |
+
+| [Git e Github na Vida Real](https://youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg)                                                                             | Youtube                      | Não         | PT-BR    |
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Guia de Estudos CSS](https://trello.com/b/wv0mCgaQ/guia-de-estudos-css-v10)                                                                    | Tutoriais                     | Não         | PT-BR/EN    |
