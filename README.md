@@ -51,6 +51,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [CFBCursos](https://www.youtube.com/c/cfbcursos)                                                                                               | Youtube                     | Não         | PT-BR    |
 | [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists)                                                                                       | Youtube                     | Não         | EN   |
+| [CiberEducação Cisco Brasil](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html)                                                                             | Curso                      | Sim         | PT-BR    |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       |
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
@@ -108,6 +109,7 @@ Youtube                    | Não         | PT-BR       |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)                                                                             | Cursos                      | Sim         | PT-BR    |
 | [Diolinux](https://www.youtube.com/c/DiolinuxBr/videos)                                                                             | Youtube                      | Não         | PT-BR    |
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)                                                                   | Livro                       | Não         | PT-BR    | 
+| [Docker DCA](https://youtube.com/playlist?list=PL4ESbIHXST_TJ4TvoXezA0UssP1hYbP9_)                                                                             | Curso/Youtube                      | Não         | PT-BR    |
 | [Eddabit](https://edabit.com/)                                                                                                                 | Desafios                    | Não         | EN       |
 | [Eduardo Cuducos](https://cuducos.me/blog/)                                                                                                    | Blog                        | Não         | PT-BR    |
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)                                                                                  | Youtube                     | Não         | PT-BR    |
@@ -147,6 +149,9 @@ Youtube                    | Não         | PT-BR       |
 | [Garotas Geek](http://www.garotasgeeks.com/podcast/)                                                                                      | Podcast                     | Não         | PT-BR    |
 | [Geek Dev](https://www.youtube.com/c/CanalGeekDev/videos)                                                                                      | Youtube                     | Não         | PT-BR    |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
+| [Git e Github para Iniciantes](https://youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)                                                                             | Youtube                      | Não         | PT-BR    |
+
+| [Git e Github na Vida Real](https://youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg)                                                                             | Youtube                      | Não         | PT-BR    |
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Guia de Estudos CSS](https://trello.com/b/wv0mCgaQ/guia-de-estudos-css-v10)                                                                    | Tutoriais                     | Não         | PT-BR/EN    |
@@ -192,6 +197,7 @@ Youtube                    | Não         | PT-BR       |
 | [Let's Debug Tech](https://www.youtube.com/channel/UCmrNAq0jWguZ2d9GoCYUAsg)                                                                                         | Youtube                     | Não         | EN    |
 | [Leticia Portella](https://leportella.com/pt-br)                                                                                               | Blog                        | Não         | PT-BR/EN |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal)                                                                                       | Youtube                     | Não         | PT-BR    |
+| [Linux Sysadmin](https://kodekloud.com/courses/linux-foundation-certified-system-administrator-lfcs/)                                                                             | Curso                      | Sim         | EN    |
 | [Live de Python](https://www.youtube.com/user/mendesesduardo)                                                                                       | Youtube                     | Não         | PT-BR    |
 | [Loiane Training](https://loiane.training/cursos)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)                                                                      | Youtube                     | Não         | PT-BR    |
@@ -204,6 +210,7 @@ Youtube                    | Não         | PT-BR       |
 | [Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow)                                                                     | Youtube                     | Nao         | PT-BR    |
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/)                                                | Curso/Youtube               | Sim         | PT-BR    |
 | [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)                                                                                     | Cursos                      | Não         | PT/EN    |
+| [Mini-curso de TypeScript](https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)                                                                             | Youtube                      | Não         | PT-BR    |
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)                                                                    | Youtube                     | Nao         | PT-BR    |
 | [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/featured)                                                                    | Youtube/Cursos                     | Nao         | EN-US    |
 | [NerdCast](https://jovemnerd.com.br/nerdcast/)                                                                                     | Podcast                      | Não         | PT-BR    |
@@ -272,6 +279,7 @@ Youtube                    | Não         | PT-BR       |
 | [Spring Guides](https://spring.io/guides)                                                                                            | Tutorial                     | Não         | EN       |
 | [SoloLearn](https://www.sololearn.com/)                                                                           | Cursos                      | Sim         | EN       |
 | [Spring Developer](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA)                                                                           | Youtube                     | Não         | EN       |
+| [SVG do Início ao Avançado](https://youtube.com/playlist?list=PLlAbYrWSYTiOufRJOeP73o4GR9N1afQdP)                                                                             | Youtube                      | Não         | PT-BR    |
 | [Tech primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)                                                                           | Yotutube                   | Não         | EN       |
 | [Tech World with Nana](https://www.youtube.com/c/TechWorldwithNana)                                                                                            | Youtube/Cursos                      | Não         | EN       |
 | [Test Automation University](https://testautomationu.applitools.com)                                                                           | Cursos                      | Sim         | EN       |
