@@ -805,6 +805,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "dantasb",
+      "name": "Bruno Dantas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15825133?v=4",
+      "profile": "https://github.com/DantasB",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

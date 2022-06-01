@@ -150,7 +150,6 @@ Youtube                    | Não         | PT-BR       |
 | [Geek Dev](https://www.youtube.com/c/CanalGeekDev/videos)                                                                                      | Youtube                     | Não         | PT-BR    |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
 | [Git e Github para Iniciantes](https://youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)                                                                             | Youtube                      | Não         | PT-BR    |
-
 | [Git e Github na Vida Real](https://youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg)                                                                             | Youtube                      | Não         | PT-BR    |
 | [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
 | [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
@@ -437,6 +436,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     <td align="center"><a href="http://angelobms.github.io"><img src="https://avatars1.githubusercontent.com/u/2703087?v=4" width="100px;" alt=""/><br /><sub><b>Angelo Brandão</b></sub></a><br /><a href="#content-angelobms" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kellykn96"><img src="https://avatars0.githubusercontent.com/u/71232703?v=4" width="100px;" alt=""/><br /><sub><b>kellykn96</b></sub></a><br /><a href="#content-kellykn96" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ivanajuliao"><img src="https://avatars2.githubusercontent.com/u/10784704?v=4" width="100px;" alt=""/><br /><sub><b>Ivana A. Julião</b></sub></a><br /><a href="#content-ivanajuliao" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/DantasB"><img src="https://avatars.githubusercontent.com/u/15825133?v=4" width="100px;" alt=""/><br /><sub><b>Bruno Dantas</b></sub></a><br /><a href="#content-dantasb" title="Content">🖋</a></td>
   </tr>
 </table>
 
