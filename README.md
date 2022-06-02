@@ -1,4 +1,4 @@
-﻿# 📌 Conteúdo gratuito
+# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
@@ -52,6 +52,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [CFBCursos](https://www.youtube.com/c/cfbcursos)                                                                                               | Youtube                     | Não         | PT-BR    |
 | [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists)                                                                                       | Youtube                     | Não         | EN   |
 | [CiberEducação Cisco Brasil](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html)                                                                             | Curso                      | Sim         | PT-BR    |
+| [Curso de Ciência da Computação de Harvard](https://materiais.estudarfora.org.br/cc50-harvard/)                                                                             | Curso                      | Sim         | EN/PT-BR    |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
 | [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       |
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
