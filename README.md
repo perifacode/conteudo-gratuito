@@ -291,6 +291,7 @@ Youtube                    | Não         | PT-BR       |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/)                                                                             | Cursos                      | Não         | PT-BR    |
 | [TOTVS Developers](https://www.youtube.com/c/TOTVSDevelopers/featured)                                                                             | YouTube                      | Não         | PT-BR    |
 | [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)                                                                             | YouTube                      | Não         | EN-US    |
+| [TypeScript - Zero to Hero](https://youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H)                                              | Cursos                              | Não         |PT-BR     |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity)                                           | Cursos                      | Não         | PT-BR    |
 | [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)                                                                | YouTube                     | Não         | pt-BR    |
 | [Universo Discreto](https://www.youtube.com/c/UniversoDiscreto/videos)                                                                         | Curso/Youtube                      | Não         | PT-BR    |
