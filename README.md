@@ -261,6 +261,7 @@ Youtube                    | Não         | PT-BR       |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | Não         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | Não         | PT-BR    |
 | [Recode](https://recode.org.br/#cursos)                                                                                                       | Cursos                      | Sim         | PT-BR    |
+| [Refatorando](https://www.youtube.com/c/Refatorando) | YouTube | Não | PT-BR
 | [Reflectoring ](https://reflectoring.io/#)                                            | Blog/tutoriais              | Não         | EN    |
 | [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)                                                                    | Youtube                     | NÃO         | PT-BR    |
 | [Ricardo Sanches](https://www.youtube.com/user/RicVSanches)                                                                                    | Youtube                     | NÃO         | PT-BR    |
