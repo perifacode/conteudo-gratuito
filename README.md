@@ -238,6 +238,7 @@ Youtube                    | Não         | PT-BR       |
 | [PokePHP](https://pokephp.com.br/)                                                            | Curso/Youtube                     | Não         | PT-BR    |
 | [Pouco Pixel](https://poucopixel.com/console/podcast/)                                                            | Podcast                     | Não         | PT-BR    |
 | [Pretas na rede](https://anchor.fm/pretasnarede)                  | Podcast                       | Não         | PT-BR       |
+| [PrimoTech](https://www.youtube.com/channel/UCwUlxyV72TBJ38O2g4HGlkQ)                                                                                            | Podcast              | Não         | PT-BR    |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)                  | Livro                       | Não         | EN       |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | Livro                       | Não         | PT-BR    |
 | [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis)                                                                   | Youtube                     | Não         | PT-BR    |
@@ -314,7 +315,6 @@ Youtube                    | Não         | PT-BR       |
 | [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)                                                                    | Livros                     | Não         | EN-US    |
 | [Zofe](https://zofe.com.br/)                                                                                            | Podcast              | Não         | PT-BR    |
 | [Zurubabel](https://www.youtube.com/user/Zurubabel)                                                                                            | Youtube/Cursos              | Não         | PT-BR    |
-
 
 ## Contribuidores ✨
 
