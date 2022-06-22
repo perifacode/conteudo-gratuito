@@ -15,9 +15,10 @@
 
 # :yellow_heart: Conteúdo gratuito
 
-<p align="center">Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.</p>
-<p align="center"><b>Quer contribuir com o repositório?</b></p> 
-<p align="center"><a href="" >  Leia aqui para saber como 🔨 </a></p> 
+<p>Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.</p>
+<p><b>Quer contribuir com o repositório? 🔨 </b></p> 
+
+- [Clique aqui para saber como](#bulb-dicas-para-contribuir) •
 
 <p align="center">Seu nome será inserido na lista de contribuidores após a aprovação do PR, através do [all-contributors](https://github.com/all-contributors/all-contributors)</p>
 
@@ -112,7 +113,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)                                                                          | Jogo                 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/)                                                                                | Jogo            | Não         | EN       |
 ---
 
-## 💡 Dicas para Contribuir
+## :bulb: Dicas para Contribuir
 Como fazer uma contribuição? 
 Veja qual tópico mais se encaixa com a contribuição que deseja, cuidado com os espaçamentos pois pode afetar a tabela 
 
