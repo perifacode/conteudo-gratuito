@@ -1,8 +1,16 @@
-﻿# 📌 Conteúdo gratuito
+<p align="center">
+    <img src="https://github.com/perifacode/comunidade" width="300px" alt="perifaCode Logo">
+</p>
+
+# 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+Repositório criado pela <b>perifacode!</b> 
+<p>Uma comunidade que reúne pessoas que moram em periferias, favelas e guetos do Brasil para criar uma rede de apoio para conseguirmos vencer as barreiras sociais que nos limitam a entrada ou evolução na área de programação.</p> 
+
+<p align="center"><a href=https://github.com/perifacode/comunidade> :sparkles: Saiba mais! :sparkles: </a></p>
 
 Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
 
@@ -12,7 +20,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 
 **Conteúdos deverão seguir a ordem alfabética**&nbsp;
 # 📌Sumário
-# Cursos
+# :seedling: Cursos
 ## 1. Introdução a Linguagem, Lógica de programação...
 Aqui você pode encontrar cursos especificos para uma linguagem,
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
