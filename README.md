@@ -1,37 +1,46 @@
 <p align="center">
-    <img src="https://github.com/perifacode/comunidade" width="300px" alt="perifaCode Logo">
+    <img src="/assets/perifaCode.png" width="300px" alt="perifaCode Logo">
 </p>
-https://github.com/perifacode/comunidade/blob/master/assets/logos/perifaCode_bw.png 
-# 📌 Conteúdo gratuito
-
+<div align="center">
+    
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Repositório criado pela <b>perifacode!</b> 
-<p>Uma comunidade que reúne pessoas que moram em periferias, favelas e guetos do Brasil para criar uma rede de apoio para conseguirmos vencer as barreiras sociais que nos limitam a entrada ou evolução na área de programação.</p> 
+</div>
+<p align="center"> Este Repositório foi criado pela comunidade da <a href="https://perifacode.com/">perifacode!</a><p> 
+<p align="center"><b>Quem é a perifacode?</b></p>
+<p align="center">Uma comunidade que reúne pessoas que moram em periferias, favelas e guetos do Brasil para criar uma rede de apoio para conseguirmos vencer as barreiras sociais que nos limitam a entrada ou evolução na área de programação.</p> 
 
 <p align="center"><a href=https://github.com/perifacode/comunidade> :sparkles: Saiba mais! :sparkles: </a></p>
 
-Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.
+# :yellow_heart: Conteúdo gratuito
 
-Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
+<p align="center">Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.</p>
+<p align="center"><b>Quer contribuir com o repositório?</b></p> 
+<p align="center"><a href="" >  Leia aqui para saber como 🔨 </a></p> 
 
-Seu nome será inserido na lista de contribuidores após a aprovação do PR, através do [all-contributors](https://github.com/all-contributors/all-contributors)
+<p align="center">Seu nome será inserido na lista de contribuidores após a aprovação do PR, através do [all-contributors](https://github.com/all-contributors/all-contributors)</p>
 
 **Conteúdos deverão seguir a ordem alfabética**&nbsp;
 # 📌Sumário
-# :seedling: Cursos
-## 1. Introdução a Linguagem, Lógica de programação...
+- [Introdução](#yellow_heart-conteúdo-gratuito)
+- [Cursos](#books-cursos)
+    - [Cursos de linguagens,lógica...](#seedling-cursos-de-linguagens)
+    - [Sites](#mushroom-sites-de-cursos)
+
+# :books: Cursos
+
+### :seedling: Cursos de linguagens
 Aqui você pode encontrar cursos especificos para uma linguagem,
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
 |[Curso Python Basico](https://solyd.com.br/treinamentos/python-basico/) | Curso | Sim | PT-BR|  :white_check_mark:|	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Curso da linguagem de programação Python e lógica de programação para iniciantes.|
-|[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    | :white_check_mark: | |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
+|[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    | 	✅ | |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
 | [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
 | [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       |
-## 2. Sites de Cursos
+## :mushroom: Sites de Cursos
 Sites que abrangeem vários cursos de várias linguaguens
 
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
@@ -106,14 +115,16 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 ## 💡 Dicas para Contribuir
 Como fazer uma contribuição? 
 Veja qual tópico mais se encaixa com a contribuição que deseja, cuidado com os espaçamentos pois pode afetar a tabela 
-Para ter acesso a badges -> https://github.com/Ileriayo/markdown-badges#badges
-Tentamos seguir uma ordem por tecnologia, para ficar de mais fácil visualização 
-- Ordenar por tipo, se sua contribuição fazer parte de 
 
+Para ter acesso a badges -> https://github.com/Ileriayo/markdown-badges#badges
+
+Tentamos seguir uma ordem por tecnologia, para ficar de mais fácil visualização 
+
+ 🔧README EM MANUTENÇÃO🔧
 
 ## Contribuidores ✨
 
-Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse repositório com suas contribuições 🎉
+Agradecemos a todas essas pessoas maravilhosas 💗, que nos ajudam a manter esse repositório com suas contribuições 🎉
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
