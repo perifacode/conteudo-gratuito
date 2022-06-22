@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/perifacode/comunidade" width="300px" alt="perifaCode Logo">
 </p>
-
+https://github.com/perifacode/comunidade/blob/master/assets/logos/perifaCode_bw.png 
 # 📌 Conteúdo gratuito
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
