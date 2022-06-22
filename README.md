@@ -70,8 +70,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)                                                                                  | Youtube                     | Não         | PT-BR    |
 | [CodinGame](https://www.codingame.com/) | Desafios | Não | EN |
-| [Codin Night](https://www.youtube.com/channel/UCLoVnmvp0fYn-BCK7yKTxUQ)                                                                                                        | 
-Youtube                    | Não         | PT-BR       |
+| [Codin Night](https://www.youtube.com/channel/UCLoVnmvp0fYn-BCK7yKTxUQ)                                                                                                        | Youtube                    | Não         | PT-BR       |
 | [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube              | Sim         | PT-BR    |
@@ -150,12 +149,12 @@ Youtube                    | Não         | PT-BR       |
 | [Geek Dev](https://www.youtube.com/c/CanalGeekDev/videos)                                                                                      | Youtube                     | Não         | PT-BR    |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                            | Curso                       | Não         | EN       |
 | [Git e Github para Iniciantes](https://youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)                                                                             | Youtube                      | Não         | PT-BR    |
-
 | [Git e Github na Vida Real](https://youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg)                                                                             | Youtube                      | Não         | PT-BR    |
-| [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube | Não | PT-BR |
-| [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)                                                                    | Youtube                     | Não         | PT-BR    |
+| [Glaucia Lemos](https://www.youtube.com/user/l32759) | Youtube                      | Não         | PT-BR    |         
+| [Gustavo Oliveira](https://www.youtube.com/user/guuhsnt/featured)| Youtube                     | Não         | PT-BR    |
 | [Guia de Estudos CSS](https://trello.com/b/wv0mCgaQ/guia-de-estudos-css-v10)                                                                    | Tutoriais                     | Não         | PT-BR/EN    |
 [Guilherme Souza - JavaScript gives you superpowers, use them](https://www.youtube.com/watch?v=G8Fa8oVnakM&t=924s) | Youtube | Não | PT-BR |
+| [Harvard Progamming Courses - Free to study](https://hackncast.org/](https://www.edx.org/school/harvardx?hs-referral=course-listing))                                                                                                     | Cursos                    | Sim(Pago)         | EN      |
 | [Hack'n'Cast](https://hackncast.org/)                                                                                                     | Podcast                    | Não         | PT-BR       |
 | [Hacker Rank](https://www.hackerrank.com/)                                                                                                     | Desafios                    | Sim         | EN       |
 | [High5Devs](http://high5devs.com/)                                                                                                             | Blog                        | Não         | PT-BR    |
