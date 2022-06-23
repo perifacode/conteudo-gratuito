@@ -21,8 +21,6 @@
 - [ -> Clique aqui para saber como <-](#bulb-contribuição) •
 
 
-
-**Conteúdos deverão seguir a ordem alfabética**&nbsp;
 # 📌Sumário
 - [ :yellow_heart: Introdução](#yellow_heart-conteúdo-gratuito)
 - [ :books: Cursos](#books-cursos)
