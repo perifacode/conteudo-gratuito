@@ -15,6 +15,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 </div>
 <p align="center"> Este Repositório foi criado pela comunidade da <a href="https://perifacode.com/">perifacode!</a><p> 
 <p align="center"><b>Quem é a perifacode?</b></p>
