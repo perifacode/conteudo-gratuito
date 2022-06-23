@@ -150,14 +150,11 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 
 - Tentar seguir uma ordem por <b>tipo, tecnologia</b> para ficar de mais fácil visualização;
 
-- Para adicionar uma <b>badge</b> de tecnologia pode acessar <a href="https://github.com/Ileriayo/markdown-badges#badges"> :link: aqui!!</a> E procurar pelas opção "tecnologies"!!!;
+- Para adicionar uma <b>badge</b> de tecnologia pode acessar <a href="https://github.com/Ileriayo/markdown-badges#badges"> :link: aqui!!</a> E procurar pelas opção "tecnologies" ou pelo nome da tecnologia !!!;
 
 <i>ps: Se quiser ajudar com a edição de descrição, design...entre outros é muito mais que bem-vindo!!</i>
 
-<p align="center"> ═════════════✪════════════ </p>
-
 <p>Seu nome será inserido na lista de contribuidores após a aprovação do PR 📝, através do [all-contributors](https://github.com/all-contributors/all-contributors)</p>
-
 
 
 <h4 align="center"> 
