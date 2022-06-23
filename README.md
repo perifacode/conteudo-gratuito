@@ -18,9 +18,9 @@
 <p>Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.</p>
 <p><b>Quer contribuir com o repositório? 🔨 </b></p> 
 
-- [Clique aqui para saber como](#bulb-dicas-para-contribuir) •
+- [ -> Clique aqui para saber como <-](#bulb-contribuição) •
 
-<p align="center">Seu nome será inserido na lista de contribuidores após a aprovação do PR, através do [all-contributors](https://github.com/all-contributors/all-contributors)</p>
+
 
 **Conteúdos deverão seguir a ordem alfabética**&nbsp;
 # 📌Sumário
@@ -36,11 +36,10 @@ Aqui você pode encontrar cursos especificos para uma linguagem,
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
 |[Curso Python Basico](https://solyd.com.br/treinamentos/python-basico/) | Curso | Sim | PT-BR|  :white_check_mark:|	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Curso da linguagem de programação Python e lógica de programação para iniciantes.|
-|[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    | 	✅ | |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
-| [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    |
-| [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos                      | Não         | EN       |
-| [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       |
-| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       |
+| [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    | ✅| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)| Aprenda com especialistas da AWS. Desenvolva habilidades e conhecimentos. Construa seu futuro na Nuvem AWS.
+| [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos |    Não         | EN       | ✅ | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)| This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
+| [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       | ✅ | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)| Princípios da Engenharia de Software, do livro de Robert C. Martin Código Limpo, adaptados para JavaScript. Isto não é um guia de estilos. É um guia para se produzir código legível, reutilizável e refatorável em JavaScript.
+| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       | ✅ |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | An introduction to the intellectual enterprises of computer science and the art of programming.
 ## :mushroom: Sites de Cursos
 Sites que abrangeem vários cursos de várias linguaguens
 
@@ -109,19 +108,62 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
 |Outros
 | [Baeldung](https://www.baeldung.com/)                                                                   | Blog/Tutoriais                     | Não         | EN       
-| [Compiladoras de Cafeína](https://dev.to/compiladoras)                                                                                         | Blog                        | Não         | PT-BR    |
-| [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)                                                                          | Jogo                 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/)                                                                                | Jogo            | Não         | EN       |
----
+| [Compiladoras de Cafeína](https://dev.to/compiladoras) | Blog                        | Não         | PT-BR    |
+| [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo        
+| [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
+|[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    | 	✅ | |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
 
-## :bulb: Dicas para Contribuir
-Como fazer uma contribuição? 
-Veja qual tópico mais se encaixa com a contribuição que deseja, cuidado com os espaçamentos pois pode afetar a tabela 
+# :bulb: Contribuição
 
-Para ter acesso a badges -> https://github.com/Ileriayo/markdown-badges#badges
+### Para contribuir com o repositório: 
 
-Tentamos seguir uma ordem por tecnologia, para ficar de mais fácil visualização 
+ <p align=>Faça um fork e abra um PR 🥰</p>
+ 
+#### :exclamation:  Processo 
+- para fazer uma fork apenas clicar acima no símbolo de "garfinho";<br>
 
- 🔧README EM MANUTENÇÃO🔧
+- crie uma nova branch com seu nome, siga o padrão de outras;<br>
+
+- faça sua edição no arquivo READ.ME;
+
+- clique na opção "contribution";
+
+- E prontinho!! :rose: Contribuição feita com sucesso!!
+
+<i>ps: se alguém saber de uma forma mais simples de fazer ideias são bem vindas!!</i>
+</details>
+       
+<p align="center"> ═════════════✪════════════ </p>
+
+# :black_nib: Dicas!!  
+
+- Veja qual tópico mais se encaixa com a contribuição que deseja, CUIDADO com os espaçamentos pois pode afetar a tabela inteira;  
+
+- Para achar um tópico com mais facilidade você pode usar <b>CTRL + F</b>;
+
+- Copie e cole a descrição anterior e apenas altere os campos; 
+
+- Tentar seguir uma ordem por <b>tipo, tecnologia</b> para ficar de mais fácil visualização;
+
+- Para adicionar uma <b>badge</b> de tecnologia pode acessar <a href="https://github.com/Ileriayo/markdown-badges#badges"> :link: aqui!!</a> E procurar pelas opção "tecnologies"!!!;
+
+<i>ps: Se quiser ajudar com a edição de descrição, design...entre outros é muito mais que bem-vindo!!</i>
+
+<p align="center"> ═════════════✪════════════ </p>
+
+<p>Seu nome será inserido na lista de contribuidores após a aprovação do PR 📝, através do [all-contributors](https://github.com/all-contributors/all-contributors)</p>
+
+
+
+<h4 align="center"> 
+    <p>═════════════════════════ </p>
+   🚧  Read Me Em construção!!! 🚧<br>
+    <p>═════════════════════════</p>
+    <i>Falta adicionar campos com suas devidas descrições...<br>
+    Irá sendo atualizado mensalmente com os campos, de todas contribuições anteriores</i>
+</h4>
+
+
 
 ## Contribuidores ✨
 
