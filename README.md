@@ -24,10 +24,15 @@
 
 **Conteúdos deverão seguir a ordem alfabética**&nbsp;
 # 📌Sumário
-- [Introdução](#yellow_heart-conteúdo-gratuito)
-- [Cursos](#books-cursos)
+- [ :yellow_heart: Introdução](#yellow_heart-conteúdo-gratuito)
+- [ :books: Cursos](#books-cursos)
     - [Cursos de linguagens,lógica...](#seedling-cursos-de-linguagens)
     - [Sites](#mushroom-sites-de-cursos)
+- [ :four_leaf_clover: Desafios](#four_leaf_clover-desafios)
+- [ :sunflower: Recomendações](#sunflower-recomendações)
+- [ :bulb: Contribuição](#bulb-contribuição)
+- [ :black_nib: Dicas](#black_nib-dicas)
+- [ :sparkles: Contribuidores](#contribuidores-sparkles)
 
 # :books: Cursos
 
@@ -53,7 +58,7 @@ Sites que abrangeem vários cursos de várias linguaguens
  [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |
 | [Coursetro](https://coursetro.com/)                                                                                                           | Cursos             
 
-## Desafios
+## :four_leaf_clover: Desafios
 Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na prática!!
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
@@ -65,7 +70,7 @@ Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na pr�
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [CodinGame](https://www.codingame.com/) | Desafios | Não | EN |
 | [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
-## Recomendações
+##  :sunflower: Recomendações
 Recomendações de canais de youtube, podcasts e livros e muito mais!! 
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
@@ -135,7 +140,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
        
 <p align="center"> ═════════════✪════════════ </p>
 
-# :black_nib: Dicas!!  
+# :black_nib: Dicas
 
 - Veja qual tópico mais se encaixa com a contribuição que deseja, CUIDADO com os espaçamentos pois pode afetar a tabela inteira;  
 
@@ -165,7 +170,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 
 
 
-## Contribuidores ✨
+## Contribuidores :sparkles:
 
 Agradecemos a todas essas pessoas maravilhosas 💗, que nos ajudam a manter esse repositório com suas contribuições 🎉
 
