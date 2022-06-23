@@ -1,3 +1,12 @@
+<!-- 📌 OLÁ, O READ.ME FICOU UM POUCO CONFUSO POR TER MUITAS INFORMAÇÕES ENTÃO ESTOU FAZENDO PEQUENOS COMENTÁRIOS PARA TE GUIAR UM POUCO!! -->
+
+<!-- 📌 ESTE PROJETO ESTÁ SENDO REFORMADO ENTÃO SE VOCÊ É UM COLABORADOR ANTIGO E SUA CONTRIBUIÇÃO NÃO ESTÁ AQUI, LOGO ELA SERA ADICIONADA, É UM PROCESSO UM POUCO DEMORADO, MAS ESTOU FAZENDO MEU MELHOR -->
+
+<!-- 📌 PARA FAZER CONTRIBUIÇÕES SUGIRO QUE SIGA O PADRÃO ATUAL DAS TABELAS, MAS SE TIVER UMA IDEIA PARA UMA NOVA TABELA OU ALGO DO GENERO, SUA IDEIA É
+ SUPER BEM VINDA!!-->
+
+<!-- 📌 SUGIRO USAR O "CTRL + F" PARA SE LOCALIZAR NO READ ME COM MAIS FACILIDADE, APENAS PESQUISE PELO TITULO DA TABELA E ADICIONE SUA CONTRIBUIÇÃO -->
+
 <p align="center">
     <img src="/assets/perifaCode.png" width="300px" alt="perifaCode Logo">
 </p>
@@ -18,7 +27,7 @@
 <p>Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.</p>
 <p><b>Quer contribuir com o repositório? 🔨 </b></p> 
 
-- [ -> Clique aqui para saber como <-](#bulb-contribuição) •
+- [ -> Clique aqui para saber como <-](#pencil2-contribuição) •
 
 
 # 📌Sumário
@@ -28,8 +37,8 @@
     - [Sites](#mushroom-sites-de-cursos)
 - [ :four_leaf_clover: Desafios](#four_leaf_clover-desafios)
 - [ :sunflower: Recomendações](#sunflower-recomendações)
-- [ :bulb: Contribuição](#bulb-contribuição)
-- [ :black_nib: Dicas](#black_nib-dicas)
+- [ :pencil2: Contribuição](#pencil2-contribuição)
+- [ :bulb: Dicas](#bulb-dicas)
 - [ :sparkles: Contribuidores](#contribuidores-sparkles)
 
 # :books: Cursos
@@ -116,7 +125,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
 |[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    | 	✅ | |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
 
-# :bulb: Contribuição
+# :pencil2: Contribuição
 
 ### Para contribuir com o repositório: 
 
@@ -138,7 +147,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
        
 <p align="center"> ═════════════✪════════════ </p>
 
-# :black_nib: Dicas
+# :bulb: Dicas
 
 - Veja qual tópico mais se encaixa com a contribuição que deseja, CUIDADO com os espaçamentos pois pode afetar a tabela inteira;  
 
@@ -163,7 +172,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
     Irá sendo atualizado mensalmente com os campos, de todas contribuições anteriores</i>
 </h4>
 
-
+<!-- este read.me está sendo desenvolvido pelo usuario @g4nor4, me levou um bom tempo para finalizar o básico, qualquer ajuda ou ideia são bem-vindas!! agradeço por ter lido até aqui <3  -->
 
 ## Contribuidores :sparkles:
 
