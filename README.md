@@ -28,7 +28,7 @@
 <p>Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.</p>
 <p><b>Quer contribuir com o repositório? 🔨 </b></p> 
 
-- [ -> Clique aqui para saber como <-](#pencil2-contribuição) •
+[ -> Clique aqui para saber como <-](#pencil2-contribuição) 
 
 
 # 📌Sumário
