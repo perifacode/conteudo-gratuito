@@ -31,7 +31,7 @@
 [ -> Clique aqui para saber como <-](#pencil2-contribuição) 
 
 
-# 📌Sumário
+#  :pushpin: Sumário
 - [ :yellow_heart: Introdução](#yellow_heart-conteúdo-gratuito)
 - [ :books: Cursos](#books-cursos)
     - [Cursos de linguagens,lógica...](#seedling-cursos-de-linguagens)
@@ -53,6 +53,9 @@ Aqui você pode encontrar cursos especificos para uma linguagem,
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos |    Não         | EN       | ✅ | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)| This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
 | [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       | ✅ | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)| Princípios da Engenharia de Software, do livro de Robert C. Martin Código Limpo, adaptados para JavaScript. Isto não é um guia de estilos. É um guia para se produzir código legível, reutilizável e refatorável em JavaScript.
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       | ✅ |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | An introduction to the intellectual enterprises of computer science and the art of programming.
+
+[ (voltar ao inicio) ](#pushpin-sumário) 
+
 ## :mushroom: Sites de Cursos
 Sites que abrangeem vários cursos de várias linguaguens
 
@@ -65,6 +68,9 @@ Sites que abrangeem vários cursos de várias linguaguens
 | [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |✅ |
  [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |✅ |
 | [Coursetro](https://coursetro.com/)   | Cursos      ||      |✅ 
+
+[ (voltar ao inicio) ](#pushpin-sumário) 
+
 ## :four_leaf_clover: Desafios
 Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na prática!!
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
@@ -77,6 +83,9 @@ Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na pr�
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [CodinGame](https://www.codingame.com/) | Desafios | Não | EN |
 | [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
+
+[ (voltar ao inicio) ](#pushpin-sumário) 
+
 ##  :sunflower: Recomendações
 Recomendações de canais de youtube, podcasts e livros e muito mais!! 
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   |  Tecnologia |Observação(opniões,experiência...etc)
@@ -126,6 +135,8 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
 |[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
 
+[ (voltar ao inicio) ](#pushpin-sumário) 
+
 # :pencil2: Contribuição
 
 ### Para contribuir com o repositório: 
@@ -164,6 +175,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 
 <p>Seu nome será inserido na lista de contribuidores após a aprovação do PR 📝, através do [all-contributors](https://github.com/all-contributors/all-contributors)</p>
 
+[ (voltar ao inicio) ](#pushpin-sumário) 
 
 <h4 align="center"> 
     <p>═════════════════════════ </p>
