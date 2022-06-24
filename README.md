@@ -31,7 +31,7 @@
 [ -> Clique aqui para saber como <-](#pencil2-contribuição) 
 
 
-#  :pushpin: Sumário
+##  :pushpin: Sumário
 - [ :yellow_heart: Introdução](#yellow_heart-conteúdo-gratuito)
 - [ :books: Cursos](#books-cursos)
     - [Cursos de linguagens,lógica...](#seedling-cursos-de-linguagens)
@@ -42,7 +42,7 @@
 - [ :bulb: Dicas](#bulb-dicas)
 - [ :sparkles: Contribuidores](#contribuidores-sparkles)
 
-# :books: Cursos
+## :books: Cursos
 
 ### :seedling: Cursos de linguagens
 Aqui você pode encontrar cursos especificos para uma linguagem,
@@ -56,7 +56,7 @@ Aqui você pode encontrar cursos especificos para uma linguagem,
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
-## :mushroom: Sites de Cursos
+### :mushroom: Sites de Cursos
 Sites que abrangeem vários cursos de várias linguaguens
 
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
@@ -137,7 +137,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
-# :pencil2: Contribuição
+## :pencil2: Contribuição
 
 ### Para contribuir com o repositório: 
 
@@ -157,7 +157,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 <i>ps: se alguém saber de uma forma mais simples de fazer ideias são bem vindas!!</i>
 </details>
        
-# :bulb: Dicas
+## :bulb: Dicas
 
 - Veja qual tópico mais se encaixa com a contribuição que deseja, CUIDADO com os espaçamentos pois pode afetar a tabela inteira;  
 
