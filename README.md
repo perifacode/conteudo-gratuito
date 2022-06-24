@@ -58,20 +58,19 @@ Sites que abrangeem vários cursos de várias linguaguens
 
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
-| [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |
-| [CiberEducação Cisco Brasil](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html)                                                                             | Curso                      | Sim         | PT-BR    |
-| [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |
-| [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |
-| [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |
- [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |
-| [Coursetro](https://coursetro.com/)                                                                                                           | Cursos             
-
+| [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |✅ |
+| [CiberEducação Cisco Brasil](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html)                                                                             | Curso                      | Sim         | PT-BR    |✅ |
+| [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |✅ |
+| [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |✅ |
+| [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |✅ |
+ [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |✅ |
+| [Coursetro](https://coursetro.com/)   | Cursos      ||      |✅ 
 ## :four_leaf_clover: Desafios
 Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na prática!!
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
 | [100 days CSS](https://100dayscss.com/)                                                                                                      | Desafios                      | Não         | PT-BR    | :white_check_mark: | 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
-| [Ace Front End](https://www.acefrontend.com/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
+| [Ace Front End](https://www.acefrontend.com/challenges/)                                                                                                      |  Desafios                      | Não         | EN    | ✅ |
 | [App Ideas](https://github.com/florinpop17/app-ideas)                                                                   | Desafios                      | Não         | EN   
 | [CodePen Challenges](https://codepen.io/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
 | [Coderbyte](https://coderbyte.com/)                                                                                                 | Desafios                    | Não         | EN       |
@@ -80,8 +79,8 @@ Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na pr�
 | [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
 ##  :sunflower: Recomendações
 Recomendações de canais de youtube, podcasts e livros e muito mais!! 
-| Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
+| Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   |  Tecnologia |Observação(opniões,experiência...etc)
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- | :------------------------------------------------------------------------------------------------------------------------ |
 |Canais do Youtube
 | [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)                                                                          | Youtube    | Não     | EN       |
 | [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
@@ -119,13 +118,13 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
 | [Caelum](https://www.caelum.com.br/apostilas)                                                                                                  | Apostilas                   | Não         | PT-BR    |
 | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
-| [Pyhton para todos](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf)                                                                                | Livro                       | Não         | PT-BR      |✅|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Ensina a programar a Python orientado à análise de dados|
+| [Pyhton para todos](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf)                                                                                | Livro                       | Não         | PT-BR      |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Ensina a programar a Python orientado à análise de dados|
 |Outros
 | [Baeldung](https://www.baeldung.com/)                                                                   | Blog/Tutoriais                     | Não         | EN       
 | [Compiladoras de Cafeína](https://dev.to/compiladoras) | Blog                        | Não         | PT-BR    |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo        
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
-|[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    | 	✅ | |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
+|[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
 
 # :pencil2: Contribuição
 
