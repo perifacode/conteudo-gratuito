@@ -157,8 +157,6 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 <i>ps: se alguém saber de uma forma mais simples de fazer ideias são bem vindas!!</i>
 </details>
        
-<p align="center"> ═════════════✪════════════ </p>
-
 # :bulb: Dicas
 
 - Veja qual tópico mais se encaixa com a contribuição que deseja, CUIDADO com os espaçamentos pois pode afetar a tabela inteira;  
