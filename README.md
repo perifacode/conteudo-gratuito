@@ -68,7 +68,9 @@ Sites que abrangeem vários cursos de várias linguaguens
 | [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |✅ |
  [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |✅ |
 | [Coursetro](https://coursetro.com/)   | Cursos      ||      |✅ 
-
+| [cursae](https://www.cursae.com.br/)                                                                                            | Cursos                      | Sim         | PT-BR    | |||
+| [Curso de Flask - Julia Rizza](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX) | Youtube  | Não         | PT-BR       | | | |
+ [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso                       | Sim         | PT       | | | | 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
 ## :four_leaf_clover: Desafios
@@ -83,6 +85,9 @@ Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na pr�
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [CodinGame](https://www.codingame.com/) | Desafios | Não | EN |
 | [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
+| [CSS Battle](https://cssbattle.dev/)  | Desafios                      | Não         | EN       | | | 
+| [CSS Diner](https://flukeout.github.io/)| Desafios                      | Não         | EN       |
+
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
@@ -119,6 +124,8 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube  
 | [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube   
+| [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/)                                                                            | Youtube                     | Sim (Pago)  | PT-BR    | |||
+| [Daniel Snows](https://www.youtube.com/c/DanielNeves01)                                                                                        | Youtube                     | Não         | PT-BR    | |||
 |Podcasts
 | [20.21](https://open.spotify.com/show/38aOCkDPBAQ6RT0ufXIDjE)                                                                                  | Podcast                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
