@@ -141,6 +141,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo        
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
 |[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
+| [JavaScript for Cats](http://jsforcats.com/)| Tutorial                    | Não         | EN       | ||
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
