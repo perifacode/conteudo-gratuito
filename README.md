@@ -31,7 +31,7 @@
 [ -> Clique aqui para saber como <-](#pencil2-contribuição) 
 
 
-#  :pushpin: Sumário
+##  :pushpin: Sumário
 - [ :yellow_heart: Introdução](#yellow_heart-conteúdo-gratuito)
 - [ :books: Cursos](#books-cursos)
     - [Cursos de linguagens,lógica...](#seedling-cursos-de-linguagens)
@@ -42,7 +42,7 @@
 - [ :bulb: Dicas](#bulb-dicas)
 - [ :sparkles: Contribuidores](#contribuidores-sparkles)
 
-# :books: Cursos
+## :books: Cursos
 
 ### :seedling: Cursos de linguagens
 Aqui você pode encontrar cursos especificos para uma linguagem,
@@ -56,7 +56,7 @@ Aqui você pode encontrar cursos especificos para uma linguagem,
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
-## :mushroom: Sites de Cursos
+### :mushroom: Sites de Cursos
 Sites que abrangeem vários cursos de várias linguaguens
 
 | Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
@@ -68,7 +68,9 @@ Sites que abrangeem vários cursos de várias linguaguens
 | [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |✅ |
  [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |✅ |
 | [Coursetro](https://coursetro.com/)   | Cursos      ||      |✅ 
-
+| [cursae](https://www.cursae.com.br/)                                                                                            | Cursos                      | Sim         | PT-BR    | |||
+| [Curso de Flask - Julia Rizza](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX) | Youtube  | Não         | PT-BR       | | | |
+ [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso                       | Sim         | PT       | | | | 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
 ## :four_leaf_clover: Desafios
@@ -83,6 +85,9 @@ Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na pr�
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [CodinGame](https://www.codingame.com/) | Desafios | Não | EN |
 | [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
+| [CSS Battle](https://cssbattle.dev/)  | Desafios                      | Não         | EN       | | | 
+| [CSS Diner](https://flukeout.github.io/)| Desafios                      | Não         | EN       |
+
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
@@ -119,6 +124,8 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube  
 | [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube   
+| [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/)                                                                            | Youtube                     | Sim (Pago)  | PT-BR    | |||
+| [Daniel Snows](https://www.youtube.com/c/DanielNeves01)                                                                                        | Youtube                     | Não         | PT-BR    | |||
 |Podcasts
 | [20.21](https://open.spotify.com/show/38aOCkDPBAQ6RT0ufXIDjE)                                                                                  | Podcast                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
@@ -134,10 +141,11 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo        
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
 |[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
+| [JavaScript for Cats](http://jsforcats.com/)| Tutorial                    | Não         | EN       | ||
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
-# :pencil2: Contribuição
+## :pencil2: Contribuição
 
 ### Para contribuir com o repositório: 
 
@@ -157,9 +165,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 <i>ps: se alguém saber de uma forma mais simples de fazer ideias são bem vindas!!</i>
 </details>
        
-<p align="center"> ═════════════✪════════════ </p>
-
-# :bulb: Dicas
+## :bulb: Dicas
 
 - Veja qual tópico mais se encaixa com a contribuição que deseja, CUIDADO com os espaçamentos pois pode afetar a tabela inteira;  
 
