@@ -133,6 +133,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Compiladoras de Cafeína](https://dev.to/compiladoras) | Blog                        | Não         | PT-BR    |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo        
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
+|[Public APIs](https://github.com/public-apis/public-apis)| Repositório | Não         | EN    | |Uma lista coletiva de APIs gratuitas para uso em software e desenvolvimento web.
 |[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
