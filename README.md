@@ -11,139 +11,154 @@
     <img src="/assets/perifaCode.png" width="300px" alt="perifaCode Logo">
 </p>
 <div align="center">
-    
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </div>
-<p align="center"> Este Repositório foi criado pela comunidade da <a href="https://perifacode.com/">perifacode!</a><p> 
+<p align="center"> Este Repositório foi criado pela comunidade da <a href="https://perifacode.com/">perifacode!</a><p>
 <p align="center"><b>Quem é a perifacode?</b></p>
-<p align="center">Uma comunidade que reúne pessoas que moram em periferias, favelas e guetos do Brasil para criar uma rede de apoio para conseguirmos vencer as barreiras sociais que nos limitam a entrada ou evolução na área de programação.</p> 
+<p align="center">Uma comunidade que reúne pessoas que moram em periferias, favelas e guetos do Brasil para criar uma rede de apoio para conseguirmos vencer as barreiras sociais que nos limitam a entrada ou evolução na área de programação.</p>
 
 <p align="center"><a href=https://github.com/perifacode/comunidade> :sparkles: Saiba mais! :sparkles: </a></p>
 
 # :yellow_heart: Conteúdo gratuito
 
 <p>Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos entre outras coisas, que são compartilhados pela nossa comunidade.</p>
-<p><b>Quer contribuir com o repositório? 🔨 </b></p> 
+<p><b>Quer contribuir com o repositório? 🔨 </b></p>
 
-[ -> Clique aqui para saber como <-](#pencil2-contribuição) 
+[ -> Clique aqui para saber como <-](#pencil2-contribuição)
 
+# :pushpin: Sumário
 
-#  :pushpin: Sumário
-- [ :yellow_heart: Introdução](#yellow_heart-conteúdo-gratuito)
-- [ :books: Cursos](#books-cursos)
-    - [Cursos de linguagens,lógica...](#seedling-cursos-de-linguagens)
-    - [Sites](#mushroom-sites-de-cursos)
-- [ :four_leaf_clover: Desafios](#four_leaf_clover-desafios)
-- [ :sunflower: Recomendações](#sunflower-recomendações)
-- [ :pencil2: Contribuição](#pencil2-contribuição)
-- [ :bulb: Dicas](#bulb-dicas)
-- [ :sparkles: Contribuidores](#contribuidores-sparkles)
+- [:yellow_heart: Conteúdo gratuito](#yellow_heart-conteúdo-gratuito)
+- [:pushpin: Sumário](#pushpin-sumário)
+- [:books: Cursos](#books-cursos)
+    - [:seedling: Cursos de linguagens](#seedling-cursos-de-linguagens)
+  - [:mushroom: Sites de Cursos](#mushroom-sites-de-cursos)
+  - [:four_leaf_clover: Desafios](#four_leaf_clover-desafios)
+  - [:sunflower: Recomendações](#sunflower-recomendações)
+- [:pencil2: Contribuição](#pencil2-contribuição)
+    - [Para contribuir com o repositório:](#para-contribuir-com-o-repositório)
+      - [:exclamation: Processo](#exclamation-processo)
+- [:bulb: Dicas](#bulb-dicas)
+  - [Contribuidores :sparkles:](#contribuidores-sparkles)
 
 # :books: Cursos
 
 ### :seedling: Cursos de linguagens
-Aqui você pode encontrar cursos especificos para uma linguagem,
-| Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
-|[Curso Python Basico](https://solyd.com.br/treinamentos/python-basico/) | Curso | Sim | PT-BR|  :white_check_mark:|	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Curso da linguagem de programação Python e lógica de programação para iniciantes.|
-| [AWS Training](https://aws.amazon.com/pt/training)                                                                                                            | Cursos                      | Sim         | EN-US    | ✅| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)| Aprenda com especialistas da AWS. Desenvolva habilidades e conhecimentos. Construa seu futuro na Nuvem AWS.
-| [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos |    Não         | EN       | ✅ | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)| This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
-| [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       | ✅ | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)| Princípios da Engenharia de Software, do livro de Robert C. Martin Código Limpo, adaptados para JavaScript. Isto não é um guia de estilos. É um guia para se produzir código legível, reutilizável e refatorável em JavaScript.
-| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       | ✅ |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | An introduction to the intellectual enterprises of computer science and the art of programming.
 
-[ (voltar ao inicio) ](#pushpin-sumário) 
+Aqui você pode encontrar cursos especificos para uma linguagem,
+| Nome | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- | -------- |----| :------------------------------------------------------------------------------------------------------------------------ |
+|[Curso Python Basico](https://solyd.com.br/treinamentos/python-basico/) | Curso | Sim | PT-BR| :white_check_mark:| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Curso da linguagem de programação Python e lógica de programação para iniciantes.|
+| [AWS Training](https://aws.amazon.com/pt/training) | Cursos | Sim | EN-US | ✅| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)| Aprenda com especialistas da AWS. Desenvolva habilidades e conhecimentos. Construa seu futuro na Nuvem AWS.
+| [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Cursos | Não | EN | ✅ | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)| This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
+| [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript) | Repositório | Não | PT-BR | ✅ | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)| Princípios da Engenharia de Software, do livro de Robert C. Martin Código Limpo, adaptados para JavaScript. Isto não é um guia de estilos. É um guia para se produzir código legível, reutilizável e refatorável em JavaScript.
+| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) | Cursos | Sim | EN | ✅ |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | An introduction to the intellectual enterprises of computer science and the art of programming.
+
+[ (voltar ao inicio) ](#pushpin-sumário)
 
 ## :mushroom: Sites de Cursos
+
 Sites que abrangeem vários cursos de várias linguaguens
 
-| Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
-| [Balta.io](https://balta.io/cursos)                                                                                                            | Cursos                      | Sim         | PT-BR    |✅ |
-| [CiberEducação Cisco Brasil](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html)                                                                             | Curso                      | Sim         | PT-BR    |✅ |
-| [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |✅ |
-| [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |✅ |
-| [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |✅ |
- [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |✅ |
-| [Coursetro](https://coursetro.com/)   | Cursos      ||      |✅ 
+| Nome                                                                                                              | Tipo (Curso, Livro, etc) | Certificado | Idioma     | Gratuito | Tecnologia | Observação(opniões,experiência...etc) |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------- | ---------- | -------- | ---------- | :------------------------------------ |
+| [Balta.io](https://balta.io/cursos)                                                                               | Cursos                   | Sim         | PT-BR      | ✅       |
+| [CiberEducação Cisco Brasil](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html) | Curso                    | Sim         | PT-BR      | ✅       |
+| [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                 | Cursos                   | Sim         | PT-BR      | ✅       |
+| [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                           | Cursos                   | Sim         | PT-BR      | ✅       |
+| [CodeBook](https://fernandomachado90.github.io/codebook)                                                          | Cursos                   | Não         | PT-BR      | ✅       |
+| [Codecademy](https://www.codecademy.com/)                                                                         | Cursos                   | Sim (Pago)  | EN         | ✅       |
+| [Coursetro](https://coursetro.com/)                                                                               | Cursos                   |             |            | ✅       |
+| [FreeCodeCamp](https://www.freecodecamp.org/learn)                                                                | Cursos                   | Sim         | EN / PT-BR | ✅       |
 
-[ (voltar ao inicio) ](#pushpin-sumário) 
+[ (voltar ao inicio) ](#pushpin-sumário)
 
 ## :four_leaf_clover: Desafios
+
 Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na prática!!
-| Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- |----|  :------------------------------------------------------------------------------------------------------------------------ |
-| [100 days CSS](https://100dayscss.com/)                                                                                                      | Desafios                      | Não         | PT-BR    | :white_check_mark: | 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
-| [Ace Front End](https://www.acefrontend.com/challenges/)                                                                                                      |  Desafios                      | Não         | EN    | ✅ |
-| [App Ideas](https://github.com/florinpop17/app-ideas)                                                                   | Desafios                      | Não         | EN   
-| [CodePen Challenges](https://codepen.io/challenges/)                                                                                                      | Desafios                      | Não         | EN    |
-| [Coderbyte](https://coderbyte.com/)                                                                                                 | Desafios                    | Não         | EN       |
+| Nome | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |Observação(opniões,experiência...etc)
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- | -------- |----| :------------------------------------------------------------------------------------------------------------------------ |
+| [100 days CSS](https://100dayscss.com/) | Desafios | Não | PT-BR | :white_check_mark: | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
+| [Ace Front End](https://www.acefrontend.com/challenges/) | Desafios | Não | EN | ✅ |
+| [App Ideas](https://github.com/florinpop17/app-ideas) | Desafios | Não | EN
+| [CodePen Challenges](https://codepen.io/challenges/) | Desafios | Não | EN |
+| [Coderbyte](https://coderbyte.com/) | Desafios | Não | EN |
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [CodinGame](https://www.codingame.com/) | Desafios | Não | EN |
-| [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
+| [Codier](https://codier.io/) | Desafios | Não | EN |
+| [DevChallenges](https://devchallenges.io/) | Desafios | Não | EN |
+| [Exercism](https://exercism.org/) | Desafios | Não | EN |
+| [Frontend Mentor](https://www.frontendmentor.io/) | Desafios | Não | EN |
+| [Hackerank](https://www.hackerrank.com/) | Desafios | Não | EN |
 
-[ (voltar ao inicio) ](#pushpin-sumário) 
+[ (voltar ao inicio) ](#pushpin-sumário)
 
-##  :sunflower: Recomendações
-Recomendações de canais de youtube, podcasts e livros e muito mais!! 
-| Nome | Tipo (Curso, Livro, etc)    | Certificado | Idioma   |  Tecnologia |Observação(opniões,experiência...etc)
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |  -------- | :------------------------------------------------------------------------------------------------------------------------ |
+## :sunflower: Recomendações
+
+Recomendações de canais de youtube, podcasts e livros e muito mais!!
+| Nome | Tipo (Curso, Livro, etc) | Certificado | Idioma | Tecnologia |Observação(opniões,experiência...etc)
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- | -------- | :------------------------------------------------------------------------------------------------------------------------ |
 |Canais do Youtube
-| [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)                                                                          | Youtube    | Não     | EN       |
-| [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)                                                                   | Youtube                     | Não         | EN       |
-| [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w)                                                                      | Youtube                     | Não         | PT-BR    |
-| [Ask Lucas Montano Show](https://www.youtube.com/channel/UClSPuL8jrJGs7R99WpvVDGw)                                                             | YouTube                       | Não       | PT-BR    |
+| [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) | Youtube | Não | EN |
+| [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w) | Youtube | Não | EN |
+| [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | PT-BR |
+| [Ask Lucas Montano Show](https://www.youtube.com/channel/UClSPuL8jrJGs7R99WpvVDGw) | YouTube | Não | PT-BR |
 | [Ana B. Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) | Youtube | Não | PT-BR |
-| [Angular do iniciante ao Intermediário](https://loiane.training/curso/angular)                                              | Youtube                     | Não         | PT-BR    |
-| [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)                                              | Youtube                     | Não         | PT-BR    |
-| [ Ayushi Rawat - Python](https://www.youtube.com/c/AyushiRawat/videos)                                                                    | Youtube                     | Não         | EN-US    |
-| [Azure na Prática](https://www.youtube.com/channel/UCdDXR2L48ZIfnHea207zoZw)                                                                   | Youtube                     | Não         | PT-BR       
-| [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/)                                                                          | Youtube                     | Não         | PT-BR    |
-| [Bóson Treinamentos](https://www.youtube.com/channel/UCzOGJclZQvPVgYZIwERsf5g)                                                                 | Youtube                     | Não         | PT-BR    |
-| [Brackeys](https://www.youtube.com/c/Brackeys)                                                                                              | YouTube                     | Não         | EN       |
-| [BrazilJS](https://www.youtube.com/user/BrazilJS)                                                                                              | YouTube                     | Não         | PT-BR    |
-| [C/C++ Brasil](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg)                                                                       | Youtube                     | Não         | PT-BR    |
-| [Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)                                                                   | Youtube                     | Não         | PT-BR       |
-| [Canal Jackson Pires](https://www.youtube.com/c/JacksonPires/videos)                                                                           | Youtube                     | Não         | PT-BR    |
-| [Canal TI](https://www.youtube.com/CanalTIoficial)                                                                                             | Youtube                     | Não         | PT-BR    |
-| [CaveiraTech](https://www.youtube.com/user/caveiratech2)                                                                                       | Youtube                     | Não         | PT-BR    |
-| [CFBCursos](https://www.youtube.com/c/cfbcursos)                                                                                               | Youtube                     | Não         | PT-BR    
-| [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists)                                                                                       | Youtube                     | Não         | EN   |
-| [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)                                                                       | YouTube                     | Não         | PT-BR    |
-| [code_report](https://www.youtube.com/c/codereport)                                                                                            | Youtube                     | Não         | EN       |
-| [Code Show](https://www.youtube.com/user/brunovegan)                                                                                           | Youtube                     | Não         | PT-BR    |
-| [Código Fonte TV](https://www.youtube.com/user/codigofontetv)                                                                                  | Youtube                     | Não         | PT-BR    |
-| [Codin Night](https://www.youtube.com/channel/UCLoVnmvp0fYn-BCK7yKTxUQ)                                                                                               | Youtube                    | Não         | PT-BR       |
-| [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
-| [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube  
-| [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube   
+| [Angular do iniciante ao Intermediário](https://loiane.training/curso/angular) | Youtube | Não | PT-BR |
+| [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) | Youtube | Não | PT-BR |
+| [ Ayushi Rawat - Python](https://www.youtube.com/c/AyushiRawat/videos) | Youtube | Não | EN-US |
+| [Azure na Prática](https://www.youtube.com/channel/UCdDXR2L48ZIfnHea207zoZw) | Youtube | Não | PT-BR
+| [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | PT-BR |
+| [Bóson Treinamentos](https://www.youtube.com/channel/UCzOGJclZQvPVgYZIwERsf5g) | Youtube | Não | PT-BR |
+| [Brackeys](https://www.youtube.com/c/Brackeys) | YouTube | Não | EN |
+| [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | Não | PT-BR |
+| [C/C++ Brasil](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg) | Youtube | Não | PT-BR |
+| [Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg) | Youtube | Não | PT-BR |
+| [Canal Jackson Pires](https://www.youtube.com/c/JacksonPires/videos) | Youtube | Não | PT-BR |
+| [Canal TI](https://www.youtube.com/CanalTIoficial) | Youtube | Não | PT-BR |
+| [CaveiraTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | PT-BR |
+| [CFBCursos](https://www.youtube.com/c/cfbcursos) | Youtube | Não | PT-BR
+| [ChargeAhead - Java](https://www.youtube.com/channel/UCrTlRAWrnUrZOR7TEuZFbOw/playlists) | Youtube | Não | EN |
+| [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | Não | PT-BR |
+| [code_report](https://www.youtube.com/c/codereport) | Youtube | Não | EN |
+| [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | PT-BR |
+| [Código Fonte TV](https://www.youtube.com/user/codigofontetv) | Youtube | Não | PT-BR |
+| [Codin Night](https://www.youtube.com/channel/UCLoVnmvp0fYn-BCK7yKTxUQ) | Youtube | Não | PT-BR |
+| [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) | Youtube | Não | PT-BR |
+| [Collabplay](https://collabplay.online/br/) | Cursos/Youtube
+| [CS Dojo](https://www.youtube.com/c/CSDojo) | Youtube
 |Podcasts
-| [20.21](https://open.spotify.com/show/38aOCkDPBAQ6RT0ufXIDjE)                                                                                  | Podcast                     | Não         | PT-BR    |
-| [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
-| [Commit](https://radiopublic.com/commit-WYMXMl/episodes)                                                                      | Podcast                        | Não         | PT-BR    |
+| [20.21](https://open.spotify.com/show/38aOCkDPBAQ6RT0ufXIDjE) | Podcast | Não | PT-BR |
+| [Cabeça de Lab](https://www.cabecadelab.com.br/) | Podcast | Não | PT-BR |
+| [Commit](https://radiopublic.com/commit-WYMXMl/episodes) | Podcast | Não | PT-BR |
 | Livros
-| [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                   | Livro                       | Não         | EN       |
-| [Caelum](https://www.caelum.com.br/apostilas)                                                                                                  | Apostilas                   | Não         | PT-BR    |
-| [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                | Livro                       | Não         | EN       |
-| [Pyhton para todos](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf)                                                                                | Livro                       | Não         | PT-BR      |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Ensina a programar a Python orientado à análise de dados|
+| [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | Livro | Não | EN |
+| [Caelum](https://www.caelum.com.br/apostilas) | Apostilas | Não | PT-BR |
+| [Clojure for the Brave and True](https://www.braveclojure.com/) | Livro | Não | EN |
+| [Pyhton para todos](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf) | Livro | Não | PT-BR |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Ensina a programar a Python orientado à análise de dados|
 |Outros
-| [Baeldung](https://www.baeldung.com/)                                                                   | Blog/Tutoriais                     | Não         | EN       
-| [Compiladoras de Cafeína](https://dev.to/compiladoras) | Blog                        | Não         | PT-BR    |
-| [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo        
-| [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
-|[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
+| [Baeldung](https://www.baeldung.com/) | Blog/Tutoriais | Não | EN
+| [Compiladoras de Cafeína](https://dev.to/compiladoras) | Blog | Não | PT-BR |
+| [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo
+| [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo | Não | EN |
+|[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não | PT-BR |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade!
 
-[ (voltar ao inicio) ](#pushpin-sumário) 
+[ (voltar ao inicio) ](#pushpin-sumário)
 
 # :pencil2: Contribuição
 
-### Para contribuir com o repositório: 
+### Para contribuir com o repositório:
 
  <p align=>Faça um fork e abra um PR 🥰</p>
- 
-#### :exclamation:  Processo 
+
+#### :exclamation: Processo
+
 - para fazer uma fork apenas clicar acima no símbolo de "garfinho";<br>
 
 - crie uma nova branch com seu nome, siga o padrão de outras;<br>
@@ -155,17 +170,18 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 - E prontinho!! :rose: Contribuição feita com sucesso!!
 
 <i>ps: se alguém saber de uma forma mais simples de fazer ideias são bem vindas!!</i>
+
 </details>
-       
+
 <p align="center"> ═════════════✪════════════ </p>
 
 # :bulb: Dicas
 
-- Veja qual tópico mais se encaixa com a contribuição que deseja, CUIDADO com os espaçamentos pois pode afetar a tabela inteira;  
+- Veja qual tópico mais se encaixa com a contribuição que deseja, CUIDADO com os espaçamentos pois pode afetar a tabela inteira;
 
 - Para achar um tópico com mais facilidade você pode usar <b>CTRL + F</b>;
 
-- Copie e cole a descrição anterior e apenas altere os campos; 
+- Copie e cole a descrição anterior e apenas altere os campos;
 
 - Tentar seguir uma ordem por <b>tipo, tecnologia</b> para ficar de mais fácil visualização;
 
@@ -175,9 +191,9 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 
 <p>Seu nome será inserido na lista de contribuidores após a aprovação do PR 📝, através do [all-contributors](https://github.com/all-contributors/all-contributors)</p>
 
-[ (voltar ao inicio) ](#pushpin-sumário) 
+[ (voltar ao inicio) ](#pushpin-sumário)
 
-<h4 align="center"> 
+<h4 align="center">
     <p>═════════════════════════ </p>
    🚧  Read Me Em construção!!! 🚧<br>
     <p>═════════════════════════</p>
@@ -313,6 +329,7 @@ Agradecemos a todas essas pessoas maravilhosas 💗, que nos ajudam a manter ess
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Esse projeto segue as especificações do [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições são muito bem-vindas!
