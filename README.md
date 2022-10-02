@@ -135,6 +135,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo        
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
 |[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
+|[IoT for Beginners - A Curriculum](https://github.com/microsoft/IoT-For-Beginners)| Repositório | Não         | EN/PT-BR    |Os Azure Cloud Advocates da Microsoft têm o prazer de oferecer um currículo de 12 semanas e 24 aulas sobre noções básicas de IoT. Cada lição inclui questionários pré e pós-aula, instruções escritas para concluir a lição, uma solução, uma tarefa e muito mais. 
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
