@@ -134,6 +134,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo        
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
 |[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
+|[Pensamento Computacional](https://github.com/calixtocarolina/Pensamento-Computacional)| Repositório | Não         | PT-BR    | Esse é um repositório que tem o objetivo de desmistificar os conceitos de Pensamento Computacional e auxiliar estudantes e interessados na área de Tecnologia em conhecer mais a fundo a respeito de algoritmos, busca e navegação.
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
