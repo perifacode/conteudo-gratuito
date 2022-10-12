@@ -53,7 +53,6 @@ Aqui você pode encontrar cursos especificos para uma linguagem,
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)                                                          | Cursos |    Não         | EN       | ✅ | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)| This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
 | [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)                                                                                | Repositório                       | Não         | PT-BR       | ✅ | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)| Princípios da Engenharia de Software, do livro de Robert C. Martin Código Limpo, adaptados para JavaScript. Isto não é um guia de estilos. É um guia para se produzir código legível, reutilizável e refatorável em JavaScript.
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)                                   | Cursos                      | Sim         | EN       | ✅ |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | An introduction to the intellectual enterprises of computer science and the art of programming.
-
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
 ## :mushroom: Sites de Cursos
@@ -68,6 +67,7 @@ Sites que abrangeem vários cursos de várias linguaguens
 | [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |✅ |
  [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |✅ |
 | [Coursetro](https://coursetro.com/)   | Cursos      ||      |✅ 
+| [Sololearn](https://www.sololearn.com/)                                                                                                        | Cursos                     | Sim         | EN-US  | ✅ |                  | No matter your experience level, you'll be writing real, functional code within minutes of starting your first course. |
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
