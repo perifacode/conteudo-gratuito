@@ -134,6 +134,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)| Jogo        
 | [Codepip - Grid Garden](https://codepip.com/games/grid-garden/) | Jogo            | Não         | EN       |
 |[4noobs](https://github.com/he4rt/4noobs)| Repositório | Não         | PT-BR    |O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade! 
+| [Readings in Database Systems](http://www.redbook.io/index.html) | Livro | Não     | EN  | Banco de Dados | Livro que comenta sobre os principais artigos da área de banco de dados. 
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
