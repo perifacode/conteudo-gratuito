@@ -119,6 +119,7 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube  
 | [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube   
+| [Programação Dinâmica](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica)                                                           | Youtube                     | Não         | PT-BR    |
 |Podcasts
 | [20.21](https://open.spotify.com/show/38aOCkDPBAQ6RT0ufXIDjE)                                                                                  | Podcast                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
