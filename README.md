@@ -66,8 +66,9 @@ Sites que abrangeem vários cursos de várias linguaguens
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/)                                                                                              | Cursos                      | Sim         | PT-BR    |✅ |
 | [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos)                                                                        | Cursos                      | Sim         | PT-BR    |✅ |
 | [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |✅ |
- [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |✅ |
-| [Coursetro](https://coursetro.com/)   | Cursos      ||      |✅ 
+ [Codecademy](https://www.codecademy.com/)                                                                                                       | Cursos                      | Sim (Pago)  | EN       |✅ |
+| [Coursetro](https://coursetro.com/)                                                                                                            | Cursos                      |             |          |✅ |
+| [Iterasys](https://iterasys.com.br/pt/cursos/semana-do-teste-de-api)                                                                           | Cursos                      | Sim         | PT-BR    |✅ 
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
@@ -308,7 +309,8 @@ Agradecemos a todas essas pessoas maravilhosas 💗, que nos ajudam a manter ess
     <td align="center"><a href="http://angelobms.github.io"><img src="https://avatars1.githubusercontent.com/u/2703087?v=4" width="100px;" alt=""/><br /><sub><b>Angelo Brandão</b></sub></a><br /><a href="#content-angelobms" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kellykn96"><img src="https://avatars0.githubusercontent.com/u/71232703?v=4" width="100px;" alt=""/><br /><sub><b>kellykn96</b></sub></a><br /><a href="#content-kellykn96" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ivanajuliao"><img src="https://avatars2.githubusercontent.com/u/10784704?v=4" width="100px;" alt=""/><br /><sub><b>Ivana A. Julião</b></sub></a><br /><a href="#content-ivanajuliao" title="Content">🖋</a></td>
-  </tr>
+   <td align="center"><a href="https://github.com/mvalentimjr"><img src="https://avatars.githubusercontent.com/u/85965689?v=4" width="100px;" alt=""/><br /><sub><b>Marco Valentim Jr.</b></sub></a><br /><a href="#content-mvalentimjr" title="Content">🖋</a></td>
+</tr>
 </table>
 
 <!-- markdownlint-enable -->
