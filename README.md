@@ -83,6 +83,7 @@ Para colocar a mão na massa!! Sites para você colocar tudo que aprendeu na pr�
 | [Codewars](https://www.codewars.com/) | Desafios | Não | EN |
 | [CodinGame](https://www.codingame.com/) | Desafios | Não | EN |
 | [Codier](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       |
+| [Hackerrank](https://codier.io/)                                                                                                        | Desafios                    | Não         | EN       | ✅
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
