@@ -118,7 +118,10 @@ Recomendações de canais de youtube, podcasts e livros e muito mais!!
 | [Codin Night](https://www.youtube.com/channel/UCLoVnmvp0fYn-BCK7yKTxUQ)                                                                                               | Youtube                    | Não         | PT-BR       |
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)                                                                         | Youtube                     | Não         | PT-BR    |
 | [Collabplay](https://collabplay.online/br/)                                                                                                    | Cursos/Youtube  
-| [CS Dojo](https://www.youtube.com/c/CSDojo)                                                                                                    | Youtube   
+| [CS Dojo](https://www.youtube.com/c/CSDojo) 
+| [Devs JavaGirl BR](https://www.youtube.com/c/DevsJavaGirlBR)                                                                                   | Youtube | Não | PT-BR
+| [Feministech](https://www.youtube.com/c/feministech)                                                                                           | Youtube | Não | PT-BR
+| [Giuliana Bezerra](https://www.youtube.com/channel/UCxaSvucGLNutBeK1vMiF6Yw/featured)                                                          | Youtube | Não | PT-BR                              
 |Podcasts
 | [20.21](https://open.spotify.com/show/38aOCkDPBAQ6RT0ufXIDjE)                                                                                  | Podcast                     | Não         | PT-BR    |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)                                                                                               | Podcast                     | Não         | PT-BR    |
