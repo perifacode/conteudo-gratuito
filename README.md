@@ -68,6 +68,7 @@ Sites que abrangeem vários cursos de várias linguaguens
 | [CodeBook](https://fernandomachado90.github.io/codebook)                                                                                       | Cursos                      | Não         | PT-BR    |✅ |
  [Codecademy](https://www.codecademy.com/)                                                                                                      | Cursos                      | Sim (Pago)  | EN       |✅ |
 | [Coursetro](https://coursetro.com/)   | Cursos      ||      |✅ 
+| [Loiane Groner](https://loiane.training/)   | Cursos      | Sim |   PT-BR   |✅ 
 
 [ (voltar ao inicio) ](#pushpin-sumário) 
 
